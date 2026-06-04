@@ -16,6 +16,10 @@ In this task, you will use Microsoft 365 Copilot Chat in Teams to summarize comm
 
 2. Sign in using your Microsoft 365 credentials.
 
+    - **Email/Username**: **<inject key="AzureAdUserEmail"></inject>**
+
+    - **Password**: **<inject key="AzureAdUserPassword"></inject>**
+
 3. In the left navigation pane, select **Apps**.
 
 4. From the **Apps (1)** menu, select **Teams (2)**.
