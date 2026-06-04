@@ -16,23 +16,29 @@ In summary, use chat style Copilot for thinking and generating ideas; use **Edit
 
 This task uses the **Edit with Copilot** functionality.
 
-Perform the following steps to complete this task:
+## Lab Overview
 
-1.  Navigate back to your **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **PowerPoint** from the **Apps** menu.
+In this hands-on lab, you will use Microsoft 365 Copilot in PowerPoint to transform project planning and risk assessment documents into an executive-ready presentation. You will generate a slide deck that summarizes the Network Modernization and Security Upgrade Project, highlights key milestones and risks, and supports leadership discussions. The presentation will provide stakeholders with a clear view of project status, priorities, and expected outcomes.
+
+## Task 3: Use Copilot in PowerPoint to create an executive presentation
+
+In this task, you will use Microsoft 365 Copilot in PowerPoint to create an executive presentation using project framework and risk assessment documents. You will generate slides, add executive discussion topics, refine presentation content, and prepare a deck suitable for CIO and leadership reviews.
+
+1. Navigate back to your **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **PowerPoint** from the **Apps** menu.
 
     ![](../media/Module3/E1T3S1.png)
 
-2.  In **PowerPoint for the web** window, click on **+ Create a blank presentation**.
+2. In **PowerPoint for the web** window, click on **+ Create a blank presentation**.
 
     ![](../media/Module3/E1T3S2.png)
 
     >**NOTE:** If prompted for login, click on the already signed account.
 
-3.	 On the **Powerpoint** home page, click on **Copilot** which is in the bottom right corner.
+3. On the **Powerpoint** home page, click on **Copilot** which is in the bottom right corner.
 
      ![](../media/Module3/E1T3S3.png)
 
-4.	On the **Lets edit your document** Copilot Chat wizard, select the plus (+) sign in the prompt field and then select **Add work content** in the drop-down menu. Attach the Word files that you created in tasks 1 and 2. 
+4. On the **Lets edit your document** Copilot Chat wizard, select the plus (+) sign in the prompt field and then select **Add work content** in the drop-down menu. Attach the Word files that you created in tasks 1 and 2. 
 
     ![](../media/Module3/E1T3S4.png)
 
@@ -40,13 +46,13 @@ Perform the following steps to complete this task:
 
 5. Ask Copilot to create an executive presentation for the Network Modernization project. The presentation should summarize the key information from the two attached files. 
 
-6.	If Copilot asks a series of questions related to the presentation, select the answers that you want it to apply. Select the **Confirm** button once you finish answering the questions. It might also ask a second series of questions, one of which might be to select a slide template. Keep in mind that if you don’t select a template, Copilot simply presents text on plain white slides. Again, select the answers that you want it to apply, or select **Skip all** if you want Copilot to use its best judgment.
+6. If Copilot asks a series of questions related to the presentation, select the answers that you want it to apply. Select the **Confirm** button once you finish answering the questions. It might also ask a second series of questions, one of which might be to select a slide template. Keep in mind that if you don’t select a template, Copilot simply presents text on plain white slides. Again, select the answers that you want it to apply, or select **Skip all** if you want Copilot to use its best judgment.
 
-8.	Copilot in PowerPoint uses this information to generate a list of slides, which might take a few minutes.
+8. Copilot in PowerPoint uses this information to generate a list of slides, which might take a few minutes.
 
     ![](../media/Module3/E1T3S7.png)
 
-9.  After reviewing the slides, you decide to add three discussion slides. You want to add a discussion slide for each of the following topics (these are the top three executive and CIO concerns for infrastructure and modernization projects):
+9. After reviewing the slides, you decide to add three discussion slides. You want to add a discussion slide for each of the following topics (these are the top three executive and CIO concerns for infrastructure and modernization projects):
 
     - Operational and business continuity risk
     - Security, compliance, and data protection
@@ -56,7 +62,7 @@ Perform the following steps to complete this task:
 
 10. Enter a prompt that asks Copilot to add a topic section slide titled **Discussions: Risk, Security, and Value**. This topic should include three slides – one for **Operational and business continuity risk**, another for **Security, compliance, and data protection**, and a final slide for **Budget, value, and delivery confidence**. Again, it might take Copilot a minute or two to add these new slides. 
 
-11.  Scroll down to the end of the slide deck. The final four slides should include the newly added **Discussions: Risk, Security, and Value** topic and its three discussion slides. Review each of the slides that Copilot generated for this topic. While the discussion points that Copilot generated for each of the slides is OK, you decide that you want to include a different set of talking points. Ask Copilot to replace any existing content on the following slides with the following talking points (this might take a few minutes):
+11. Scroll down to the end of the slide deck. The final four slides should include the newly added **Discussions: Risk, Security, and Value** topic and its three discussion slides. Review each of the slides that Copilot generated for this topic. While the discussion points that Copilot generated for each of the slides is OK, you decide that you want to include a different set of talking points. Ask Copilot to replace any existing content on the following slides with the following talking points (this might take a few minutes):
 
         - **Operational and business continuity risk**
             - Do you anticipate downtime or service interruptions?
@@ -73,9 +79,13 @@ Perform the following steps to complete this task:
             - Delays and missed milestones
             - Clear, measurable outcomes and ROI
 
-12.  Review the three slides to verify that Copilot made the changes as requested. Also review any of Copilot’s suggestions at the end of the chat. Feel free to ask it to make any of the suggested changes that are of interest to you. 
+12. Review the three slides to verify that Copilot made the changes as requested. Also review any of Copilot’s suggestions at the end of the chat. Feel free to ask it to make any of the suggested changes that are of interest to you. 
 
 13. Once you're satisfied with the PowerPoint file, save it to your OneDrive account.
+
+## Summary
+
+In this task, you used Microsoft 365 Copilot in PowerPoint to create an executive presentation for the Network Modernization and Security Upgrade Project. You generated a slide deck from project planning and risk analysis documents, added discussion slides focused on business continuity, security, compliance, and project value, and refined the content to align with executive priorities. The completed presentation provides leadership with a concise overview of project progress, risks, and key decision points.
 
 ## You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
 

@@ -8,7 +8,13 @@ You’re the lead member of Boulder Innovation’s IT team responsible for imple
 
 To complete this task, you plan to use Microsoft 365 Copilot Chat to gather and synthesize information from multiple sources across their organization. In this scenario, Copilot Chat acts as a bridge between fragmented data—emails, Teams discussions, and project documents—allowing your IT team to quickly generate a unified view of project requirements and stakeholder expectations.
 
-> **NOTE**:  Since this course is based on a bring-your-own-subscription (BYOS) model, it doesn’t use a simulated lab/demo environment for Boulder Innovations. As such, there’s no Microsoft 365 system to access. To address this situation, this lab uses simulated emails, which are presented in Word (.docx) files. They include sender, recipient, subject, date, and message content. Even though this task uses Word documents to emulate email threads, Copilot Chat can read and summarize the content just like it would with real emails. Similarly, the Teams chat messages are provided in a text (.txt) file to simulate real project discussions in a simple, accessible format. In a real corporate environment, these conversations would be stored in Teams, but for this training exercise, the text file allows all learners to upload and use the content with Copilot Chat without needing access to a live Teams channel. The format preserves the sender, timestamp, and message content, so you can practice summarizing and extracting key information exactly as you would with actual chat messages.  
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot Chat to gather and synthesize information from multiple project-related sources to create a structured project framework. You will analyze documents, emails, and Teams conversations, identify key stakeholders and requirements, and generate a leadership-ready summary. You will also enhance the resulting document with visuals and strategic Q&A content to support executive planning and decision-making.
+
+## Task 1: Use Copilot Chat to define the project framework
+
+In this task, you will use Microsoft 365 Copilot Chat to consolidate information from multiple project documents related to Boulder Innovation's Network Modernization and Security Upgrade Project. You will generate a project framework, export the results to Word, enrich the document with visuals, and create executive-focused Q&A content.
 
 1. On the **Microsoft 365** home page, over the Microsoft 365 Copilot Chat verify the **Work** tab is selected. 
 
@@ -83,6 +89,10 @@ To complete this task, you plan to use Microsoft 365 Copilot Chat to gather and 
    ![](../media/Module3/E1T1S17.png)
 
 1. You plan to use this document in Task 3 as the basis for an executive presentation, so make note of the file name in your OneDrive.
+
+## Summary
+
+In this task, you used Microsoft 365 Copilot Chat to analyze project documents, emails, meeting notes, and Teams discussions related to the Network Modernization and Security Upgrade Project. You created a structured project framework that outlined objectives, deliverables, stakeholders, milestones, and risks, and then exported the results to Word. You enhanced the document with visual content and a leadership-focused Q&A section, creating a comprehensive project briefing that can be used to support executive reviews and future planning activities.
 
 ## You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
 

@@ -8,6 +8,14 @@ Think of this exercise as basically an AI-assisted sticky-note exercise. Have yo
 
 Well, that's really what this exercise is - just a virtualized sticky-note exercise, all with the help of Copilot in Whiteboard. However, instead of having a room full of people brainstorming ideas and writing them on sticky notes, Copilot takes their place. Watch as Copilot generates a list of ideas, writes each one on a graphical sticky note, and attaches each note to your Whiteboard canvas. As the meeting facilitator, you can then edit and delete any of the notes. And then with your final list of notes in place, Copilot can organize them into various categories. Doing so aids future documentation and helps ensure that none of the notes are overlooked when creating the project plan.
 
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot in Whiteboard to facilitate a collaborative risk identification and analysis session for Boulder Innovation's Network Modernization and Security Upgrade Project. You will generate, organize, and categorize project risks using AI-assisted brainstorming techniques. The resulting risk assessment will help the project team identify potential challenges and support future mitigation planning.
+
+## Task 2: Use Copilot in Whiteboard to identify potential risks
+
+In this task, you will use Microsoft 365 Copilot in Whiteboard to generate project risks related to network modernization, cybersecurity, hybrid work, and operational continuity. You will organize the risks into categories, review the AI-generated analysis, and create a summarized risk assessment document for future project planning activities.
+
 1. In the **Microsoft 365 Copilot Chat** window, select the **Apps (1)** icon in the navigation pane. In the **Apps** menu that appears, select **More apps (2)**. 
 
    ![](../media/Module3/E1T2S1.png)
@@ -32,7 +40,7 @@ Well, that's really what this exercise is - just a virtualized sticky-note exerc
 
 4.  Select the **Copilot** icon next to the menu bar at the bottom of the page and then select **Suggest** from the menu that appears.
 
-   ![](../media/Module3/E1T2S5.png)
+    ![](../media/Module3/E1T2S5.png)
 
 5.  In the **Suggest content with Copilot** window, ask **Copilot** within Whiteboard to suggest a list of possible risks to upgrading a company’s corporate network infrastructure to improve performance, enhance cybersecurity, and support hybrid work.
 
@@ -96,6 +104,10 @@ Generate at least **18 risks**, if not more, and then insert them on to your Whi
 22.  You now want to save this summarization to a Word document so that you can include it as a resource in the PowerPoint presentation you create in the next task. In the **Summary** window that Copilot creates in your Whiteboard, highlight the text and then copy it to your clipboard **(Ctrl+C)**. 
 
 1. Open a blank **Word** document from M365 portal apps section, paste in the Summary notes, and then save the file to your **OneDrive**. When you’re done, return to your Whiteboard.
+
+## Summary
+
+In this task, you used Microsoft 365 Copilot in Whiteboard to identify and analyze potential risks associated with the Network Modernization and Security Upgrade Project. You generated and refined risk ideas, added additional downtime-related risks, categorized the risks into logical groups, and reviewed an AI-generated summary of the brainstorming session. The final risk assessment provides valuable input for project planning, risk mitigation strategies, and executive reporting.
 
 ## You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
 
