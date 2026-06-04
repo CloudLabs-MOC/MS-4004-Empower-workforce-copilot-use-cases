@@ -26,11 +26,13 @@ To accomplish this goal, you plan to use Copilot in OneNote to generate a reusab
 
       ![](../media/module-9/E1T3S3-0306.png) 
 
-1. Within the **Call Templates** section, you should add a new page. You don’t need to select **+Add page**, since an **Untitled Page** was already created for you by default when you added the **Call Templates** section. If you did select **+Add page** by accident, you now have two untitled pages. In this case, right-click on one of the untitled pages and select **Delete Page** from the drop-down menu. At the top of the page, OneNote displays a line followed by the current date and time. Select into the space that appears above the line. This field is the heading for the page. In this heading field, enter **Customer Service Call Summary Template.**
+1. In the **Call Templates** section, verify that there is only one Untitled Page. OneNote automatically creates an Untitled Page when a new section is added, so you can use that page. If you accidentally selected + Add page and created an additional untitled page, right-click the extra page and select Delete Page.
 
-   ![](../media/module-9/E1T3S4-0306.png) 
+1. At the top of the page, select the area above the horizontal line that appears above the current date and time. In the page title field, enter: **Customer Service Call Summary Template**
+      
+      ![](../media/module-9/E1T3S4-0306.png) 
 
-   > **Note:** If you try to copy and paste this name into the heading field, OneNote pastes it into the body of the page, which you don’t want. You must manually type this name in the heading field.
+      > **Note:** If you try to copy and paste this name into the heading field, OneNote pastes it into the body of the page, which you don’t want. You must manually type this name in the heading field.
 
 1. On the ribbon at the top of the page, select **Copilot** (1).
 
