@@ -1,6 +1,6 @@
 # Exercise 1: Synthesize communication insights across Microsoft Team
 
-## Task 4: Use Copilot in Teams to Prepare an Executive Summary
+## Task 6: Use Copilot in Teams to Prepare an Executive Summary
 
 In this task, you will use Microsoft 365 Copilot in Teams to transform project analysis into executive-ready communications. After comparing information across Project Nexus and Project Phoenix, you will ask Copilot to create an executive summary, reformat the content for presentation slides, and generate a Teams post for project stakeholders.
 
@@ -12,7 +12,7 @@ As an executive overseeing multiple initiatives, you need to communicate project
 
 Using insights gathered from **Project Nexus** and **Project Phoenix**, you will use Copilot to create audience-specific communications.
 
-## Task 4.1: Generate an Executive Summary
+## Task 6.1: Generate an Executive Summary
 
 ### Steps
 
@@ -48,7 +48,7 @@ Copilot generates a concise executive summary that highlights the current state 
 
 
 
-## Task 4.2: Create Slide-Ready Content
+## Task 6.2: Create Slide-Ready Content
 
 ### Steps
 
@@ -70,7 +70,7 @@ Copilot converts the executive summary into a presentation-friendly format suita
 
 
 
-## Task 4.3: Draft a Teams Announcement
+## Task 6.3: Draft a Teams Announcement
 
 ### Steps
 
@@ -97,9 +97,7 @@ Copilot converts the executive summary into a presentation-friendly format suita
 
 Copilot generates a concise Teams post that communicates project updates in a format appropriate for project teams and stakeholders.
 
-
-
-## Task 4.4: Explore Additional Content Transformations
+## Task 6.4: Explore Additional Content Transformations
 
 ### Steps
 
@@ -134,8 +132,6 @@ Generate a status update suitable for a quarterly business review.
 ### Expected Outcome
 
 Copilot transforms project insights into various communication formats tailored to different audiences and business needs.
-
-
 
 ## Knowledge Check
 
