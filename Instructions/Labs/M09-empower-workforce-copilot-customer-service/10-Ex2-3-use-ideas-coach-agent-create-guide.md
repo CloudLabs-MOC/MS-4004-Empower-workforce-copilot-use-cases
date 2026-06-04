@@ -84,13 +84,15 @@ Perform the following steps to complete this task:
 1. You now have a significant amount of information and want to determine how the troubleshooting process should be visually represented. Ask Idea Coach to recommend visual approaches that would help dealers easily navigate the process.
     
     ```
-    What would be the most effective way to visually represent this troubleshooting process? Suggest flowcharts, decision trees, swimlane diagrams, or other visual approaches that would be easy for dealers to follow.
+    What would be the most effective way to visually represent this troubleshooting process? Suggest flowcharts, decision trees, and swimlane diagrams,
+    or other visual approaches that would be easy for dealers to follow.
     ```
 
 1. Review the visual recommendations. To make the guide easier to use, ask Idea Coach for suggestions on how visual cues such as colors, icons, and labels could improve readability and usability.
     
     ```
-    How could the troubleshooting process be made more intuitive and visually engaging? Suggest icons, labels, color coding, and other design elements that would improve usability.
+    How could the troubleshooting process be made more intuitive and visually engaging? Suggest icons, labels, and color coding,
+    and other design elements that would improve usability.
     ```
 
 1. At this point, you have enough ideas to begin organizing the guide. Ask Idea Coach to recommend a logical structure and table of contents for a dealer-facing troubleshooting guide based on all the ideas generated so far.
