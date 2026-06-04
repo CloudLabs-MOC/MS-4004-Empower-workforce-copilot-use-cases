@@ -25,17 +25,17 @@ When Copilot Chat opens in **Work** mode, the response mode selector isn’t sho
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the [**TailwindTraders_SupportCaseSummaries.docx**](https://go.microsoft.com/fwlink/?linkid=2347619) file. Store the file in your OneDrive.
+1. Select the following link to download the [**TailwindTraders_SupportCaseSummaries.docx**](https://go.microsoft.com/fwlink/?linkid=2347619) file. Store the file in your OneDrive.
 
     > Note: To copy the link, right-click on the link and select **Copy link address**, then paste the link into a new browser tab inside your Lab VM.
 
     > Note: If the links do not download automatically, it will open an Excel file, and click on the Download button in Word online to download the file.
 
-2. In your Microsoft Edge browser, navigate to the Microsoft 365 home page and select **New chat**.
+1. In your Microsoft Edge browser, navigate to the Microsoft 365 home page and select **New chat**.
 
-3. Since this task involves reviewing a file uploaded to OneDrive and generating insights from that internal document, select the **Work** option. The **Web** option doesn’t apply here, since it searches external sources like public websites and blogs. In the Copilot Chat window, attach the **TailwindTraders_SupportCaseSummaries** file in the prompt field.
+1. Since this task involves reviewing a file uploaded to OneDrive and generating insights from that internal document, select the **Work** option. The **Web** option doesn’t apply here, since it searches external sources like public websites and blogs. In the Copilot Chat window, attach the **TailwindTraders_SupportCaseSummaries** file in the prompt field.
 
-4.  Now that you've attached the support case summary document, ask Copilot Chat to analyze the information and prepare an executive-level summary email. The goal is to help leadership quickly understand the most important support trends, customer concerns, escalation patterns, and recommended actions without reviewing individual cases.
+1. Now that you've attached the support case summary document, ask Copilot Chat to analyze the information and prepare an executive-level summary email. The goal is to help leadership quickly understand the most important support trends, customer concerns, escalation patterns, and recommended actions without reviewing individual cases.
 
     ```
     Review the support case summaries in the attached file and draft an email for Tailwind Traders' executive leadership team. Include:
@@ -51,19 +51,19 @@ Perform the following steps to complete this task:
 
     ![](../media/module-9/E2T4S4-0306.png)    
 
-5.  Copilot will draft an email in the chat. Review the email. Notice an **Edit in Outlook** button in the end of the response, click on it, and it will open the draft in Outlook mail.
+1. Copilot will draft an email in the chat. Review the email. Notice an **Edit in Outlook** button in the end of the response, click on it, and it will open the draft in Outlook mail.
 
     ![](../media/module-9/E2T4S5-0306.png)  
 
-6.  At this point, you should now be in **Outlook on the web**. It should be displaying the email that Copilot Chat generated. 
+1. At this point, you should now be in **Outlook on the web**. It should be displaying the email that Copilot Chat generated. 
 
     > **Note:** In Copilot Chat, created the email and opened it in Outlook, Copilot doesn’t open the email in draft mode. Instead, it displays its response directly within the body of the email. After that, you must highlight the specific text you want Copilot to modify, whether that’s a sentence, a paragraph, or the entire email.
 
-7.  After reviewing the email, you feel the first paragraph could be improved upon. To do so, highlight the first paragraph of the email (drag your cursor so that the entire opening paragraph is highlighted). Notice the **Open Copilot** (pencil) icon that appears. Select the icon to open the Copilot window.
+1. After reviewing the email, you feel the first paragraph could be improved upon. To do so, highlight the first paragraph of the email (drag your cursor so that the entire opening paragraph is highlighted). Notice the **Open Copilot** (pencil) icon that appears. Select the icon to open the Copilot window.
 
     ![](../media/module-9/E2T4S7-0306.png) 
 
-8.  The Copilot window includes a prompt field and a menu of editing options. Since you highlighted the opening paragraph, select the **Auto Rewrite** option. Notice how Copilot doesn’t insert the revision directly into the email. Instead, it displays a Copilot refinement window containing a draft of the revised content. Also, notice the menu options that now appear below the refinement window. 
+1. The Copilot window includes a prompt field and a menu of editing options. Since you highlighted the opening paragraph, select the **Auto Rewrite** option. Notice how Copilot doesn’t insert the revision directly into the email. Instead, it displays a Copilot refinement window containing a draft of the revised content. Also, notice the menu options that now appear below the refinement window. 
 
     ![](../media/module-9/E2T4S8-0306.png)     
 
@@ -76,26 +76,26 @@ Perform the following steps to complete this task:
 
     ![](../media/module-9/E2T4S8a-0306.png)   
 
-9.  Now let’s add a new section to the end of the email, after the **Recommended Actions** section. In the email, select the blank line that appears after the **Recommended Actions** section, since this location is where you want the new section to appear. Then select the **Open Copilot** icon that appears.
+1. Now let’s add a new section to the end of the email, after the **Recommended Actions** section. In the email, select the blank line that appears after the **Recommended Actions** section, since this location is where you want the new section to appear. Then select the **Open Copilot** icon that appears.
 
     ![](../media/module-9/E2T4S9a-0306.png) 
 
-10.  In the prompt field, ask Copilot to add a section titled **Risks and Dependencies**. This section should include a short paragraph calling out what items could negatively affect support performance or customer satisfaction if they aren't addressed.
+1. In the prompt field, ask Copilot to add a section titled **Risks and Dependencies**. This section should include a short paragraph calling out what items could negatively affect support performance or customer satisfaction if they aren't addressed.
 
-        ```
-        Add a section titled "Risks and Dependencies" that highlights factors that could negatively impact customer satisfaction, support performance, resolution times, or dealer relationships if not addressed. Keep the content concise and executive-focused.
-        ```
-        ![](../media/module-9/E2T4S10-0306.png)
+   ```
+   Add a section titled "Risks and Dependencies" that highlights factors that could negatively impact customer satisfaction, support performance, resolution times, or dealer relationships if not addressed. Keep the content concise and executive-focused.
+   ```
+   ![](../media/module-9/E2T4S10-0306.png)
 
-11. Review what happened. Copilot generated the new section and displayed it within the body of the email, starting at the location that you placed your cursor. You’re satisfied with the new content, so in the Copilot window, select **Replace**. 
+1. Review what happened. Copilot generated the new section and displayed it within the body of the email, starting at the location that you placed your cursor. You’re satisfied with the new content, so in the Copilot window, select **Replace**. 
 
-12.  Finally, let’s see what happens when you ask it to change the tone of the email. Select in the body of the email to highlight the entire email, then select the **Open Copilot** icon. In the Copilot window, one of the menu choices is **Change Tone**, which provides four options: **Direct**, **Casual**, **Formal**, and **Like a poem**. In this case, instead of selecting one of these options, you want to submit a prompt request asking for something different. In the prompt field, ask Copilot to make the tone of the email more executive-friendly.
+1. Finally, let’s see what happens when you ask it to change the tone of the email. Select in the body of the email to highlight the entire email, then select the **Open Copilot** icon. In the Copilot window, one of the menu choices is **Change Tone**, which provides four options: **Direct**, **Casual**, **Formal**, and **Like a poem**. In this case, instead of selecting one of these options, you want to submit a prompt request asking for something different. In the prompt field, ask Copilot to make the tone of the email more executive-friendly.
 
-        ![](../media/module-9/E2T4S12-0306.png)
+   ![](../media/module-9/E2T4S12-0306.png)
 
-14.  Scroll through the contents of the Copilot refinement window to see how Copilot rewrote the email, giving it a more executive-friendly tone. If you don’t like this version, then select **Discard** in the Copilot window. For this email, select **Replace** to accept the changes.
+1. Scroll through the contents of the Copilot refinement window to see how Copilot rewrote the email, giving it a more executive-friendly tone. If you don’t like this version, then select **Discard** in the Copilot window. For this email, select **Replace** to accept the changes.
 
-15. Feel free to play around with the various Copilot options when you select the **Open Copilot** icon.
+1. Feel free to play around with the various Copilot options when you select the **Open Copilot** icon.
 
 ## Summary
 
