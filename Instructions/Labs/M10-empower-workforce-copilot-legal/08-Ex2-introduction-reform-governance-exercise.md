@@ -1,17 +1,7 @@
----
-lab:
-  title: 'Exercise 2: Reform corporate governance and compliance using Microsoft 365 Copilot'
-  description: In this exercise, you take on the role of Corporate Counsel for Lamna Healthcare Company, a mid‑sized medical device manufacturer known for its innovative remote‑monitoring devices and digital‑health platforms. Lamna operates in a heavily regulated environment, one where clinical safety, data security, and traceability are non‑negotiable and where even small governance gaps can trigger significant regulatory scrutiny.
-  duration: 12 minutes
-  level: 300
-  islab: true
-  primarytopics:
-    - Microsoft 365
-    - Microsoft 365 Copilot
----
-
 # Exercise 2: Reform corporate governance and compliance using Microsoft 365 Copilot
----
+
+## Overview
+
 When internal audits reveal compliance weaknesses, outdated policies, or inconsistent governance practices, organizations must respond quickly and clearly. Microsoft 365 Copilot provides legal teams with an integrated set of tools to modernize policies, assess risk, coordinate with departments, and build stronger compliance cultures. Instead of drafting policies from scratch or manually assembling risk data, Copilot helps legal professionals generate structure, source insights, and maintain alignment across teams. For example:
 
 - Copilot in Loop enables cross‑department collaboration on policy drafts, helping legal, HR, IT, and operational teams contribute to a single, always‑current document.
@@ -24,10 +14,9 @@ By weaving AI assistance throughout the policy‑writing, risk‑assessment, and
 
 This exercise demonstrates how Microsoft 365 Copilot supports organizations in strengthening governance, refining internal policies, visualizing compliance risks, and creating the communication assets needed to ensure ongoing regulatory readiness.
 
-> [!TIP]
-> The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
+> **TIP:** The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
 
-### Scenario
+## Scenario
 
 In this exercise, you take on the role of Corporate Counsel for Lamna Healthcare Company, a mid‑sized medical device manufacturer known for its innovative remote‑monitoring devices and digital‑health platforms. Lamna operates in a heavily regulated environment, one where clinical safety, data security, and traceability are non‑negotiable and where even small governance gaps can trigger significant regulatory scrutiny.
 
@@ -43,3 +32,15 @@ Last week, Lamna’s Internal Audit Committee delivered a comprehensive, highly 
 
 In response, Lamna’s Board mandated a rapid, organization-wide governance overhaul. The Legal department—known internally for its structured frameworks and clear communication—is asked to lead a cross‑functional reform initiative designed to reset the company’s governance foundation.
 
+## Lab Objectives
+
+In this exercise, you will complete the following tasks:
+
+  - **Exercise 2 - Task 1**: Use Copilot in Loop to collaborate on updating a company policy
+
+  - **Exercise 2 - Task 2**: Use Copilot in Excel to visualize cross department risk areas
+  
+  - **Exercise 2 - Task 3**: Use Copilot in PowerPoint to create a legal presentation
+  
+  - **Exercise 2 - Task 4**: Use Copilot in OneNote to create a compliance notebook
+  
