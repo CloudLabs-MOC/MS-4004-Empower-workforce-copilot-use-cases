@@ -15,25 +15,25 @@ When **Edit with Copilot** is enabled, Copilot acts as an in-document author and
 
 When **Edit with Copilot** is disabled, Copilot behaves more like Copilot Chat. It can still research topics, summarize information, and draft text, but it doesn’t automatically modify the document. Instead, responses appear in the Copilot pane, and you decide what—if anything—gets added to the document. This approach is useful when you want Copilot to act as a research assistant or idea generator while maintaining full control over what content is inserted.
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **App launcher (1)** in the navigation pane, and then select **Word (2)** from the **Apps** menu.
+1. In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **App launcher (1)** in the navigation pane, and then select **Word (2)** from the **Apps** menu.
 
-    ![](../media/Module10/E1T2S1.png)
+     ![](../media/Module10/E1T2S1.png)
 
-1.  In **Word for the web**, Click on **+ Create blank document** to create a new Word blank document.
+1. In **Word for the web**, Click on **+ Create blank document** to create a new Word blank document.
 
-    ![](../media/Module10/E1T2S2.png)
+     ![](../media/Module10/E1T2S2.png)
 
-    > **NOTE:** IF it prompts for sigin use the same credentials and signin.
+     > **NOTE:** IF it prompts for sigin use the same credentials and signin.
 
-1.   On the **Word** page, click inside the **Describe what you'd like to draft with Copilot** prompt box located below the ribbon.
+1. On the **Word** page, click inside the **Describe what you'd like to draft with Copilot** prompt box located below the ribbon.
 
       ![](../media/Module10/E1T2S3.png)
 
-1.  In the prompt field that appears in the Copilot pane, click on **+ Add Content(1)** and then search **(2)** and select **(3)** the **Boulder-VanArsdel Supplier Agreement** file that is locatedonedrive location.
+1. In the prompt field that appears in the Copilot pane, click on **+ Add Content(1)** and then search **(2)** and select **(3)** the **Boulder-VanArsdel Supplier Agreement** file that is locatedonedrive location.
 
     ![](../media/Module10/E1T2S4.png)
 
-6.  In the Copilot pane, ask Copilot to create an executive summary document based on the attached document and review the results then click on **Done**.
+6. In the Copilot pane, ask Copilot to create an executive summary document based on the attached document and review the results then click on **Done**.
 
     ```
     Create an executive summary document based on the attached `Boulder-VanArsdel Supplier Agreement`. The summary should include the following sections: term/renewal, termination, payment terms, liability/indemnity, data handling (privacy, retention, breach notification), governing law, and dispute resolution. The summary should also include a “Red Flags & Deviations” section in red font. This section should highlight any unusual clauses or red flags in the Indemnity and Termination sections. The final section in the document should be a short “Key Risks & Deviations” section. The document should be titled “VanArsdel Supplier Agreement – Executive Summary.”

@@ -14,7 +14,7 @@ Your two main objectives are:
 
 In Copilot Chat on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in‑depth response style depending on the task.
 
-When Copilot Chat opens in **Work** mode, the response mode selector isn’t shown. In **Work** mode, Copilot is optimized for secure, work‑context queries, so it automatically manages response depth for you. When you switch to **Web** mode, the response mode selector appears, allowing you to choose between faster responses or deeper reasoning. Once the selector is enabled, it remains visible as you switch between **Work** and **Web** modes.  
+When Copilot Chat opens in **Work** mode, the response mode selector isn’t shown. In **Work** mode, Copilot is optimized for secure, work‑context queries, so it automatically manages response depth for you. When you switch to **Web** mode, the response mode selector appears, allowing you to choose between faster responses or deeper reasoning. Once the selector is enabled, it remains visible as you switch between **Work** and **Web** modes. 
 <br/>If you’ve used Copilot in Excel, you know that it also includes a response control selector. However, its options are different from the Chat selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might look similar, they control different aspects of Copilot and aren't the same setting.
 
 
@@ -28,7 +28,7 @@ When Copilot Chat opens in **Work** mode, the response mode selector isn’t sho
 
     ![](../media/Module3/E2T1S1.png)
 
-1.  Ask **Copilot** to outline the key provisions of the CCPA and CPRA acts.
+1. Ask **Copilot** to outline the key provisions of the CCPA and CPRA acts.
    
     ```
     I'm an Associate Counsel at Boulder Innovations, a U.S.-based toy manufacturer and distributor. Please outline the key provisions of the California Consumer Privacy Act (CCPA) and the California Privacy Rights Act (CPRA). This material is intended for the Legal department and should include relevant regulatory definitions, applicability thresholds, business obligations, enforcement mechanisms, and potential risks. The summary should focus on how these laws impact Boulder Innovation’s ability to collect, store, and process personal information from U.S residents.
@@ -57,9 +57,9 @@ When Copilot Chat opens in **Work** mode, the response mode selector isn’t sho
     ```
     ![](../media/Module10/E1T1S8.png)
 
-1.  In our testing, Copilot sometimes displayed the comparison table in the Chat page, and other times it created a separate document containing the table (for which it provided a link to the document). If it provides a link to a document, select the link and open the downloaded document to verify it looks OK.
+1. In our testing, Copilot sometimes displayed the comparison table in the Chat page, and other times it created a separate document containing the table (for which it provided a link to the document). If it provides a link to a document, select the link and open the downloaded document to verify it looks OK.
 
-1.  At this point, you feel the Summary is complete, so you want to save it for distribution to members of the Legal department’s project team assigned to this initiative. Since Copilot Chat responded to each of your prompts with separate responses that weren’t combined into one document, you want it to do so now. give the following **Copilot Prompt** to combine all the information that it generated in its previous responses into one document that you can download. Make sure you include the comparison table.
+1. At this point, you feel the Summary is complete, so you want to save it for distribution to members of the Legal department’s project team assigned to this initiative. Since Copilot Chat responded to each of your prompts with separate responses that weren’t combined into one document, you want it to do so now. give the following **Copilot Prompt** to combine all the information that it generated in its previous responses into one document that you can download. Make sure you include the comparison table.
 
     ```
     Combine all the information that is generated in the previous responses into one document so that I can download. Make sure to include the comparison table.
@@ -67,17 +67,16 @@ When Copilot Chat opens in **Work** mode, the response mode selector isn’t sho
 
     ![](../media/Module10/E1T1S10.png)
 
+1. Copilot Chat should generate a single document that combines all the information from its prior responses. You’re now ready to address the second requirement for this project.
 
-1.  Copilot Chat should generate a single document that combines all the information from its prior responses. You’re now ready to address the second requirement for this project.
-
-1.  You now want Copilot to draft a legal brief tailored to department heads across IT, Marketing, and Product Development. This document should outline the next steps each team must take to help the company achieve compliance. To create this legal brief, give the following **Copilot Prompt** to create a legal brief. 
+1. You now want Copilot to draft a legal brief tailored to department heads across IT, Marketing, and Product Development. This document should outline the next steps each team must take to help the company achieve compliance. To create this legal brief, give the following **Copilot Prompt** to create a legal brief. 
 
     ```
     Create a legal brief that outlines the next steps that the IT, Marketing, and Product Development teams at Boulder Innovations must take to help the company comply with the CCPA and CPRA. This legal brief should be tailored to the heads of each of these three departments. Ask Copilot to use plain, accessible language and avoid legal jargon so that nonlegal stakeholders can easily understand their responsibilities and focus on practical actions, recommended timelines, and how each department's work supports overall compliance.
     ```
     ![](../media/Module10/E1T1S12.png)
 
-1.  Review the legal brief that Copilot generated. While this brief provides a summarization of the next steps, you feel it could be more effective with two updates. Submit a single prompt that includes the following requests.
+1. Review the legal brief that Copilot generated. While this brief provides a summarization of the next steps, you feel it could be more effective with two updates. Submit a single prompt that includes the following requests.
 
       ```
       Apply both these requests to the legal brief and make it a downloadable document.
@@ -104,7 +103,6 @@ When Copilot Chat opens in **Work** mode, the response mode selector isn’t sho
     >**NOTE:** If the downloadable link is not getting verified due to an internal error and shows to **Continue anyway** click on it.
 
       ![](../media/Module10/E1T1S15N.png)
-
 
 1. Now lets ask Copilot to create a legal brief strictly for Boulder’s IT department and provide actionable recommendations to ensure technical compliance with the regulations.
 
