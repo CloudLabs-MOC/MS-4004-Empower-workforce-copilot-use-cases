@@ -1,6 +1,6 @@
 # Exercise 1: Synthesize communication insights across Microsoft Team
 
-## Task 1: Use Copilot in a Teams Chat Session to Summarize a Project Discussion
+## Task 4: Use Copilot in a Teams Chat Session to Summarize a Project Discussion
 
 In this task, you will use Microsoft 365 Copilot within a Teams chat conversation to quickly understand project discussions and identify key information without manually reviewing lengthy chat histories. You will use Copilot's built-in starter prompts to summarize discussions, identify decisions and action items, and analyze contributions from specific participants. You will also explore Copilot's citation capabilities, which allow you to navigate directly to the source messages within the chat.
 
