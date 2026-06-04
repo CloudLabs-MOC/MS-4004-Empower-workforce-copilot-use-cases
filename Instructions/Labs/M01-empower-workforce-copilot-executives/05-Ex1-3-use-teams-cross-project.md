@@ -1,6 +1,6 @@
 # Exercise 1: Synthesize communication insights across Microsoft Team
 
-## Task 1: Use Copilot Chat in Teams to Collect Cross-Project Insights
+## Task 5: Use Copilot Chat in Teams to Collect Cross-Project Insights
 
 In this task, you will use Microsoft 365 Copilot Chat in Teams to compare information across multiple projects. Copilot can analyze communications from different chats, summarize progress, identify risks and dependencies, and help executives prepare for leadership reviews and cross-team coordination activities.
 
@@ -12,7 +12,7 @@ As an executive, you are responsible for overseeing multiple strategic initiativ
 
 For this exercise, you will use the preconfigured **Project Nexus** and **Project Phoenix** group chats.
 
-## Task 1.1: Compare Multiple Projects
+## Task 5.1: Compare Multiple Projects
 
 ### Steps
 
@@ -63,7 +63,7 @@ Summarize the key achievements across Project Nexus and Project Phoenix.
 
 Copilot generates a consolidated comparison of Project Nexus and Project Phoenix, highlighting project progress, milestones, decisions, risks, and dependencies.
 
-## Task 1.2: Generate a Side-by-Side Comparison Table
+## Task 5.2: Generate a Side-by-Side Comparison Table
 
 ### Steps
 
@@ -83,7 +83,7 @@ Copilot generates a consolidated comparison of Project Nexus and Project Phoenix
 
 Copilot generates a structured comparison table that can be used for executive briefings, project reviews, and cross-team coordination meetings.
 
-## Task 3.3: Draft a Project Status Email
+## Task 5.3: Draft a Project Status Email
 
 ### Steps
 
