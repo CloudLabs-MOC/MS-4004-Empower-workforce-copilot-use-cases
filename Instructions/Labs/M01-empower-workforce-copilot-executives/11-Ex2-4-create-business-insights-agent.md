@@ -1,4 +1,4 @@
-# Exercise 2: Drive business outcomes using Microsoft 365 Copilot
+<img width="986" height="175" alt="image" src="https://github.com/user-attachments/assets/d6fd575f-56b1-48d9-b170-110e10852eb8" /># Exercise 2: Drive business outcomes using Microsoft 365 Copilot
 
 ## Task 4: Create a Northwind Business Insights Agent
 
@@ -22,6 +22,8 @@ Using Microsoft 365 Copilot Agent Builder, you will create and configure a **Nor
 
 2. In the navigation pane, select **New agent**.
 
+   ![](../media/m01-19.png)
+   
 3. In the prompt box, enter the following prompt:
 
    ```text
@@ -75,7 +77,8 @@ The agent contains a generated instruction set aligned to the business scenario 
    - Never invent data or rely on sources outside the defined knowledge source documents
    - Stay within the Northwind Traders business context
    ```
-
+   ![](../media/m01-20.png)
+   
 3. Submit the prompt.
 
 4. Review Copilot's response.
