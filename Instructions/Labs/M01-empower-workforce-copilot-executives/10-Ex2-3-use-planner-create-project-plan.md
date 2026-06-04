@@ -60,14 +60,17 @@ A new Premium Planner plan is created and ready for AI-assisted project planning
 
 1. In the **New organic snack line** plan, select the **Chat with your Copilot** icon located in the lower-right corner.
 
-2. In the AI Project Manager pane, select **Create**.
+2. In the Copilot pane, select **Create**.
 
 3. After the text **Build a plan for** appears in the prompt field, enter the following prompt:
 
    ```text
    Northwind Traders' new organic snack line. The plan should include tasks for Marketing, Production, Logistics, and Sales departments. Assign deadlines, owners, and dependencies.
    ```
+   ![](../media/m01-17.png)
 
+   ![](../media/m01-18.png)
+   
 4. Submit the prompt.
 
 5. Review the generated project plan.
