@@ -50,6 +50,7 @@ Using Copilot, you will gather project insights, identify risks and action items
 
 > **Note:** For this lab, pre-created Teams group chats named **Project Nexus** and **Project Phoenix** are available and contain project-related discussions that will be used throughout the exercises.
 
+If you do not see the Project Nexus or Project Phoenix chats in Microsoft Teams, please contact cloudlabs-support@spektrasystems.com for assistance.
 
 ## Learning Objectives
 
