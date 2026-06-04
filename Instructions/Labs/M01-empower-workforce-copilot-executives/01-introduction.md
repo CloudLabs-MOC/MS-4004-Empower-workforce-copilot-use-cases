@@ -100,7 +100,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 1. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
 
-1. In the Microsoft 365 portal, click on the **App launcher  (1)**button and select **OneDrive (2)**.
+1. In the Microsoft 365 portal, click on the **App launcher  (1)** button and select **OneDrive (2)**.
 
     ![](../media/module-4/prereq-2.png)
 
@@ -108,7 +108,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
     ![](../media/module-4/prereq-3.png)
 
-1. In **File Explorer**, navigate to **`C:\AllFiles`**location and select all the files from the ResourceFiles folder and click **Open**.
+1. In **File Explorer**, navigate to **`C:\AllFiles`** location and select all the files from the ResourceFiles folder and click **Open**.
 
 1. When the upload is complete, you should see **Uploaded 92 items to My files** in the bottom center of the screen.
 
