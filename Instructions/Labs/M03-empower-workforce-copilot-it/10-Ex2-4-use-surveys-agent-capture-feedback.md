@@ -14,7 +14,7 @@ You want to use the Surveys agent in Microsoft 365 Copilot to brainstorm and des
 
       ![](../media/Module3/E2T4S1N.png)
 
-2.  Ask the **Surveys** agent to create a new survey that captures feedback on VanArsdel’s employee experience with the new Microsoft 365 features (attach the document containing the features from Task 1). The survey should include the following features:
+2.  Ask the **Surveys** agent to create a new survey that captures feedback on VanArsdel’s employee experience with the new Microsoft 365 features (**attach the document containing the features from Task 1**). The survey should include the following features:
 
     ```
     - A one-sentence introduction
@@ -28,17 +28,20 @@ You want to use the Surveys agent in Microsoft 365 Copilot to brainstorm and des
 
     ![](../media/Module3/E2T4S3.png)
 
-1. Ask it to include one demographic question that asks what department they’re in. Also, if the Likert scale questions don't provide text for each 1-5 option, then have it add text for all options. For example, if 1 is **Very difficult** and 5 is **Very easy**, but 2-4 have no explanations, then have it provide an explanation for 2-4 as well. 
+1. Ask it to include one demographic question as a prompt to Copilot.
 
+    ```
+    Include one demographic question that asks what department they’re in. Also, if the Likert scale questions don't provide text for each 1-5 option, then have it add text for all options. For example, if 1 is **Very difficult** and 5 is **Very easy**, but 2-4 have no explanations, then have it provide an explanation for 2-4 as well. 
+    ```
     ![](../media/Module3/E2T4S4.png)
 
-4.  Scroll down to response after prompt, click on the **Survey form (1)**, you should be able to see the generated survey once you’re satisfied with the survey, select the **Open in Forms (2)** icon to open the form directly into Forms site.
+4. Scroll down to response after prompt, click on the **Survey form (1)**, you should be able to see the generated survey once you’re satisfied with the survey, select the **Open in Forms (2)** icon to open the form directly into Forms site.
 
     ![](../media/Module3/E2T4S5.png)
 
 1.  Review the results. Once Copilot keeps the draft that you selected, it might indicate that it has other suggestions for your form. View those suggestions. For each suggestion, you can view how it affects your form. For example, select the suggestion to modernize the form theme, and then select a theme. Note the change to the form. You can then either discard or keep the change.
 
-  ![](../media/Module3/E2T4S6.png)
+    ![](../media/Module3/E2T4S6.png)
 
 
 ## You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.

@@ -38,8 +38,11 @@ Perform the following steps to complete this task:
 
     ![](../media/Module3/E1T3S4i.png)
 
-5. Ask Copilot to create an executive presentation for the Network Modernization project. The presentation should summarize the key information from the two attached files. 
+5. Then ask the **Copilot** with the following prompt.
 
+    ```
+    Create an executive presentation for the Network Modernization project. The presentation should summarize the key information from the two attached files. 
+    ```
 6.	If Copilot asks a series of questions related to the presentation, select the answers that you want it to apply. Select the **Confirm** button once you finish answering the questions. It might also ask a second series of questions, one of which might be to select a slide template. Keep in mind that if you don’t select a template, Copilot simply presents text on plain white slides. Again, select the answers that you want it to apply, or select **Skip all** if you want Copilot to use its best judgment.
 
 8.	Copilot in PowerPoint uses this information to generate a list of slides, which might take a few minutes.
@@ -54,8 +57,11 @@ Perform the following steps to complete this task:
     
     Before requesting the new slides, you must first indicate where you want the slides to appear in the deck. In this case, you want to add these slides to the end of the presentation. In the slide pane on the left, scroll down to the end of the slides and select after the final slide. 
 
-10. Enter a prompt that asks Copilot to add a topic section slide titled **Discussions: Risk, Security, and Value**. This topic should include three slides – one for **Operational and business continuity risk**, another for **Security, compliance, and data protection**, and a final slide for **Budget, value, and delivery confidence**. Again, it might take Copilot a minute or two to add these new slides. 
+10. Enter a prompt that asks Copilot to add a topic section slide.
 
+    ```
+    Add a topic section slide titled **Discussions: Risk, Security, and Value**. This topic should include three slides – one for **Operational and business continuity risk**, another for **Security, compliance, and data protection**, and a final slide for **Budget, value, and delivery confidence**. Again, it might take Copilot a minute or two to add these new slides. 
+    ```
 11.  Scroll down to the end of the slide deck. The final four slides should include the newly added **Discussions: Risk, Security, and Value** topic and its three discussion slides. Review each of the slides that Copilot generated for this topic. While the discussion points that Copilot generated for each of the slides is OK, you decide that you want to include a different set of talking points. Ask Copilot to replace any existing content on the following slides with the following talking points (this might take a few minutes):
 
         - **Operational and business continuity risk**

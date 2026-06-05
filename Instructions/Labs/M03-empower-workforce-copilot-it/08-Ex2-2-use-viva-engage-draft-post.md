@@ -37,12 +37,15 @@ You then plan to post the announcement on a new community in Viva Engage. A comm
 
 6.  In **Viva Engage**, select **+Create new** at the top of the navigation pane, and then select **Post** in the drop-down menu that appears.
 
-  ![](../media/Module3/E2T2S6.png)
+    ![](../media/Module3/E2T2S6.png)
 
 7.  In the **Post** window, select the Copilot icon to open the Copilot pane.
 
-8.  In the prompt field, attach the Word document that you created in the previous task. Then ask Copilot to draft a Viva Engage announcement post for VanArsdel, Ltd. announcing the upcoming Microsoft 365 features that are identified in the attached document. The tone of the post should be friendly, concise, and helpful. Since its target audience is all VanArsdel employees, it shouldn't be overly technical. The post should include a short, attention-grabbing headline, the top three bullet highlights (what each feature does and how it helps them), a one-sentence call to action for employees to try the features or attend a short demo, a request for feedback with a link (placeholder) to a short survey, and suggested hashtags and an emoji or two.
+8.  In the prompt field, attach the Word document that you created in the previous task. Then ask Copilot to draft a Viva Engage announcement post for VanArsdel, Ltd.
 
+    ```
+    Draft a Viva Engage announcement post for VanArsdel, Ltd. announcing the upcoming Microsoft 365 features that are identified in the attached document. The tone of the post should be friendly, concise, and helpful. Since its target audience is all VanArsdel employees, it shouldn't be overly technical. The post should include a short, attention-grabbing headline, the top three bullet highlights (what each feature does and how it helps them), a one-sentence call to action for employees to try the features or attend a short demo, a request for feedback with a link (placeholder) to a short survey, and suggested hashtags and an emoji or two.
+    ```
 1. Review the generated content and select the **+Add to post** option that appears at the end of the results in the Copilot pane. Delete any extraneous Copilot chat text that appears in the post (usually at the start and end, such as “You asked for a…”).
 
     ![](../media/Module3/E2T2S9.png)
@@ -57,7 +60,7 @@ You then plan to post the announcement on a new community in Viva Engage. A comm
 
 1. In the **Copilot testing** community, you should see the post that Copilot just created for you.
 
-  ![](../media/Module3/E2T2S12.png)
+    ![](../media/Module3/E2T2S12.png)
 
 
 ## You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.

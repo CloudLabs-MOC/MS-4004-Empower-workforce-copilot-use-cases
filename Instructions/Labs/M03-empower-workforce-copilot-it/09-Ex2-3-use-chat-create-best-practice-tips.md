@@ -10,15 +10,17 @@ Rather than starting from scratch, you plan to ask Copilot Chat to generate thes
 
     ![](../media/Module3/E2T1S1.png)
 
-1.  In the **Copilot** Chat prompt, attach the document from Task 1 that contains the Microsoft 365 feature list. 
+1.  In the **Copilot** Chat prompt, attach the document from **Task 1**, that contains the Microsoft 365 feature list. 
 
     ![](../media/Module3/E2T3S2.png)
 
     ![](../media/Module3/E2T3S2i.png)
 
-1. Then ask Copilot to create a cheat sheet titled **10 Best Practice Tips**. It should include 10 concise best-practice tips for adopting the new Microsoft 365 features that are listed in the attached document. Each tip should include a short sentence that describes what the tip is, followed by a short explanation (maximum of 25 words) that describes why the tip is important to users. 
-
-3.  Review the cheat sheet that Copilot generated. Submit any suggested Copilot prompts that interest you. For example, you might want to ask Copilot to add a poster-style visual. 
+1. Then ask Copilot to create a cheat sheet titled **10 Best Practice Tips**. 
+    ```
+    Create a cheat sheet titled 10 Best Practice Tips. It should include 10 concise best-practice tips for adopting the new Microsoft 365 features that are listed in the attached document. Each tip should include a short sentence that describes what the tip is, followed by a short explanation (maximum of 25 words) that describes why the tip is important to users. 
+    ```
+3. Review the cheat sheet that **Copilot** generated. Submit any suggested Copilot prompts that interest you. For example, you might want to ask Copilot to add a poster-style visual. 
 
     ![](../media/Module3/E2T3S4.png)
 

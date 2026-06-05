@@ -15,7 +15,7 @@ Historically, this process required your team to review blogs and admin center u
     >**NOTE:** For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
     ```
-      I'm the IT Manager at VanArsdel, Ltd. Summarize the Microsoft 365 features likely to be released or generally available by Microsoft in the next 90 days that are most relevant to end users (such as collaboration, security, Teams, Outlook, SharePoint, Viva, and so on). Please list each feature along with the following information: a one-line description, why it matters for a non-technical end user, and any recommended action for IT (for example, communication, training, and change to tenant settings). Provide the result as a short bullet list (no more than 8 items).
+    I'm the IT Manager at VanArsdel, Ltd. Summarize the Microsoft 365 features likely to be released or generally available by Microsoft in the next 90 days that are most relevant to end users (such as collaboration, security, Teams, Outlook, SharePoint, Viva, and so on). Please list each feature along with the following information: a one-line description, why it matters for a non-technical end user, and any recommended action for IT (for example, communication, training, and change to tenant settings). Provide the result as a short bullet list (no more than 8 items).
     ```
 3.  Review Copilot’s response. If it returns sources, verify a couple of them to ensure they're valid. If it returns ambiguous items, ask a clarifying follow-up question in the Chat.
 
@@ -43,13 +43,24 @@ Historically, this process required your team to review blogs and admin center u
 
 9.	In the **Copilot** chat pane, ask Copilot to add a short executive summary based on the content in the document. Click on **Done** once after the review.
 
+    ```
+    Add a short executive summary based on the content in the document
+    ```
+
     ![](../media/Module3/E2T1S9.png)
  
-10.	Once Copilot adds the executive summary to the document, ask it to add a one-sentence risk or opportunity for each feature.
+10.	Once **Copilot** adds the executive summary to the document, ask it to add a one-sentence risk or opportunity for each feature.
 
-11. Review the content. If Copilot added the risks and opportunities in a separate section rather than in each feature, ask it to remove the risk and opportunity section that it just added and instead add the risk or opportunity at the end of each feature rather than in a separate section of risks and opportunities. Click on **Done** once after the review.
+    ```
+    Add a one-sentence risk or opportunity for each feature.
+    ```
 
-   ![](../media/Module3/E2T1S11.png)
+11. Review the content. If Copilot added the risks and opportunities in a separate section rather than in each feature, ask it to remove the risk and opportunity section that it just added and instead add the risk or opportunity at the end of each feature rather than in a separate section of risks and opportunities by givining the following prompt. Click on **Done** once after the review.
+
+    ```
+    Remove the risk and opportunity section that it just added and instead add the risk or opportunity at the end of each feature rather than in a separate section of risks and opportunities
+    ```
+    ![](../media/Module3/E2T1S11.png)
 
 12.	Review the new content. If you aren’t satisfied with how Copilot formatted any of the new content, then make any adjustments that you want.
 

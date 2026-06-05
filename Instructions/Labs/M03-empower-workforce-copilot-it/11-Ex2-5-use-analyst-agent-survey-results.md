@@ -47,19 +47,24 @@ By using the Analyst agent in Microsoft 365 Copilot, you plan to uncover trends,
 
     ![](../media/Module3/E2T5S8.png)
 
-7.  Ask the Analyst agent if there are any correlations that can be drawn from the data.
-
-8.  Review the response. If the Analyst agent offers any suggested prompts related to the correlations that it found, feel free to select and submit them if they interest you.
+7.  Then provide the following prompt to Copilot.
+    ```
+    Are there any correlations that can be drawn from the data.
+    ```
+8. Review the response. If the Analyst agent offers any suggested prompts related to the correlations that it found, feel free to select and submit them if they interest you.
 
     ![](../media/Module3/E2T5S10.png)
 
-9. Since you’re one of the leaders from the IT department, you’re curious as to the responses from members of the IT department. Ask the Analyst agent to filter the data to show responses from only the IT department.
+9. Since you’re one of the leaders from the IT department, you’re curious as to the responses from members of the IT department, ask the Analyst agent with the prompt.
 
-10.  Review the response. If the Analyst agent offers any suggested prompts related to the IT responses, feel free to select and submit them if they interest you.
+    ```
+    Filter the data to show responses from only the IT department.
+    ```
+10. Review the response. If the Analyst agent offers any suggested prompts related to the IT responses, feel free to select and submit them if they interest you.
 
-  ![](../media/Module3/E2T5S11.png)
+    ![](../media/Module3/E2T5S11.png)
 
-11. Finally, ask the Analyst agent to produce a one-page executive summary report for download, along with a polished executive slide deck that contains all these insights and charts for leadership review.
+1. Finally, ask the Analyst agent to produce a one-page executive summary report for download, along with a polished executive slide deck that contains all these insights and charts for leadership review.
 
 12.  If the Analyst agent offers any suggested prompts related to these downloads, feel free to select and submit them if you wish.
 
