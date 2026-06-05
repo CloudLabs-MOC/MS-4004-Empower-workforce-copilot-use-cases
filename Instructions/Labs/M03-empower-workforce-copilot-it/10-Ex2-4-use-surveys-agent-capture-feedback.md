@@ -36,8 +36,11 @@ In this task, you will use the Surveys agent to create an employee feedback surv
 
     ![](../media/Module3/E2T4S3.png)
 
-1. Ask it to include one demographic question that asks what department they’re in. Also, if the Likert scale questions don't provide text for each 1-5 option, then have it add text for all options. For example, if 1 is **Very difficult** and 5 is **Very easy**, but 2-4 have no explanations, then have it provide an explanation for 2-4 as well. 
+1. Ask it to include one demographic question as a prompt to Copilot.
 
+    ```
+    Include one demographic question that asks what department they’re in. Also, if the Likert scale questions don't provide text for each 1-5 option, then have it add text for all options. For example, if 1 is **Very difficult** and 5 is **Very easy**, but 2-4 have no explanations, then have it provide an explanation for 2-4 as well. 
+    ```
     ![](../media/Module3/E2T4S4.png)
 
 4. Scroll down to response after prompt, click on the **Survey form (1)**, you should be able to see the generated survey once you’re satisfied with the survey, select the **Open in Forms (2)** icon to open the form directly into Forms site.

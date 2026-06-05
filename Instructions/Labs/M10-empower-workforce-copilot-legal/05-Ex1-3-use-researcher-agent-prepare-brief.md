@@ -66,7 +66,6 @@ In this task, you will use the Researcher agent to analyze emerging CCPA and CPR
       ```
       Turn this risk brief into a downloadable Word document.
       ```
-      
     ![](../media/Module10/E1T3S8.png)
 
     > **NOTE:** If Researcher agent tells you that it can’t generate a downloadable document, then perform the following steps to manually create a document:
