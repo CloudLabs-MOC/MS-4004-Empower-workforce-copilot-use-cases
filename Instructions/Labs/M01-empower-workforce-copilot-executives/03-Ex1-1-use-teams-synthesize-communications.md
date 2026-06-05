@@ -1,16 +1,16 @@
 # Exercise 1: Synthesize communication insights across Microsoft Team
+
 ## Scenario
 
 You are managing a significant project and need a comprehensive understanding of all communications related to that initiative over the last 30 days. Rather than manually reviewing emails, meeting notes, and chat conversations, you will use Microsoft 365 Copilot Chat in Teams to gather, summarize, and analyze the information. You will then use Copilot to identify action items and draft a stakeholder announcement based on the project's recent activity.
 
 ## Lab Overview
+
 In this hands-on lab, you will use Microsoft 365 Copilot Chat within Microsoft Teams to analyze and synthesize project-related communications across your Microsoft 365 environment. You will learn how Copilot can aggregate information from emails, meetings, and chats to provide concise summaries, identify action items, and generate stakeholder communications. This exercise demonstrates how executives and business leaders can leverage Copilot to reduce information overload, improve situational awareness, and accelerate decision-making through AI-powered insights.
 
 ## Task 1: Generate a Project Communication Summary
 
 In this task, you will use Microsoft 365 Copilot Chat in Teams to summarize communications related to a project or topic of your choice.
-
-### Steps
 
 1. Open **Microsoft Edge** and navigate to **https://www.microsoft365.com**.
 
@@ -20,13 +20,13 @@ In this task, you will use Microsoft 365 Copilot Chat in Teams to summarize comm
 
     - **Password**: **<inject key="AzureAdUserPassword"></inject>**
 
-3. In the left navigation pane, select **Apps**.
+3. In the left navigation pane, select **App launcher**.
 
-4. From the **Apps (1)** menu, select **Teams (2)**.
+4. From the **App launcher (1)** menu, select **Teams (2)**.
 
    ![](../media/m02-2.png)
 
-5. In **Teams for the web**, select **Copilot** from the left navigation pane.
+5. In **Teams for the web**, select **Copilot (1)** from the left navigation pane and switch it to **Work (2)**.
 
    ![](../media/m01-1.png)
 
@@ -37,9 +37,11 @@ In this task, you will use Microsoft 365 Copilot Chat in Teams to summarize comm
    ```text
    Summarize all my emails, meetings, and chats over the past 30 days related to Project Nexus
    ```
-  >**Note** : For this lab, a sample project named Project Nexus has been preconfigured with related Teams conversations and group chat discussions. Use Project Nexus as the topic when submitting prompts throughout this exercise to ensure Copilot can retrieve and summarize the available project communications.
+  >**Note:** For this lab, a sample project named Project Nexus has been preconfigured with related Teams conversations and group chat discussions. Use Project Nexus as the topic when submitting prompts throughout this exercise to ensure Copilot can retrieve and summarize the available project communications.
 
 7. Submit the prompt and review the generated summary.
+
+    ![](../media/ms4004-l1-4.png)
 
 8. Examine the summary and identify information such as:
 
@@ -57,8 +59,6 @@ Copilot generates a consolidated summary of communications related to the select
 ## Task 2: Identify Open Action Items
 
 In this task, you will use Copilot Chat to identify pending tasks and responsibilities associated with the selected project.
-
-### Steps
 
 1. Review the suggested prompts displayed by Copilot after the initial summary.
 
@@ -96,8 +96,6 @@ Copilot identifies open action items and provides additional context that helps 
 
 In this task, you will use Copilot Chat to create a project status announcement based on the communications and insights gathered.
 
-### Steps
-
 1. In the Copilot Chat window, enter a prompt similar to the following:
 
    ```text
@@ -129,16 +127,6 @@ After completing this exercise, consider the following questions:
 - How did the suggested follow-up prompts evolve as the conversation progressed?
 - How could this capability help executives and project managers make more informed decisions?
 
-## Key Takeaways
+## Summary
 
-By completing this exercise, you learned how to:
-
-- Use Microsoft 365 Copilot Chat within Teams to analyze communications across Microsoft 365.
-- Generate consolidated project summaries from emails, meetings, and chats.
-- Identify open action items and project risks.
-- Leverage dynamic follow-up prompts to explore project information more deeply.
-- Create stakeholder-ready communications directly from Copilot Chat.
-- Improve productivity and decision-making by reducing the time spent searching for information.
-
-
-
+In this exercise, you used Microsoft 365 Copilot Chat in Teams to synthesize communications related to Project Nexus from emails, meetings, and chat conversations. You generated a project summary, identified open action items and project risks, and created a stakeholder announcement highlighting key updates and milestones. The exercise demonstrated how Copilot can help project managers and business leaders quickly access important information, improve collaboration, and make informed decisions without manually reviewing multiple communication sources.

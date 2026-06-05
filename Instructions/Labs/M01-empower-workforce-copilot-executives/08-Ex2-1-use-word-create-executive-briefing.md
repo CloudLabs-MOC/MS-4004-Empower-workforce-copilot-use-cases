@@ -1,48 +1,54 @@
 # Exercise 2: Drive business outcomes using Microsoft 365 Copilot
 
+## Scenario
+
+As the Chief Operating Officer (COO) of Northwind Traders, you are responsible for presenting quarterly business performance updates to the Senior Leadership Team. To prepare for an upcoming executive review meeting, you need to create a professional briefing report that summarizes Q3 sales performance, highlights growth opportunities, identifies potential risks, and recommends strategic actions for Q4.
+
+Using Copilot in Word, you will create and enhance an executive briefing report based on the Northwind Traders Q3 sales data workbook.
+
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot in Word to transform sales data into executive-ready business insights and strategic recommendations. You will create a professional briefing report, analyze revenue and profit trends, generate data visualizations, and prepare leadership discussion materials. These capabilities help business leaders make informed decisions and effectively communicate organizational performance.
+
+
 ## Task 1: Use Copilot in Word to Create an Executive Briefing Report
 
 In this task, you will use Microsoft 365 Copilot in Word to transform sales data into an executive briefing report. Using a sales dataset provided in an Excel workbook, you will ask Copilot to analyze business performance, identify key trends, generate strategic recommendations, create data visualizations, and prepare executive discussion points.
 
 This exercise demonstrates how Copilot can help business leaders quickly convert raw business data into executive-ready content that supports strategic decision-making.
 
-### Scenario
-
-As the Chief Operating Officer (COO) of Northwind Traders, you are responsible for presenting quarterly business performance updates to the Senior Leadership Team. To prepare for an upcoming executive review meeting, you need to create a professional briefing report that summarizes Q3 sales performance, highlights growth opportunities, identifies potential risks, and recommends strategic actions for Q4.
-
-Using Copilot in Word, you will create and enhance an executive briefing report based on the Northwind Traders Q3 sales data workbook.
-
 ## Task 1.1: Create an Executive Briefing Report
 
-### Steps
+In this task, you will use Copilot in Word to analyze Q3 sales data and generate an executive briefing report that highlights business performance, trends, opportunities, and risks.
 
-1. Open **Microsoft 365** in your browser.
+1. In Microsoft Edge browser, navigate to the **Microsoft 365** home page, select **App launcher (1)** in the navigation pane, and then select **Word (2)** from the **Apps** menu.
 
-2. Select **Apps** from the navigation pane and then select **Word**.
+    ![](../media/lab2-06-n2.png) 
 
 3. In **Word for the web**, create a new blank document.
 
    ![](../media/m01-9.png)
 
-4. On the **Home** tab, select **Copilot**.
+3. From the document, select **Copilot** icon located at the bottom-right corner of the screen to open the Copilot pane. 
 
-   ![](../media/m01-6.png)
+   ![](../media/lab2-06-11.png) 
    
-5. Verify that **Allow editing** is enabled.
-
-   ![](../media/m01-7.png)
+5. In the Copilot pane, verify that **Allow editing (1)** is enabled.
    
    > **Note:** If **Allow editing** is enabled, Copilot automatically insert the generated content directly into the document.
 
-6. In the Copilot prompt field, select **+** and then select **Add work content**.
+6. In the Copilot prompt field, select **+ (2)** and then select **Add work content (3)**.
 
-   ![](../media/m01-8.png)
+   ![](../media/m01-7.png)
    
 7. Search for and attach the following file:
 
    ```text
    Northwind Traders Q3 sales data.xlsx
    ```
+
+   ![](../media/m01-8.png)
+
    > **Note:** If the file is not displayed in the suggested files list, select Attach cloud files, browse to OneDrive, and attach Northwind Traders Q3 sales data.xlsx.
    
 8. Enter the following prompt:
@@ -54,9 +60,9 @@ Using Copilot in Word, you will create and enhance an executive briefing report 
    
 9. Submit the prompt.
 
-10. Review the generated report.
+10. Review the generated report and select Done.
 
-   ![](../media/m01-11.png)
+    ![](../media/m01-11.png)
 
 ### Expected Outcome
 
@@ -64,11 +70,9 @@ Copilot generates a professional executive briefing report that summarizes Q3 bu
 
 ## Task 1.2: Add Strategic Recommendations
 
-### Steps
+In this task, you will use Copilot to add strategic recommendations that include growth opportunities, risk mitigation strategies, and initiatives for Q4.
 
-1. Review the report that was generated.
-
-2. In the Copilot pane, enter the following prompt:
+1. In the Copilot pane, enter the following prompt:
 
    ```text
    Add a Q4 Strategic Recommendations section that includes suggested initiatives, risk mitigation strategies, and growth acceleration opportunities for next quarter.
@@ -84,7 +88,7 @@ The report now includes actionable recommendations designed to improve business 
 
 ## Task 1.3: Create a Revenue Comparison Chart
 
-### Steps
+In this task, you will use Copilot to create a chart that visualizes Q3 revenue performance across regions and product categories.
 
 1. In the Copilot pane, enter the following prompt:
 
@@ -102,15 +106,15 @@ The report includes a visual representation of revenue performance across region
 
 ## Task 1.4: Save the Executive Briefing Report
 
-### Steps
+In this task, you will save the completed executive briefing report to OneDrive for future reference and use in later exercises.
 
-1. Review the completed report.
-
-2. Save the document using the following filename:
+1. Save the document using the following filename:
 
    ```text
    Q3 Executive Briefing.docx
    ```
+
+   ![](../media/ms4004-l1-8.png)
 
 3. Save the file to your OneDrive.
 
@@ -122,7 +126,7 @@ The completed executive briefing report is saved and ready for future use.
 
 ## Task 1.5: Prepare for Executive Review Questions
 
-### Steps
+In this task, you will use Copilot to generate potential executive review questions and recommended responses to help prepare for leadership discussions.
 
 1. In the Copilot pane, enter the following prompt:
 
@@ -136,7 +140,7 @@ The completed executive briefing report is saved and ready for future use.
 
 4. Select **Copy response**.
 
-5. Create a new blank Word document.
+5. Create a **new blank Word** document.
 
 6. Paste the copied content into the new document.
 
@@ -162,13 +166,6 @@ After completing this task, consider the following questions:
 - How could executive preparation materials improve meeting readiness?
 
 
-## Key Takeaways
+## Summary
 
-By completing this task, you learned how to:
-
-- Use Copilot in Word with attached business data sources.
-- Generate executive-ready business reports.
-- Create strategic recommendations based on business performance.
-- Produce data visualizations from business data.
-- Prepare leadership discussion materials.
-- Transform raw operational data into actionable business insights.
+In this task, you used Microsoft 365 Copilot in Word to transform Q3 sales data into an executive briefing report. You analyzed business performance, generated strategic recommendations, created revenue visualizations, and prepared leadership discussion materials. The completed documents provide valuable insights that can help senior leaders evaluate performance, identify opportunities, and make informed decisions for the upcoming quarter.

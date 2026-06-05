@@ -1,12 +1,6 @@
-<img width="986" height="175" alt="image" src="https://github.com/user-attachments/assets/d6fd575f-56b1-48d9-b170-110e10852eb8" /># Exercise 2: Drive business outcomes using Microsoft 365 Copilot
+# Exercise 2: Drive business outcomes using Microsoft 365 Copilot
 
-## Task 4: Create a Northwind Business Insights Agent
-
-In this task, you will use the Microsoft 365 Copilot Agent Builder experience to create a custom agent that provides business insights for Northwind Traders. The agent will use approved business documents as its knowledge sources and help executives analyze sales performance, supply chain health, customer sentiment, and forecast-related results.
-
-This exercise demonstrates how business users can create purpose-built Copilot agents without programming skills by using natural language instructions and organizational knowledge sources.
-
-### Scenario
+## Scenario
 
 Northwind Traders' leadership team requires timely access to business insights related to sales performance, operational health, customer sentiment, and budget forecasts. Rather than manually reviewing reports, executives want a dedicated Copilot agent that can answer questions using approved business documents and provide consistent, data-driven responses.
 
@@ -14,23 +8,33 @@ Using Microsoft 365 Copilot Agent Builder, you will create and configure a **Nor
 
 > **Note:** This exercise uses the simplified Agent Builder experience available within Microsoft 365 Copilot. No coding or development experience is required.
 
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot Agent Builder to create a custom business insights agent for Northwind Traders. You will configure the agent with business-focused instructions, attach approved knowledge sources, and create executive-oriented prompts that provide insights into sales performance, financial forecasts, customer sentiment, and operational health. The completed agent will help leaders access reliable, data-driven insights and support faster business decision-making.
+
+## Task 4: Create a Northwind Business Insights Agent
+
+In this task, you will use the Microsoft 365 Copilot Agent Builder experience to create a custom agent that provides business insights for Northwind Traders. The agent will use approved business documents as its knowledge sources and help executives analyze sales performance, supply chain health, customer sentiment, and forecast-related results.
+
+This exercise demonstrates how business users can create purpose-built Copilot agents without programming skills by using natural language instructions and organizational knowledge sources.
+
 ## Task 4.1: Create the Agent
 
-### Steps
+In this task, you will use Copilot Agent Builder to create the Northwind Business Insights Agent and define its purpose, audience, and business scope.
 
 1. Open a new browser tab and navigate to **Microsoft 365**.
 
-2. In the navigation pane, select **New agent**.
-
-   ![](../media/m01-19.png)
+2. In the navigation pane, select **New agent (1)**.
    
-3. In the prompt box, enter the following prompt:
+3. In the prompt box, enter the following prompt **(2)**:
 
    ```text
    Create an agent titled Northwind Business Insights Agent. The purpose of this agent is to provide responses to questions related to Northwind Traders' Sales performance, Supply chain health, Customer sentiment, and Results compared to the Q4 budget forecast. The agent should only use the files assigned to it as knowledge sources. The agent is intended for an executive audience.
    ```
 
-4. Select **Send**.
+4. Select **Send (3)**.
+
+    ![](../media/m01-19.png)
 
 5. Wait for Copilot to generate the agent.
 
@@ -44,7 +48,7 @@ Copilot creates a new agent and generates an initial description, instructions, 
 
 ## Task 4.2: Review the Generated Configuration
 
-### Steps
+In this task, you will review the agent's generated name, description, and instructions to ensure they align with business requirements.
 
 1. Select the **Configure** tab.
 
@@ -64,7 +68,7 @@ The agent contains a generated instruction set aligned to the business scenario 
 
 ## Task 4.3: Update the Agent Instructions
 
-### Steps
+In this task, you will enhance the agent's instructions to improve accuracy, transparency, and compliance with approved data sources.
 
 1. Navigate to the **Agent builder** section.
 
@@ -77,7 +81,8 @@ The agent contains a generated instruction set aligned to the business scenario 
    - Never invent data or rely on sources outside the defined knowledge source documents
    - Stay within the Northwind Traders business context
    ```
-   ![](../media/m01-20.png)
+   
+   ![](../media/ms4004-l1-13.png)
    
 3. Submit the prompt.
 
@@ -93,7 +98,7 @@ The agent instructions are updated to improve reliability, transparency, and dat
 
 ## Task 4.4: Enhance the Agent Instructions
 
-### Steps
+In this task, you will use Copilot to recommend and add additional instructions that improve the quality and usefulness of the agent's responses.
 
 1. Return to the **Agent builder** section.
 
@@ -125,22 +130,26 @@ The agent contains a more comprehensive instruction set tailored to executive bu
 
 ## Task 4.5: Configure Knowledge Sources
 
-### Steps
+In this task, you will upload approved business documents and configure them as the agent's knowledge sources.
 
 1. On the **Configure** tab, scroll to the **Knowledge** section.
 
 2. Verify that the **Search all websites** option is disabled.
 
-   > **Note:** The agent should only use the approved knowledge sources uploaded during this exercise.
+     ![](../media/lab2-06-49.png) 
+
+    > **Note:** The agent should only use the approved knowledge sources uploaded during this exercise.
 
 3. If the option is enabled, disable it.
 
 4. Select **Upload from device**.
 
-5. Upload the following files:
+15. In the **Knowledge** section, select the **Attach cloud files** icon that appears next to the **Enter a URL or name or drop files here** field. In the **File Explorer** window that appears, navigate to your **OneDrive** folder and select the **My files**. Upload the following files and then select the **Open** button.
 
-   - **Q3 Executive Briefing.docx**
-   - **Northwind Traders Q4 budget forecast.xlsx**
+    - **Q3 Executive Briefing.docx**
+    - **Northwind Traders Q4 budget forecast.xlsx**
+
+      ![](../media/lab2-06-50.png) 
 
 6. Wait for both files to upload successfully.
 
@@ -150,7 +159,7 @@ The uploaded business documents become the primary knowledge sources for the age
 
 ## Task 4.6: Generate Suggested Prompts
 
-### Steps
+In this task, you will use Copilot to generate starter prompts that help executives interact with the agent effectively.
 
 1. Return to the **Agent builder** section.
 
@@ -173,7 +182,7 @@ Copilot generates starter prompts designed for executive users.
 
 ## Task 4.7: Add Custom Suggested Prompts
 
-### Steps
+In this task, you will add custom prompts that focus on business risks, customer sentiment, sales performance, and operational insights.
 
 1. Select the **Configure** tab.
 
@@ -181,27 +190,28 @@ Copilot generates starter prompts designed for executive users.
 
 3. Review the prompts generated by Copilot.
 
+   ![](../media/ms4004-l1-13.png)
+
 4. Select **Add a suggested prompt**.
 
 5. Add two or three of the following prompts.
 
-| Title | Message |
-|---------|---------|
-| Top risks | What are the top risks to meeting our Q4 revenue forecast? |
-| Customer sentiment trends | Summarize customer sentiment trends from the latest reports. |
-| Budget vs. Sales | Compare actual sales performance to the Q4 budget forecast. |
-| Bottlenecks | Identify supply chain bottlenecks that could affect Q4 delivery timelines. |
-| Top performing product categories | Highlight the top-performing product categories based on recent sales data. |
-| Emerging market trends | What emerging market trends should we watch for in the next quarter? |
+   | Title | Message |
+   |---------|---------|
+   | Top risks | What are the top risks to meeting our Q4 revenue forecast? |
+   | Customer sentiment trends | Summarize customer sentiment trends from the latest reports. |
+   | Budget vs. Sales | Compare actual sales performance to the Q4 budget forecast. |
+   | Bottlenecks | Identify supply chain bottlenecks that could affect Q4 delivery timelines. |
+   | Top performing product categories | Highlight the top-performing product categories based on recent sales data. |
+   | Emerging market trends | What emerging market trends should we watch for in the next quarter? |
 
 ### Expected Outcome
 
 The agent includes both AI-generated and manually created starter prompts.
 
-
 ## Task 4.8: Test the Agent
 
-### Steps
+In this task, you will validate the agent by testing prompts and confirming that responses are based on approved knowledge sources.
 
 1. Test several of the suggested prompts.
 
@@ -219,7 +229,7 @@ The agent successfully answers questions using information contained within the 
 
 ## Task 4.9: Create and Access the Agent
 
-### Steps
+In this task, you will create the finalized agent and access it for future business analysis and decision-making.
 
 1. Select **Create**.
 
@@ -245,13 +255,6 @@ After completing this task, consider the following questions:
 - How can suggested prompts improve the user experience?
 - How could this agent help executives make faster decisions?
 
-## Key Takeaways
+## Summary
 
-By completing this task, you learned how to:
-
-- Create a custom Copilot agent using natural language.
-- Configure agent instructions without coding.
-- Improve agent behavior through iterative instruction updates.
-- Restrict agent responses to approved knowledge sources.
-- Create executive-focused starter prompts.
-- Build a business insights solution that supports data-driven decision-making.
+In this task, you used Microsoft 365 Copilot Agent Builder to create the Northwind Business Insights Agent. You configured the agent's instructions, connected approved business documents as knowledge sources, generated executive-focused prompts, and tested its responses. The completed agent provides business leaders with a reliable way to access insights, analyze performance, and make informed decisions using trusted organizational data.

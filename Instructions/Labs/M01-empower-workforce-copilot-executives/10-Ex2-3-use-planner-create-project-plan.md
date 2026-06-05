@@ -1,30 +1,34 @@
 # Exercise 2: Drive business outcomes using Microsoft 365 Copilot
 
+## Scenario
+
+Northwind Traders is preparing to launch a new line of organic snacks. The initiative requires coordination between Marketing, Production, Logistics, and Sales teams. As the executive sponsor, you need to ensure that the project is properly planned, key milestones are identified, dependencies are managed, and stakeholders remain informed throughout the project lifecycle.
+
+Using the Copilot in Planner, you will create a project plan, review goals and timelines, and explore AI-generated project management capabilities.
+
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft Copilot in Planner to create and manage a project plan for a new product launch. You will generate tasks, milestones, dependencies, goals, timelines, and stakeholder updates using AI-powered project management capabilities. These features help leaders coordinate cross-functional teams, monitor progress, and improve project execution.
+
 ## Task 3: Use the Copilot in Planner to Create a New Project Plan
 
 In this task, you will use the Copilot in Microsoft Planner to create and manage a project plan for a new product launch. The Copilot can generate tasks, milestones, dependencies, goals, timelines, and stakeholder updates based on a simple business description.
 
 This exercise demonstrates how executives can use AI-powered project management capabilities to coordinate complex initiatives, monitor progress, and improve collaboration across multiple departments.
 
-### Scenario
-
-Northwind Traders is preparing to launch a new line of organic snacks. The initiative requires coordination between Marketing, Production, Logistics, and Sales teams. As the executive sponsor, you need to ensure that the project is properly planned, key milestones are identified, dependencies are managed, and stakeholders remain informed throughout the project lifecycle.
-
-Using the Copilot in Planner, you will create a project plan, review goals and timelines, and explore AI-generated project management capabilities.
-
 ## Task 3.1: Create a New Premium Plan
 
-### Steps
+In this task, you will create a new Premium Planner plan that serves as the foundation for managing the organic snack line launch project.
 
 1. Open **Microsoft 365** in your browser.
 
-2. Select **Apps**, and then select **Teams**.
+2. Select **App launcher**, and then select **Teams**.
 
-3. In Teams, select **View more apps** (**...**) from the navigation pane.
+3. In Teams, select **View more apps** (**...**) **(1)** from the navigation pane.
 
-   ![](../media/m01-13.png)
+4. Search **Planner (2)** for and open **Planner (3)**.
 
-4. Search for and open **Planner**.
+    ![](../media/m01-13.png)
 
 5. In Planner, select **+ Create a plan**.
 
@@ -36,19 +40,19 @@ Using the Copilot in Planner, you will create a project plan, review goals and t
 
    > **Note:** Premium plans provide advanced features such as timelines, goals, and AI-powered project management capabilities.
 
-8. In the **Create a plan** window, enter the following name:
+8. In the **Create a plan** window, enter the following name **(2)**:
 
    ```text
    New organic snack line
    ```
 
 9. Leave **Share with your group** blank.
-
-   ![](../media/m01-16.png)
    
-10. Select **Create premium plan**.
+10. Select **Create premium plan (2)**.
 
-   >**Note**: Creating a Premium plan may take up to **10–15 minutes** depending on service availability and tenant performance. If the plan doesn't appear immediately after selecting **Create**, wait for a few minutes and refresh the Planner page before proceeding to the next step.
+    ![](../media/m01-16.png)
+
+      > **Note:** Creating a Premium plan may take up to **10–15 minutes** depending on service availability and tenant performance. If the plan doesn't appear immediately after selecting **Create**, wait for a few minutes and refresh the Planner page before proceeding to the next step.
 
 ### Expected Outcome
 
@@ -56,7 +60,7 @@ A new Premium Planner plan is created and ready for AI-assisted project planning
 
 ## Task 3.2: Generate a Project Plan Using the Copilot
 
-### Steps
+In this task, you will use Copilot to generate a project plan that includes tasks, milestones, owners, dependencies, and timelines across multiple departments.
 
 1. In the **New organic snack line** plan, select the **Chat with your Copilot** icon located in the lower-right corner.
 
@@ -67,6 +71,7 @@ A new Premium Planner plan is created and ready for AI-assisted project planning
    ```text
    Northwind Traders' new organic snack line. The plan should include tasks for Marketing, Production, Logistics, and Sales departments. Assign deadlines, owners, and dependencies.
    ```
+   
    ![](../media/m01-17.png)
 
    ![](../media/m01-18.png)
@@ -83,7 +88,7 @@ The Copilot generates a comprehensive project plan that includes tasks, assignme
 
 ## Task 3.3: Review the Project Board
 
-### Steps
+In this task, you will review the generated project board and examine how tasks are organized into workstreams and project areas.
 
 1. After the plan is generated, select **Go to Board**.
 
@@ -103,7 +108,7 @@ The project board provides a visual representation of project tasks and workstre
 
 ## Task 3.4: Review Project Goals
 
-### Steps
+In this task, you will review and validate the project goals generated by Copilot to ensure alignment with business objectives.
 
 1. Select **Go to Goals**.
 
@@ -119,7 +124,7 @@ Project goals are created and aligned with the overall product launch strategy.
 
 ## Task 3.5: Generate Stakeholder Updates
 
-### Steps
+In this task, you will use Copilot to generate project status summaries and stakeholder communications based on current project progress.
 
 1. Return to the Copilot pane.
 
@@ -135,27 +140,27 @@ Project goals are created and aligned with the overall product launch strategy.
 
 5. Select one or more suggested prompts to explore additional project management capabilities.
 
-### Suggested Follow-Up Prompts
+   ### Suggested Follow-Up Prompts
 
-```text
-Summarize the current project status.
-```
+   ```text
+   Summarize the current project status.
+   ```
 
-```text
-Identify high-risk tasks and dependencies.
-```
+   ```text
+   Identify high-risk tasks and dependencies.
+   ```
 
-```text
-What tasks are currently on the critical path?
-```
+   ```text
+   What tasks are currently on the critical path?
+   ```
 
-```text
-Generate a stakeholder update for this project.
-```
+   ```text
+   Generate a stakeholder update for this project.
+   ```
 
-```text
-What milestones should leadership monitor?
-```
+   ```text
+   What milestones should leadership monitor?
+   ```
 
 ### Expected Outcome
 
@@ -163,7 +168,7 @@ The Copilot provides project status summaries and stakeholder communication reco
 
 ## Task 3.6: Generate a Project Timeline
 
-### Steps
+In this task, you will use Copilot to create a project timeline that highlights key milestones and schedules for leadership review.
 
 1. In the Copilot pane, enter the following prompt:
 
@@ -203,13 +208,6 @@ After completing this task, consider the following questions:
 - What value does the project timeline provide during executive reviews?
 - How could AI-powered project management improve cross-functional collaboration?
 
-## Key Takeaways
+## Summary
 
-By completing this task, you learned how to:
-
-- Create Premium plans in Microsoft Planner.
-- Use the Copilot to generate project plans.
-- Create tasks, dependencies, goals, and timelines using natural language prompts.
-- Generate stakeholder updates and project summaries.
-- Visualize project schedules and milestones.
-- Use AI-powered project management tools to improve visibility and coordination across business initiatives.
+In this task, you used Microsoft Copilot in Planner to create and manage a project plan for Northwind Traders' new organic snack line launch. You generated tasks, milestones, goals, dependencies, stakeholder updates, and project timelines using AI-powered planning capabilities. The completed plan provides a structured approach for coordinating teams, tracking progress, and supporting successful project delivery.

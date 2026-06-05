@@ -1,6 +1,6 @@
 # Module 1: Empower Workforce with Microsoft 365 Copilot for Executives
 
-## Module Overview
+## Lab Overview
 
 Microsoft 365 Copilot helps executives transform information into actionable insights, accelerate decision-making, and improve organizational alignment. By integrating AI capabilities directly into familiar Microsoft 365 applications, Copilot enables leaders to spend less time gathering information and more time driving strategic outcomes.
 
@@ -18,7 +18,7 @@ Key executive scenarios covered in this module include:
 
 - **Business insights agents**. Create and configure custom Copilot agents that provide on-demand intelligence using organizational knowledge sources.
 
-### Copilot Prompting
+## Copilot Prompting
 
 One of the primary keys to effectively using Copilot is the quality of your prompts. A well-structured prompt contains four key elements:
 
@@ -26,28 +26,27 @@ One of the primary keys to effectively using Copilot is the quality of your prom
 
   Example:
 
-  *Generate a concise executive summary of project status updates.*
+  **Generate a concise executive summary of project status updates.**
 
 - **Context**. Provide background information so Copilot understands the business scenario.
 
   Example:
 
-  *Prepare the summary for a leadership review meeting regarding Project Nexus.*
+  **Prepare the summary for a leadership review meeting regarding Project Nexus.**
 
 - **Sources**. Specify where Copilot should gather information.
 
   Example:
 
-  *Use emails, Teams chats, and meeting notes from the past 30 days.*
+  **Use emails, Teams chats, and meeting notes from the past 30 days.**
 
 - **Expectations**. Describe the desired format, tone, and level of detail.
 
   Example:
 
-  *Present the results as an executive briefing with key decisions, risks, milestones, and action items.*
+  **Present the results as an executive briefing with key decisions, risks, milestones, and action items.**
 
 Using these four elements consistently helps produce clear, relevant, and actionable responses.
-
 
 ## Getting Started with the lab
 
@@ -56,6 +55,8 @@ We've prepared a seamless environment for you to explore and learn about **Modul
 ## Accessing Your Lab Environment
  
 Once the lab environment is ready, the virtual machine displayed on the left will be your primary workspace for completing the exercises, while the **Guide** on the right side provides step-by-step instructions for each task.
+
+![](../media/ms4004-l1-1.png)
 
 ## Exploring Your Lab Resources
  
@@ -108,13 +109,17 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
     ![](../media/module-4/prereq-3.png)
 
-1. In **File Explorer**, navigate to **`C:\AllFiles`** location and select all the files from the ResourceFiles folder and click **Open**.
+1. In **File Explorer**, navigate to **`C:\AllFiles` (1)** location and select all the files **(2)** from the folder and click **Open (3)**.
 
-1. When the upload is complete, you should see **Uploaded 92 items to My files** in the bottom center of the screen.
+    ![](../media/ms4004-l1-2.png)
+
+1. When the upload is complete, you should see **Uploaded 93 items to My files** in the bottom center of the screen.
+
+    ![](../media/ms4004-l1-3.png)
 
 1. Leave **Edge** open and move on to the next task.
 
-### Referencing Files in Copilot
+## Referencing Files in Copilot
 
 When using Copilot, you may find that some files aren’t immediately available in the suggestions. This occurs because certain Copilot experiences only reference files from the **Most Recently Used (MRU)** list, while others let you browse **OneDrive** directly. To ensure a file appears in the **MRU** list, simply open it in the relevant Microsoft 365 app, and it will be added automatically.
 

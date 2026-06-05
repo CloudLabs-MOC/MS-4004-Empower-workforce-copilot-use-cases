@@ -1,20 +1,24 @@
 # Exercise 1: Synthesize communication insights across Microsoft Team
 
-## Task 5: Use Copilot Chat in Teams to Collect Cross-Project Insights
-
-In this task, you will use Microsoft 365 Copilot Chat in Teams to compare information across multiple projects. Copilot can analyze communications from different chats, summarize progress, identify risks and dependencies, and help executives prepare for leadership reviews and cross-team coordination activities.
-
-You will compare information from the **Project Nexus** and **Project Phoenix** group chats to identify project status, milestones, blockers, and trends.
-
 ### Scenario
 
 As an executive, you are responsible for overseeing multiple strategic initiatives. Rather than manually reviewing each project's communications, you want Copilot to analyze information from both projects and provide a consolidated view of progress, risks, decisions, and dependencies.
 
 For this exercise, you will use the preconfigured **Project Nexus** and **Project Phoenix** group chats.
 
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot Chat in Teams to analyze and compare information across multiple projects. You will generate cross-project summaries, identify milestones, risks, dependencies, and action items, and create executive-ready comparison reports and communications. These insights help leaders monitor project health, improve coordination, and make informed strategic decisions.
+
+## Task 5: Use Copilot Chat in Teams to Collect Cross-Project Insights
+
+In this task, you will use Microsoft 365 Copilot Chat in Teams to compare information across multiple projects. Copilot can analyze communications from different chats, summarize progress, identify risks and dependencies, and help executives prepare for leadership reviews and cross-team coordination activities.
+
+You will compare information from the **Project Nexus** and **Project Phoenix** group chats to identify project status, milestones, blockers, and trends.
+
 ## Task 5.1: Compare Multiple Projects
 
-### Steps
+In this task, you will use Copilot Chat to compare Project Nexus and Project Phoenix and analyze project progress, risks, milestones, and dependencies.
 
 1. In **Teams for the web**, select **Copilot** from the navigation pane to open **Copilot Chat**.
 
@@ -23,6 +27,7 @@ For this exercise, you will use the preconfigured **Project Nexus** and **Projec
    ```text
    Compare the progress, risks, and key decisions for Project Nexus and Project Phoenix over the past 30 days. Summarize the major milestones and updates for each project, key decisions that were made, outstanding risks or blockers, and any trends, recurring issues, or dependencies between the projects.
    ```
+   
    ![](../media/m01-5.png)
    
 3. Submit the prompt.
@@ -41,23 +46,23 @@ For this exercise, you will use the preconfigured **Project Nexus** and **Projec
 
 7. Select a suggested prompt or enter your own follow-up prompt to investigate a specific area.
 
-### Suggested Follow-Up Prompts
+   ### Suggested Follow-Up Prompts
 
-```text
-Which project currently has the highest risk?
-```
+   ```text
+   Which project currently has the highest risk?
+   ```
 
-```text
-What action items remain open across both projects?
-```
+   ```text
+   What action items remain open across both projects?
+   ```
 
-```text
-What dependencies could affect the success of both projects?
-```
+   ```text
+   What dependencies could affect the success of both projects?
+   ```
 
-```text
-Summarize the key achievements across Project Nexus and Project Phoenix.
-```
+   ```text
+   Summarize the key achievements across Project Nexus and Project Phoenix.
+   ```
 
 ### Expected Outcome
 
@@ -65,7 +70,7 @@ Copilot generates a consolidated comparison of Project Nexus and Project Phoenix
 
 ## Task 5.2: Generate a Side-by-Side Comparison Table
 
-### Steps
+In this task, you will use Copilot Chat to create a side-by-side comparison table that highlights project status, risks, action items, and next steps.
 
 1. In the Copilot Chat window, enter the following prompt:
 
@@ -85,7 +90,7 @@ Copilot generates a structured comparison table that can be used for executive b
 
 ## Task 5.3: Draft a Project Status Email
 
-### Steps
+In this task, you will use Copilot Chat to draft a project status email that communicates progress, risks, open action items, and upcoming activities.
 
 1. Select one of the projects for follow-up communication.
 
@@ -129,13 +134,6 @@ After completing this task, consider the following questions:
 - How could the comparison table assist during executive reviews?
 - How might Copilot reduce the time required to prepare project status updates?
 
-## Key Takeaways
+## Summary
 
-By completing this task, you learned how to:
-
-- Compare multiple projects using Microsoft 365 Copilot Chat.
-- Identify project milestones, risks, blockers, and dependencies.
-- Generate executive-ready comparison summaries.
-- Create side-by-side project comparison tables.
-- Draft project status emails directly from Copilot Chat.
-- Use AI-powered insights to support strategic decision-making and cross-team coordination.
+In this task, you used Microsoft 365 Copilot Chat in Teams to compare communications and progress across Project Nexus and Project Phoenix. You analyzed project milestones, key decisions, risks, blockers, dependencies, and open action items to gain a consolidated view of project health. You also generated a side-by-side comparison table and created a project status email based on Copilot's insights. This exercise demonstrated how Copilot can help executives and project leaders quickly understand multiple initiatives, improve cross-team coordination, and make informed strategic decisions.
