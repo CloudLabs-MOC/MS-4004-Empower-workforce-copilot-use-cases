@@ -6,21 +6,27 @@ Now that the announcement post is ready, you want to help users smoothly adopt t
 
 Rather than starting from scratch, you plan to ask Copilot Chat to generate these practical, easy-to-read tips based on the same features you researched earlier. Your goal is to produce 10 short, actionable best-practice tips that help employees start using the new Microsoft 365 features with confidence.
 
-1.  On the **Microsoft 365** home page, over the Microsoft 365 Copilot Chat verify the **Web** tab is selected. Since the scenario involves finding future features that are published by Microsoft and not stored in VanArsdel’s tenant, select the **Web** option rather than the **Work** option. Leave the response mode selector set to **Auto**.
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot Chat to create practical adoption resources that help employees confidently use upcoming Microsoft 365 features. You will generate a best-practice cheat sheet, create multiple content formats for distribution, and tailor guidance for different user personas. These resources will support training, onboarding, and ongoing feature adoption efforts across the organization.
+
+## Task 3: Use Microsoft 365 Copilot Chat to create best practice tips
+
+In this task, you will use Microsoft 365 Copilot Chat to create a 10 Best Practice Tips cheat sheet based on upcoming Microsoft 365 features. You will generate concise user guidance, convert the content into multiple formats, and create role-specific versions for Executives, Sales, and IT teams.
+
+1. On the **Microsoft 365** home page, over the Microsoft 365 Copilot Chat verify the **Web** tab is selected. Since the scenario involves finding future features that are published by Microsoft and not stored in VanArsdel’s tenant, select the **Web** option rather than the **Work** option. Leave the response mode selector set to **Auto**.
 
     ![](../media/Module3/E2T1S1.png)
 
-1.  In the **Copilot** Chat prompt, attach the document from **Task 1**, that contains the Microsoft 365 feature list. 
+1. In the **Copilot** Chat prompt, attach the document from Task 1 that contains the Microsoft 365 feature list. 
 
     ![](../media/Module3/E2T3S2.png)
 
     ![](../media/Module3/E2T3S2i.png)
 
-1. Then ask Copilot to create a cheat sheet titled **10 Best Practice Tips**. 
-    ```
-    Create a cheat sheet titled 10 Best Practice Tips. It should include 10 concise best-practice tips for adopting the new Microsoft 365 features that are listed in the attached document. Each tip should include a short sentence that describes what the tip is, followed by a short explanation (maximum of 25 words) that describes why the tip is important to users. 
-    ```
-3. Review the cheat sheet that **Copilot** generated. Submit any suggested Copilot prompts that interest you. For example, you might want to ask Copilot to add a poster-style visual. 
+1. Then ask Copilot to create a cheat sheet titled **10 Best Practice Tips**. It should include 10 concise best-practice tips for adopting the new Microsoft 365 features that are listed in the attached document. Each tip should include a short sentence that describes what the tip is, followed by a short explanation (maximum of 25 words) that describes why the tip is important to users. 
+
+3. Review the cheat sheet that Copilot generated. Submit any suggested Copilot prompts that interest you. For example, you might want to ask Copilot to add a poster-style visual. 
 
     ![](../media/Module3/E2T3S4.png)
 
@@ -31,13 +37,17 @@ Rather than starting from scratch, you plan to ask Copilot Chat to generate thes
     - Convert the list into a version for email (include a short subject line + 5 bullets).
     ```
 
-1.  Download the Word document and the PDF that Copilot generated. Open each file to review its contents.
+1. Download the Word document and the PDF that Copilot generated. Open each file to review its contents.
 
     ![](../media/Module3/E2T3S6.png)
 
 1. While you plan to use this material for educating frontline workers, it dawns on you that it might be best to create separate versions that are tailored for Executives, Sales, and IT. Ask Copilot to generate separate, persona-specific cheat sheets in PDF format for Executives, Sales, and IT.
 
 7.	Download each of the PDFs and review them. Note the differences between each persona’s document. 
+
+## Summary
+
+In this task, you used Microsoft 365 Copilot Chat to generate a best-practice cheat sheet that helps employees adopt upcoming Microsoft 365 features. You created concise and actionable guidance, converted the content into Word, PDF, and email-friendly formats, and developed persona-specific versions tailored for Executives, Sales, and IT professionals. These resources provide targeted support that can improve user readiness, training effectiveness, and overall feature adoption success.
 
 ## You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
 

@@ -6,7 +6,15 @@ One month after the feature rollout, VanArsdel’s CIO wants to know how employe
 
 You want to use the Surveys agent in Microsoft 365 Copilot to brainstorm and design this survey layout—including question types, structure, and branching logic. Your goal is to design an eight question survey (five scaled and three open-text) to capture meaningful feedback about users’ experience with the new features. Once you design the survey layout, you plan to copy and paste it into Microsoft Forms with the help of Copilot in Forms.
 
-1.  In the **Microsoft 365** home page, select **All agents**, then browse through the list of prebuilt agents and select the **Surveys** agent.
+## Lab Overview
+
+In this hands-on lab, you will use the Surveys agent in Microsoft 365 Copilot to design a feedback survey that measures employee adoption and satisfaction with newly deployed Microsoft 365 features. You will create structured survey questions, define branching logic, and refine the survey design to capture meaningful user insights. The resulting survey will help IT teams evaluate adoption progress, identify challenges, and gather actionable feedback from employees.
+
+## Task 4: Use the Surveys agent to create a feedback survey
+
+In this task, you will use the Surveys agent to create an employee feedback survey focused on Microsoft 365 feature adoption. You will design quantitative and qualitative questions, add demographic information, refine response scales, and configure branching logic to better understand adoption barriers and user experiences.
+
+1. In the **Microsoft 365** home page, select **All agents**, then browse through the list of prebuilt agents and select the **Surveys** agent.
 
     ![](../media/Module3/E2T4S1.png)
 
@@ -14,7 +22,7 @@ You want to use the Surveys agent in Microsoft 365 Copilot to brainstorm and des
 
       ![](../media/Module3/E2T4S1N.png)
 
-2.  Ask the **Surveys** agent to create a new survey that captures feedback on VanArsdel’s employee experience with the new Microsoft 365 features (**attach the document containing the features from Task 1**). The survey should include the following features:
+2. Ask the **Surveys** agent to create a new survey that captures feedback on VanArsdel’s employee experience with the new Microsoft 365 features (attach the document containing the features from Task 1). The survey should include the following features:
 
     ```
     - A one-sentence introduction
@@ -24,7 +32,7 @@ You want to use the Surveys agent in Microsoft 365 Copilot to brainstorm and des
     ```
     ![](../media/Module3/E2T4S2.png)
 
-3.  Review the results. While it appears to be a good starting point, you feel that it can be improved with just some minor tweaks. 
+3. Review the results. While it appears to be a good starting point, you feel that it can be improved with just some minor tweaks. 
 
     ![](../media/Module3/E2T4S3.png)
 
@@ -39,10 +47,14 @@ You want to use the Surveys agent in Microsoft 365 Copilot to brainstorm and des
 
     ![](../media/Module3/E2T4S5.png)
 
-1.  Review the results. Once Copilot keeps the draft that you selected, it might indicate that it has other suggestions for your form. View those suggestions. For each suggestion, you can view how it affects your form. For example, select the suggestion to modernize the form theme, and then select a theme. Note the change to the form. You can then either discard or keep the change.
+1. Review the results. Once Copilot keeps the draft that you selected, it might indicate that it has other suggestions for your form. View those suggestions. For each suggestion, you can view how it affects your form. For example, select the suggestion to modernize the form theme, and then select a theme. Note the change to the form. You can then either discard or keep the change.
 
     ![](../media/Module3/E2T4S6.png)
 
+
+## Summary
+
+In this task, you used the Surveys agent in Microsoft 365 Copilot to design a comprehensive employee feedback survey for Microsoft 365 feature adoption. You created a balanced mix of quantitative and open-text questions, incorporated branching logic to capture adoption challenges, and enhanced the survey with demographic and response-scale improvements. You then reviewed and refined the survey in Microsoft Forms, creating a valuable tool for measuring user engagement, satisfaction, and adoption success.
 
 ## You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
 

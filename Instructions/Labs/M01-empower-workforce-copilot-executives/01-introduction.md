@@ -1,82 +1,140 @@
----
-lab:
-  title: 'Lab Setup:'
-  description: In this module, we'll create prompts for Microsoft 365 Copilot that reference files. First, let’s upload all required files to OneDrive to ensure they're accessible throughout the lab.
-  duration: 44 minutes
-  level: 200
-  islab: true
-  primarytopics:
-    - Microsoft 365
-    - Microsoft 365 Copilot
----
+# Module 1: Empower Workforce with Microsoft 365 Copilot for Executives
 
-# Lab Setup:
+## Lab Overview
+
+Microsoft 365 Copilot helps executives transform information into actionable insights, accelerate decision-making, and improve organizational alignment. By integrating AI capabilities directly into familiar Microsoft 365 applications, Copilot enables leaders to spend less time gathering information and more time driving strategic outcomes.
+
+Throughout this module, you'll explore how Microsoft 365 Copilot can assist executives in analyzing business data, creating executive communications, managing projects, and leveraging AI-powered agents to obtain business insights.
+
+Key executive scenarios covered in this module include:
+
+- **Communication intelligence**. Use Copilot in Teams to synthesize information from emails, meetings, and chats, enabling executives to stay informed on critical initiatives without information overload.
+
+- **Strategic reporting**. Use Copilot in Word to transform business data into executive-ready reports, summaries, and recommendations.
+
+- **Financial analysis and forecasting**. Use Copilot in Excel to analyze budget forecasts, identify trends, evaluate risks, and generate what-if scenarios.
+
+- **Project planning and oversight**. Use Copilot in Planner to build and manage strategic project plans while maintaining visibility into milestones, dependencies, and progress.
+
+- **Business insights agents**. Create and configure custom Copilot agents that provide on-demand intelligence using organizational knowledge sources.
+
+## Copilot Prompting
+
+One of the primary keys to effectively using Copilot is the quality of your prompts. A well-structured prompt contains four key elements:
+
+- **Goal**. Clearly state what you want Copilot to accomplish.
+
+  Example:
+
+  **Generate a concise executive summary of project status updates.**
+
+- **Context**. Provide background information so Copilot understands the business scenario.
+
+  Example:
+
+  **Prepare the summary for a leadership review meeting regarding Project Nexus.**
+
+- **Sources**. Specify where Copilot should gather information.
+
+  Example:
+
+  **Use emails, Teams chats, and meeting notes from the past 30 days.**
+
+- **Expectations**. Describe the desired format, tone, and level of detail.
+
+  Example:
+
+  **Present the results as an executive briefing with key decisions, risks, milestones, and action items.**
+
+Using these four elements consistently helps produce clear, relevant, and actionable responses.
+
+## Getting Started with the lab
+
+We've prepared a seamless environment for you to explore and learn about **Module 1: Empower Workforce with Microsoft 365 Copilot for Executives**. Let's begin by making the most of this experience!
+
+## Accessing Your Lab Environment
+ 
+Once the lab environment is ready, the virtual machine displayed on the left will be your primary workspace for completing the exercises, while the **Guide** on the right side provides step-by-step instructions for each task.
+
+![](../media/ms4004-l1-1.png)
+
+## Exploring Your Lab Resources
+ 
+To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
+ 
+![](../media/module-4/env-0206.png)
+
+## Utilizing the Split Window Feature
+ 
+For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
+
+![](../media/module-4/split-0206.png)
+
+## Managing Your Virtual Machine
+ 
+Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from the **Resources (1)** tab. Your experience is in your hands!
+
+![](../media/module-4/res-0206.png)
+
+## Lab Setup
 
 In this module, we'll create prompts for Microsoft 365 Copilot that reference files. First, let’s upload all required files to OneDrive to ensure they're accessible throughout the lab.
-
 
 ### Uploading Files to OneDrive
 
 Follow the steps below to upload all files needed to **OneDrive**:
 
-1. Log into the virtual machine provided by your tenant provider as the local **Administrator** account with the password `Pa55w.rd`.
-2. In the Windows taskbar, select **Microsoft Edge**.
-3. In the address bar, enter `https://www.office.com`.
-4. Under **Welcome to Microsoft 365**, select **Sign in**.
-5. At the **Sign-in prompt**, enter `userx@yourtenant.onmicrosoft.com` (username and tenant provided by your tenant provided) and select **Next**.
-6. At the **Enter password** screen, enter the password (provided by tenant provider) for the User account, then select **Sign in**.
-7. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
-8. In **Microsoft 365**, select **Apps**.
-9. Within **Apps**, select **OneDrive**.
-10. In **OneDrive**, in the top-left corner, select **+** (add new) > **File upload**.
-11. In **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **ResourceFiles** folder.
-12. Select all files within the **ResourceFiles** folder, then select **Open** to upload them to **OneDrive**.
-13. When the upload is complete, you should see **Uploaded 29 items to My files** in the bottom center of the screen.
-14. Leave **Edge** open and move on to the next task.
+1. In the LabVM, open the **Microsoft Edge** browser from the from Desktop.
 
-### Referencing Files in Copilot
+    ![Open Edge](../media/module-4/prereq-1.png)
+
+1. In the address bar, enter the following URL to navigate to Microsoft 365:
+
+    ```
+    https://www.microsoft365.com
+    ```
+1. Enter the following credentials to sign in to Microsoft 365:
+
+    - **Email/Username**: **<inject key="AzureAdUserEmail"></inject>**
+
+    - **Password**: **<inject key="AzureAdUserPassword"></inject>**
+
+1. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
+
+1. In the Microsoft 365 portal, click on the **App launcher  (1)** button and select **OneDrive (2)**.
+
+    ![](../media/module-4/prereq-2.png)
+
+1. In **OneDrive**, in the top-left corner, select **+ Create or upload (1)** > **Files upload (2)**.
+
+    ![](../media/module-4/prereq-3.png)
+
+1. In **File Explorer**, navigate to **`C:\AllFiles` (1)** location and select all the files **(2)** from the folder and click **Open (3)**.
+
+    ![](../media/ms4004-l1-2.png)
+
+1. When the upload is complete, you should see **Uploaded 93 items to My files** in the bottom center of the screen.
+
+    ![](../media/ms4004-l1-3.png)
+
+1. Leave **Edge** open and move on to the next task.
+
+## Referencing Files in Copilot
 
 When using Copilot, you may find that some files aren’t immediately available in the suggestions. This occurs because certain Copilot experiences only reference files from the **Most Recently Used (MRU)** list, while others let you browse **OneDrive** directly. To ensure a file appears in the **MRU** list, simply open it in the relevant Microsoft 365 app, and it will be added automatically.
 
-> [!IMPORTANT]
-> Microsoft 365 Copilot can only work with files saved to **OneDrive**. Files stored locally on your PC will need to be moved to **OneDrive** for Copilot to access them.
+> **`Important:`** Microsoft 365 Copilot can only work with files saved to **OneDrive**. Files stored locally on your PC will need to be moved to **OneDrive** for Copilot to access them.
 
-# Introduction
----
-In today’s rapidly evolving business landscape, executives face the dual challenge of making impactful decisions and maintaining strategic oversight, often under tight deadlines and with an overwhelming volume of information. Microsoft 365 Copilot is transforming the way leaders approach these challenges, serving as an intelligent partner that amplifies executive capabilities across the organization. 
+## Support Contact
+ 
+The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
+ 
+Learner Support Contacts:
+ 
+- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
+- Live Chat Support: https://cloudlabs.ai/labs-support
+ 
+Click **Next** from the bottom right corner to embark on your Lab journey!
 
-As someone who's in a position of executive leadership, refining your ability to effectively use Copilot is crucial for harnessing its full potential. You can use this skill across various executive tasks involving all the Microsoft 365 apps. For example, drafting reports in Microsoft Word, analyzing data in Excel, creating presentations in PowerPoint, and beyond.
-
-This module shows you how Copilot integrates seamlessly with familiar Microsoft 365 apps, such as Word, Excel, Teams, Outlook, and Planner, enabling executives to:
-
-- **Accelerate decision-making**. Copilot quickly transforms complex business data into actionable insights, allowing leaders to focus on strategy rather than manual analysis. Whether summarizing quarterly performance, forecasting budgets, or identifying emerging risks, Copilot delivers the clarity executives need to act with confidence.
-
-- **Streamline communication**. In Microsoft Teams, Copilot synthesizes emails, meetings, and chats, providing executives with concise summaries of key discussions, decisions, and action items. This ability ensures leaders stay informed and can drive alignment across teams without being distracted from information overload.
-
-- **Automate routine work**. By automating tasks such as report generation, project planning, and stakeholder updates, Copilot frees up executive time for high-value activities—like steering critical initiatives and fostering innovation.
-
-- **Enhance strategic visibility**. Copilot’s AI-powered agents proactively monitor business performance, flagging trends and risks before they escalate. Executives gain real-time visibility into operations, enabling proactive leadership and agile responses to market changes.
-
-This module also highlights the use of Copilot agents—customizable AI assistants that deliver targeted business insights. For executives, agents are invaluable because they:
-
-- **Provide on-demand intelligence**. Agents can be configured to answer executive-level questions about sales, forecasts, risks, and operational metrics, drawing from the latest company data and documents.
-
-- **Enable proactive leadership**. Instead of waiting for periodic reports, executives can use agents to receive instant updates and alerts on critical business indicators, helping them stay ahead of emerging issues.
-
-- **Support strategic decision-making**. Agents synthesize information across multiple sources, making it easier for leaders to compare trends, identify opportunities, and respond quickly to challenges.
-
-### Copilot prompting
-
-One of the primary keys to effectively using Copilot is the quality of your Copilot prompts. A good Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
-
-- **Goal**. Clearly state what you want Copilot to do. For example: “Generate three to five bullet points summarizing the latest project updates.”
-
-- **Context**. Provide background information so Copilot understands why you need this request and who or what is involved. For example: “Prepare these bullet points for a meeting with Client X about their ‘Phase 3+’ brand campaign.”
-
-- **Sources**. Specify where Copilot should look for information (documents, emails, Teams chats, and so on). For example: “Focus on emails and Teams chats since June.”
-
-- **Expectations**. Define how you want the response delivered—tone, style, or level of detail. For example: “Use simple language so I can get up to speed quickly” or “Explain it as if I were a pirate.”
-
-
-Keep these four elements front and center as you practice creating prompts—they’re the foundation for getting clear, accurate, and useful results from Copilot. Implementing these elements as you write prompts in these exercises can build real-world skills, so writing effective prompts becomes second nature.
+  ![](../media/module-4/next-0206.png)
 

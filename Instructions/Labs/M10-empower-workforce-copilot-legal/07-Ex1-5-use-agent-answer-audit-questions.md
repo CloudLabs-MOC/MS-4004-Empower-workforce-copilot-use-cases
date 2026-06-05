@@ -2,13 +2,23 @@
 
 ## Estimated duration: 20 minutes
 
+## Scenario
+
 Boulder Innovations is in the most active phase of its regulatory audit. Overnight, the audit team received a new batch of follow‑up questions from state regulators requesting clarification on several CCPA/CPRA‑related practices. Because some questions are nuanced and time‑sensitive, Boulder’s General Counsel wants the Legal team to use the newly created Regulatory Inquiry Assistant to gather fast, authoritative, Web‑sourced guidance before drafting formal responses. You must use your agent to research these inquiries, validate the references it provides, and summarize the findings so the Legal team can determine next steps.
 
-1.  The **Regulatory Inquiry Assistant** agent should still be open from the prior task. If not, then select the agent on the Microsoft 365 home page.
+## Lab Overview
+
+In this hands-on lab, you will use the Regulatory Inquiry Assistant created in Copilot Studio to research and respond to audit-related questions concerning CCPA and CPRA compliance. You will evaluate the agent’s ability to provide authoritative, citation-backed guidance and assess how it handles requests that fall outside its intended scope. This exercise helps validate the agent’s effectiveness as a research and compliance support tool for Boulder Innovations’ Legal team.
+
+## Task 5: Ask the Regulatory Inquiry Assistant questions related to an audit
+
+In this task, you will interact with the Regulatory Inquiry Assistant by submitting both valid audit-related questions and out-of-scope requests. You will review the quality of the responses, verify citations and sources, and assess whether the agent appropriately declines or redirects requests that require legal advice, internal company data, or unsupported information.
+
+1. The **Regulatory Inquiry Assistant** agent should still be open from the prior task. If not, then select the agent on the Microsoft 365 home page.
 
     ![](../media/Module10/E1T5S1.png)
 
-2.  Start a conversation with your **Regulatory Inquiry Assistant**. Here’s a list of some commonly asked questions during state audits. Ask your agent several of these questions to observe the responses, or come up with your own questions:  
+2. Start a conversation with your **Regulatory Inquiry Assistant**. Here’s a list of some commonly asked questions during state audits. Ask your agent several of these questions to observe the responses, or come up with your own questions:  
     | Prompt | Question |
     |---------|---------|
     | **Prompt 1** | Regulators are asking whether our current data-mapping disclosures fully reflect how we use personal information under CPRA. Can you identify what CPRA says about updating data-processing notices when business practices change? |
@@ -17,7 +27,7 @@ Boulder Innovations is in the most active phase of its regulatory audit. Overnig
     | **Prompt 4** | The audit team is questioning whether our contracts with analytics providers meet CPRA’s mandatory requirements for service providers. What are the specific elements CPRA expects to be included in these contracts? |
     | **Prompt 5** | Regulators are asking how long we're required to keep records of consumer requests and our responses. What does CPRA require for tracking, retaining, or documenting these interactions? |
     
-1.  Evaluate how the agent responded to questions you submitted. For each question, review whether the agent:
+1. Evaluate how the agent responded to questions you submitted. For each question, review whether the agent:
 
     - Used authoritative Web sources
 
@@ -27,7 +37,7 @@ Boulder Innovations is in the most active phase of its regulatory audit. Overnig
 
       ![](../media/Module10/E1T5S3.png)
 
-1. Now let’s see how the agent answers questions that fall outside its scope, violate its rules/limitations, or ask for impossible or prohibited tasks. Ask your agent several of these questions to observe the responses, or come up with your own questions.  
+1. Now let’s see how the agent answers questions that fall outside its scope, violate its rules/limitations, or ask for impossible or prohibited tasks. Ask your agent several of these questions to observe the responses, or come up with your own questions. 
 
     | Scenario | Prompt |
     |-----------|---------|
@@ -37,7 +47,11 @@ Boulder Innovations is in the most active phase of its regulatory audit. Overnig
     | **Questions outside the CCPA/CPRA domain** | Explain all Universal Data Privacy Regulation (UDPR) fines issued in the last 12 months and compare their legal basis. |
     | **Hypothetical or predictive enforcement scenarios** | Estimate how regulators will interpret our data-sharing practices next year. |
 
-5.  Evaluate how the agent responds to questions that it shouldn’t be able to answer. For these types of questions, the agent should gracefully decline, redirect, or request clarification.
+5. Evaluate how the agent responds to questions that it shouldn’t be able to answer. For these types of questions, the agent should gracefully decline, redirect, or request clarification.
+
+## Summary
+
+In this task, you used the Regulatory Inquiry Assistant to research CCPA and CPRA compliance topics commonly raised during regulatory audits. You evaluated the agent’s ability to provide accurate, well-supported responses using authoritative web sources and citations. You also tested the agent with requests outside its intended scope and verified that it appropriately handled unsupported, sensitive, or speculative questions, demonstrating responsible behavior and adherence to its configured guidelines.
 
 ## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 

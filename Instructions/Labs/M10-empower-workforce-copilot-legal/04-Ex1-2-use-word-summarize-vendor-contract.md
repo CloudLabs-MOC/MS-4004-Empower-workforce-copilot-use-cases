@@ -1,7 +1,8 @@
-
 # Exercise 1 - Task 2: Use Copilot in Word to summarize a vendor contract
 
 ## Estimated Duration: 34 minutes
+
+## Scenario
 
 As an Associate Counsel at Boulder Innovations, you're tasked with reviewing a new supplier agreement for a potential partnership with VanArsdel, Ltd. The plan is for VanArsdel to supply materials for Boulder’s new toy line of remote-controlled cars. The contract is lengthy, and while you need to ensure all the key terms align with Boulder Innovations’ business objectives, there’s a tight deadline to summarize the document for senior management. You must distill the most important details of the agreement—such as terms related to payment, termination, liability, and governing law—into a clear, concise summary that internal stakeholders can quickly review.
 
@@ -15,25 +16,33 @@ When **Edit with Copilot** is enabled, Copilot acts as an in-document author and
 
 When **Edit with Copilot** is disabled, Copilot behaves more like Copilot Chat. It can still research topics, summarize information, and draft text, but it doesn’t automatically modify the document. Instead, responses appear in the Copilot pane, and you decide what—if anything—gets added to the document. This approach is useful when you want Copilot to act as a research assistant or idea generator while maintaining full control over what content is inserted.
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **App launcher (1)** in the navigation pane, and then select **Word (2)** from the **Apps** menu.
+## Lab Overview
 
-    ![](../media/Module10/E1T2S1.png)
+In this hands-on lab, you will use Microsoft 365 Copilot in Word to review and summarize a supplier agreement between Boulder Innovations and VanArsdel, Ltd. You will generate an executive summary, identify contractual risks, clarify key legal terms, and create visual representations of responsibilities and obligations. The resulting document will help stakeholders quickly understand important contract provisions and support informed business decisions.
 
-1.  In **Word for the web**, Click on **+ Create blank document** to create a new Word blank document.
+## Task 2: Use Copilot in Word to summarize a vendor contract
 
-    ![](../media/Module10/E1T2S2.png)
+In this task, you will use Microsoft 365 Copilot in Word to analyze a supplier agreement and generate an executive summary. You will review key contract terms, identify potential risks and deviations, compare payment terms to industry practices, and create a responsibility matrix that outlines obligations for both parties.
 
-    > **NOTE:** IF it prompts for sigin use the same credentials and signin.
+1. In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **App launcher (1)** in the navigation pane, and then select **Word (2)** from the **Apps** menu.
 
-1.   On the **Word** page, click inside the **Describe what you'd like to draft with Copilot** prompt box located below the ribbon.
+     ![](../media/Module10/E1T2S1.png)
+
+1. In **Word for the web**, Click on **+ Create blank document** to create a new Word blank document.
+
+     ![](../media/Module10/E1T2S2.png)
+
+     > **NOTE:** IF it prompts for sigin use the same credentials and signin.
+
+1. On the **Word** page, click inside the **Describe what you'd like to draft with Copilot** prompt box located below the ribbon.
 
       ![](../media/Module10/E1T2S3.png)
 
-1.  In the prompt field that appears in the Copilot pane, click on **+ Add Content(1)** and then search **(2)** and select **(3)** the **Boulder-VanArsdel Supplier Agreement** file that is locatedonedrive location.
+1. In the prompt field that appears in the Copilot pane, click on **+ Add Content(1)** and then search **(2)** and select **(3)** the **Boulder-VanArsdel Supplier Agreement** file that is locatedonedrive location.
 
     ![](../media/Module10/E1T2S4.png)
 
-6.  In the Copilot pane, ask Copilot to create an executive summary document based on the attached document and review the results then click on **Done**.
+6. In the Copilot pane, ask Copilot to create an executive summary document based on the attached document and review the results then click on **Done**.
 
     ```
     Create an executive summary document based on the attached `Boulder-VanArsdel Supplier Agreement`. The summary should include the following sections: term/renewal, termination, payment terms, liability/indemnity, data handling (privacy, retention, breach notification), governing law, and dispute resolution. The summary should also include a “Red Flags & Deviations” section in red font. This section should highlight any unusual clauses or red flags in the Indemnity and Termination sections. The final section in the document should be a short “Key Risks & Deviations” section. The document should be titled “VanArsdel Supplier Agreement – Executive Summary.”
@@ -70,7 +79,11 @@ When **Edit with Copilot** is disabled, Copilot behaves more like Copilot Chat. 
     ![](../media/Module10/E1T2S9.png)
 
 1. Review the suggestions and feel free to ask Copilot to include any items in the document that are of interest to you.
-    
+
+## Summary
+
+In this task, you used Microsoft 365 Copilot in Word to create an executive summary of the Boulder–VanArsdel Supplier Agreement. You reviewed important contract provisions including payment terms, termination conditions, liability, indemnification, data handling requirements, governing law, and dispute resolution. You also identified potential red flags, clarified termination language, compared contract terms against industry practices, and created a responsibility matrix that highlights key obligations, timelines, and associated risks for both organizations.
+
 ## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
 ![](../media/Module3/Next.png)

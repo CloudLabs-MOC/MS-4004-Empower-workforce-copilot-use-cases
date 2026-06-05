@@ -1,101 +1,260 @@
----
-lab:
-  title: 'Exercise 2, Task 4: Create a Northwind Business Insights agent'
-  description: This scenario shows how Copilot agents empower executives to move from reactive management to proactive, insight-driven leadership.
-  duration: 44 minutes
-  level: 100
-  islab: true
----
+# Exercise 2: Drive business outcomes using Microsoft 365 Copilot
 
-# Exercise 2, Task 4: Create a Northwind Business Insights agent
----
-To stay ahead of market trends, Northwind Traders’ leadership needs real-time visibility into performance metrics across sales, supply chain, and customer sentiment. Rather than waiting for periodic reports, you plan to create a Northwind Business Insights agent in Microsoft 365 Copilot to proactively monitor key indicators and flag emerging issues for Northwind executives. In this task, you configure the agent to track performance and deliver actionable insights, allowing you to respond quickly to deviations from forecasted results.
+## Scenario
 
-> [!NOTE] 
-> In this exercise, you use the Copilot Studio lite experience to create the Northwind Business Insights Agent. This simplified experience is designed for everyday business users and requires no programming skills. By contrast, software developers who build more complex, advanced agents typically use the full Copilot Studio experience.
+Northwind Traders' leadership team requires timely access to business insights related to sales performance, operational health, customer sentiment, and budget forecasts. Rather than manually reviewing reports, executives want a dedicated Copilot agent that can answer questions using approved business documents and provide consistent, data-driven responses.
 
-This scenario shows how Copilot agents empower executives to move from reactive management to proactive, insight-driven leadership.
+Using Microsoft 365 Copilot Agent Builder, you will create and configure a **Northwind Business Insights Agent** that uses business reports and forecast data as knowledge sources.
 
-Perform the following steps to complete this task:
+> **Note:** This exercise uses the simplified Agent Builder experience available within Microsoft 365 Copilot. No coding or development experience is required.
 
-1.  Open a new tab in your Microsoft Edge browser and then open Microsoft 365.
+## Lab Overview
 
-2.  In Microsoft 365, select **New agent** in the navigation pane. Doing so opens Copilot Studio’s **Agent Builder** and displays the **New agent** page.
+In this hands-on lab, you will use Microsoft 365 Copilot Agent Builder to create a custom business insights agent for Northwind Traders. You will configure the agent with business-focused instructions, attach approved knowledge sources, and create executive-oriented prompts that provide insights into sales performance, financial forecasts, customer sentiment, and operational health. The completed agent will help leaders access reliable, data-driven insights and support faster business decision-making.
 
-    On the **New Agent** page, you want to ask Copilot to create an agent. In the prompt, you should enter the agent’s name and a general description of what the agent is about, who its target audience is, and what you want it to do.  
-        <br/>For this agent, enter the following prompt and then select the forward arrow (Send) icon to submit the prompt:  
-        <br/>**Create an agent titled Northwind Business Insights Agent. The purpose of this agent is to provide responses to questions related to Northwind Traders' Sales performance, Supply chain health, Customer sentiment, and Results compared to the Q4 budget forecast. The agent should only use the files assigned to it as knowledge sources. The agent is intended for an executive audience.**
+## Task 4: Create a Northwind Business Insights Agent
 
-3.  After you selected the forward arrow, the **Agent Builder** form appeared for your new agent. At the top of the form is a **Describe** tab and a **Configure** tab.
-    - The **Describe** tab enables you to carry on a conversation with Copilot. This tab is displayed by default.
+In this task, you will use the Microsoft 365 Copilot Agent Builder experience to create a custom agent that provides business insights for Northwind Traders. The agent will use approved business documents as its knowledge sources and help executives analyze sales performance, supply chain health, customer sentiment, and forecast-related results.
 
-    - The **Configure** tab enables you to define the detailed settings that drive the agent.
-    
-    Wait a minute or two for Copilot to create the agent, at which time it displays the agent’s name and description in the **Agent preview** pane.
+This exercise demonstrates how business users can create purpose-built Copilot agents without programming skills by using natural language instructions and organizational knowledge sources.
 
-4.  Select the **Configure** tab at the top of the form. Let’s see what Copilot did based on the prompt that you entered.
+## Task 4.1: Create the Agent
 
-5.  On the **Configure** tab, the **Name** and **Description** fields should be filled in based on the prompt that you entered. Scroll down to the **Instructions** field. Copilot generated these instructions based on the description that you provided in your initial prompt. Review the detailed level of instructions that Copilot generated.
+In this task, you will use Copilot Agent Builder to create the Northwind Business Insights Agent and define its purpose, audience, and business scope.
 
-   > [!IMPORTANT]
-   > The beauty of the Agent Builder process is that Copilot automatically translates your basic, natural language description into a complex set of instructions. This process saves you from creating this detailed instruction set on your own.
+1. Open a new browser tab and navigate to **Microsoft 365**.
 
-6.  If you wish to change the instructions, you can either manually edit them directly in the **Instructions** field, or you can ask Copilot to update the instructions for you.  
-    <br/>After reviewing the **Instructions**, you decide that you want to have Copilot add a couple of other items to the instruction set. To do so, select the **Describe** tab and then enter the following prompt:
+2. In the navigation pane, select **New agent (1)**.
+   
+3. In the prompt box, enter the following prompt **(2)**:
 
-    **Update the Instructions to include the following item: When generating responses, the agent should:**
-    
-    - **Flag missing or incomplete information**
-    - **Never invent data or rely on sources outside the defined knowledge source documents**
-    - **Stay within the Northwind Traders’ business context**
+   ```text
+   Create an agent titled Northwind Business Insights Agent. The purpose of this agent is to provide responses to questions related to Northwind Traders' Sales performance, Supply chain health, Customer sentiment, and Results compared to the Q4 budget forecast. The agent should only use the files assigned to it as knowledge sources. The agent is intended for an executive audience.
+   ```
 
-7.  Review Copilot’s response after updating the instructions. To verify the changes that Copilot made, select the **Configure** tab and then scroll down to the **Instructions** field. Verify that Copilot added the new instructions that you requested.
+4. Select **Send (3)**.
 
-8.  While the current instructions look good, you wonder if they could be improved upon. You aren't sure how to improve them, so you decide to ask Copilot what it thinks.  
-    <br/>To do so, select the **Describe** tab. This time, enter a prompt that asks Copilot what other instructions it would recommend that could improve this agent.
+    ![](../media/m01-19.png)
 
-9.  Review Copilot’s recommendations. You’re pleased with its suggestions, so ask Copilot to add them all to the agent’s instructions.
+5. Wait for Copilot to generate the agent.
 
-10.  Once Copilot responds that it updated the instructions, select the **Configure** tab and scroll through the **Instructions**. Note the new items that Copilot added.
+   > **Note:** Agent creation may take a minute or two to complete.
 
-11.  Now that you’re satisfied with the instructions, you’re ready to configure the agent’s knowledge sources and starter prompts.  
-    <br/>In the **Configure** tab, scroll down to the **Knowledge** section and verify the **Search all websites** toggle switch is disabled. Copilot should have disabled this toggle switch when it created the agent based on the description you provided in your original prompt, which told it to only use the files that you provide. If the toggle switch is enabled, then disable it now.
+6. Verify that the **Northwind Business Insights Agent** appears in the Agent Preview pane.
 
-12.  In the **Knowledge** section, select the **Upload from device** icon that appears next to the **Enter a URL or name or drop files here** field. In the **File Explorer** window that appears, navigate to your **OneDrive** folder and select the **Q3 Executive Briefing.docx** file from Task 1 and the **Northwind Traders Q4 budget forecast.xlsx** file from Task 2 as knowledge sources for the agent.
+### Expected Outcome
 
-13.  For **Suggested prompts**, you can have Copilot generate prompts for you, or you can manually create your own prompts. Let’s try both methods.  
-    <br/>To have Copilot generate suggested prompts, select the **Describe** tab and then ask Copilot to generate three suggested prompts for the agent. Note how each prompt has a title and a message.
+Copilot creates a new agent and generates an initial description, instructions, and configuration based on the prompt.
 
-14. You now want to enter several of your own prompts. Select the **Configure** tab and scroll down to the **Suggested prompts** section. You should see the three prompts that Copilot added to the agent.  
-    <br/>For each prompt that you want to manually add, select the **Add a suggested prompt** option that appears below the prompts.  
-    <br/>Six suggested prompts are displayed below that are related to popular financial topics and actions. Review these prompts, select two or three that you like, and then add them to the agent.
+## Task 4.2: Review the Generated Configuration
 
-    - **Title:** Top risks
-        - **Message:** What are the top risks to meeting our Q4 revenue forecast?  
-            
-    - **Title:** Customer sentiment trends
-        - **Message:** Summarize customer sentiment trends from the latest reports. (Note: This prompt is interesting given the data in the knowledge sources. See what happens when you use this prompt).  
-            
-    - **Title:** Budget vs. Sales
-        - **Message:** Compare actual sales performance to the Q4 budget forecast.  
-            
-    - **Title:** Bottlenecks
-        - **Message:** Identify supply chain bottlenecks that could affect Q4 delivery timelines.  
-            
-    - **Title:** Top performing product categories
-        - **Message:** Highlight the top-performing product categories based on recent sales data.  
-            
-    - **Title:** Emerging market trends
-        - **Message:** What emerging market trends should we watch for in the next quarter?  
-            
-15. Test several of the suggested prompts. Verify the agent is correctly pulling in data from the knowledge source documents.
+In this task, you will review the agent's generated name, description, and instructions to ensure they align with business requirements.
 
-16. Once you’re satisfied with the results for the suggested prompts, select the **Create** button to create the agent.
+1. Select the **Configure** tab.
 
-17. Once the agent is created, a dialog box appears that indicates the agent was successfully created. In this dialog box, you can either go to the agent or share it. Select the **Go to agent** option.
+2. Review the following sections:
 
-> [!NOTE]
-> At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+   - Name
+   - Description
+   - Instructions
 
+3. Examine the instructions generated by Copilot.
 
+4. Observe how Copilot converted the high-level business requirements into detailed agent instructions.
 
+### Expected Outcome
+
+The agent contains a generated instruction set aligned to the business scenario and intended audience.
+
+## Task 4.3: Update the Agent Instructions
+
+In this task, you will enhance the agent's instructions to improve accuracy, transparency, and compliance with approved data sources.
+
+1. Navigate to the **Agent builder** section.
+
+2. Enter the following prompt:
+
+   ```text
+   Update the Instructions to include the following items:
+   
+   - Flag missing or incomplete information
+   - Never invent data or rely on sources outside the defined knowledge source documents
+   - Stay within the Northwind Traders business context
+   ```
+   
+   ![](../media/ms4004-l1-13.png)
+   
+3. Submit the prompt.
+
+4. Review Copilot's response.
+
+5. Return to the **Configure** tab.
+
+6. Verify that the new instructions were added to the instruction set.
+
+### Expected Outcome
+
+The agent instructions are updated to improve reliability, transparency, and data governance.
+
+## Task 4.4: Enhance the Agent Instructions
+
+In this task, you will use Copilot to recommend and add additional instructions that improve the quality and usefulness of the agent's responses.
+
+1. Return to the **Agent builder** section.
+
+2. Enter a prompt asking Copilot to recommend additional instructions that could improve the agent.
+
+   Example:
+
+   ```text
+   Review the current instructions and recommend additional guidance that would improve the quality, accuracy, and usefulness of this executive business insights agent.
+   ```
+
+3. Review Copilot's recommendations.
+
+4. If satisfied with the recommendations, ask Copilot to add them to the instruction set.
+
+   Example:
+
+   ```text
+   Add all of the recommended instructions to the agent.
+   ```
+
+5. After Copilot confirms the update, return to the **Configure** tab.
+
+6. Review the updated instruction set.
+
+### Expected Outcome
+
+The agent contains a more comprehensive instruction set tailored to executive business reporting scenarios.
+
+## Task 4.5: Configure Knowledge Sources
+
+In this task, you will upload approved business documents and configure them as the agent's knowledge sources.
+
+1. On the **Configure** tab, scroll to the **Knowledge** section.
+
+2. Verify that the **Search all websites** option is disabled.
+
+     ![](../media/lab2-06-49.png) 
+
+    > **Note:** The agent should only use the approved knowledge sources uploaded during this exercise.
+
+3. If the option is enabled, disable it.
+
+4. Select **Upload from device**.
+
+15. In the **Knowledge** section, select the **Attach cloud files** icon that appears next to the **Enter a URL or name or drop files here** field. In the **File Explorer** window that appears, navigate to your **OneDrive** folder and select the **My files**. Upload the following files and then select the **Open** button.
+
+    - **Q3 Executive Briefing.docx**
+    - **Northwind Traders Q4 budget forecast.xlsx**
+
+      ![](../media/lab2-06-50.png) 
+
+6. Wait for both files to upload successfully.
+
+### Expected Outcome
+
+The uploaded business documents become the primary knowledge sources for the agent.
+
+## Task 4.6: Generate Suggested Prompts
+
+In this task, you will use Copilot to generate starter prompts that help executives interact with the agent effectively.
+
+1. Return to the **Agent builder** section.
+
+2. Enter the following prompt:
+
+   ```text
+   Generate three suggested prompts for this agent.
+   ```
+
+3. Review the prompts generated by Copilot.
+
+4. Note that each prompt includes:
+
+   - A title
+   - A prompt message
+
+### Expected Outcome
+
+Copilot generates starter prompts designed for executive users.
+
+## Task 4.7: Add Custom Suggested Prompts
+
+In this task, you will add custom prompts that focus on business risks, customer sentiment, sales performance, and operational insights.
+
+1. Select the **Configure** tab.
+
+2. Scroll to the **Suggested prompts** section.
+
+3. Review the prompts generated by Copilot.
+
+   ![](../media/ms4004-l1-13.png)
+
+4. Select **Add a suggested prompt**.
+
+5. Add two or three of the following prompts.
+
+   | Title | Message |
+   |---------|---------|
+   | Top risks | What are the top risks to meeting our Q4 revenue forecast? |
+   | Customer sentiment trends | Summarize customer sentiment trends from the latest reports. |
+   | Budget vs. Sales | Compare actual sales performance to the Q4 budget forecast. |
+   | Bottlenecks | Identify supply chain bottlenecks that could affect Q4 delivery timelines. |
+   | Top performing product categories | Highlight the top-performing product categories based on recent sales data. |
+   | Emerging market trends | What emerging market trends should we watch for in the next quarter? |
+
+### Expected Outcome
+
+The agent includes both AI-generated and manually created starter prompts.
+
+## Task 4.8: Test the Agent
+
+In this task, you will validate the agent by testing prompts and confirming that responses are based on approved knowledge sources.
+
+1. Test several of the suggested prompts.
+
+2. Verify that the responses are based on the uploaded knowledge sources.
+
+3. Confirm that the agent:
+
+   - References information from the uploaded documents.
+   - Remains within the Northwind Traders business context.
+   - Avoids generating unsupported information.
+
+### Expected Outcome
+
+The agent successfully answers questions using information contained within the approved business documents.
+
+## Task 4.9: Create and Access the Agent
+
+In this task, you will create the finalized agent and access it for future business analysis and decision-making.
+
+1. Select **Create**.
+
+2. Wait for the agent creation process to complete.
+
+3. When the confirmation dialog appears, select **Go to agent**.
+
+4. Review the completed agent.
+
+   > **Note:** The agent is private by default and is only accessible to you. In production environments, agents can be shared with other users when appropriate.
+
+### Expected Outcome
+
+The Northwind Business Insights Agent is created and ready to provide executive business insights based on approved organizational data.
+
+## Knowledge Check
+
+After completing this task, consider the following questions:
+
+- How did Copilot simplify the process of creating an intelligent business agent?
+- What benefits do knowledge sources provide when answering business questions?
+- Why is it important to restrict the agent to approved data sources?
+- How can suggested prompts improve the user experience?
+- How could this agent help executives make faster decisions?
+
+## Summary
+
+In this task, you used Microsoft 365 Copilot Agent Builder to create the Northwind Business Insights Agent. You configured the agent's instructions, connected approved business documents as knowledge sources, generated executive-focused prompts, and tested its responses. The completed agent provides business leaders with a reliable way to access insights, analyze performance, and make informed decisions using trusted organizational data.
