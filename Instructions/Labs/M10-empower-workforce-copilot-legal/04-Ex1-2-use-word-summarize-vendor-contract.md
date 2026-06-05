@@ -1,7 +1,8 @@
-
 # Exercise 1 - Task 2: Use Copilot in Word to summarize a vendor contract
 
 ## Estimated Duration: 34 minutes
+
+## Scenario
 
 As an Associate Counsel at Boulder Innovations, you're tasked with reviewing a new supplier agreement for a potential partnership with VanArsdel, Ltd. The plan is for VanArsdel to supply materials for Boulder’s new toy line of remote-controlled cars. The contract is lengthy, and while you need to ensure all the key terms align with Boulder Innovations’ business objectives, there’s a tight deadline to summarize the document for senior management. You must distill the most important details of the agreement—such as terms related to payment, termination, liability, and governing law—into a clear, concise summary that internal stakeholders can quickly review.
 
@@ -14,6 +15,14 @@ Copilot in Word can behave in two different ways, depending on whether **Edit wi
 When **Edit with Copilot** is enabled, Copilot acts as an in-document author and editor. You can ask Copilot to create a document from scratch, rewrite sections, add summaries, or refine language—and it can apply those changes directly to the document, typically with your confirmation. In this experience, Copilot behaves like a collaborative writing partner that can both generate and revise content without requiring manual copy and paste. This is commonly the experience when prompting Copilot from within a Word document, such as using the drafting prompt above a blank document or the prompt field in the Copilot pane.
 
 When **Edit with Copilot** is disabled, Copilot behaves more like Copilot Chat. It can still research topics, summarize information, and draft text, but it doesn’t automatically modify the document. Instead, responses appear in the Copilot pane, and you decide what—if anything—gets added to the document. This approach is useful when you want Copilot to act as a research assistant or idea generator while maintaining full control over what content is inserted.
+
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot in Word to review and summarize a supplier agreement between Boulder Innovations and VanArsdel, Ltd. You will generate an executive summary, identify contractual risks, clarify key legal terms, and create visual representations of responsibilities and obligations. The resulting document will help stakeholders quickly understand important contract provisions and support informed business decisions.
+
+## Task 2: Use Copilot in Word to summarize a vendor contract
+
+In this task, you will use Microsoft 365 Copilot in Word to analyze a supplier agreement and generate an executive summary. You will review key contract terms, identify potential risks and deviations, compare payment terms to industry practices, and create a responsibility matrix that outlines obligations for both parties.
 
 1. In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **App launcher (1)** in the navigation pane, and then select **Word (2)** from the **Apps** menu.
 
@@ -70,7 +79,11 @@ When **Edit with Copilot** is disabled, Copilot behaves more like Copilot Chat. 
     ![](../media/Module10/E1T2S9.png)
 
 1. Review the suggestions and feel free to ask Copilot to include any items in the document that are of interest to you.
-    
+
+## Summary
+
+In this task, you used Microsoft 365 Copilot in Word to create an executive summary of the Boulder–VanArsdel Supplier Agreement. You reviewed important contract provisions including payment terms, termination conditions, liability, indemnification, data handling requirements, governing law, and dispute resolution. You also identified potential red flags, clarified termination language, compared contract terms against industry practices, and created a responsibility matrix that highlights key obligations, timelines, and associated risks for both organizations.
+
 ## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
 ![](../media/Module3/Next.png)

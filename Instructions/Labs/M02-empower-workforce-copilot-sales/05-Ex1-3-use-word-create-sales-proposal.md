@@ -21,7 +21,7 @@ In this task, you will use Copilot in Word to create and enhance a sales proposa
 
 2. In **Word for the web**, create a blank document.
 
-3. On the **Home** tab ribbon, select **Copilot**. In the Copilot pane, verify the **Allow editing** icon appears in the prompt field next to the plus (+) sign.
+3. From the document, select **Copilot** icon located at the bottom-right corner of the screen to open the Copilot pane. In the Copilot pane, verify the **Allow editing** icon appears in the prompt field next to the plus (+) sign.
 
     ![](../media/lab2-06-11.png) 
 

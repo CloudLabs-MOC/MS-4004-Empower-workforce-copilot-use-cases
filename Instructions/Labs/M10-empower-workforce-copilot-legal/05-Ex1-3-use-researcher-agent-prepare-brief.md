@@ -2,9 +2,19 @@
 
 ## Estimated Duration: 34 minutes
 
+## Scenario
+
 As Boulder Innovations prepares for its state regulatory audit under heightened data‑protection scrutiny, leadership is asking the company’s Legal Department to provide a clear, high‑level summary of the issues that regulators typically investigate. Because Boulder’s product line includes smart play products and connected devices, regulators are focused on privacy, telemetry collection, consumer data retention, and cross‑border data storage practices.
 
 Your role as Associate Counsel is to help the Legal team quickly gather external context on what enforcement agencies prioritize during audits. You plan to use Copilot’s Researcher agent to pull together a concise, regulator‑facing brief that distills the most common risk areas, demonstrates organizational awareness, and helps Boulder show proactive due diligence. You plan to share this brief with the Audit Prep Committee as part of Boulder’s preaudit readiness packet.
+
+## Lab Overview
+
+In this hands-on lab, you will use the Researcher agent in Microsoft 365 Copilot to investigate privacy-related regulatory risks and enforcement trends associated with the CCPA and CPRA. You will gather external research, identify common audit focus areas, and create a regulator-facing risk brief that supports Boulder Innovations’ audit preparation efforts. The resulting document will help leadership understand key compliance risks and demonstrate proactive readiness for regulatory review.
+
+## Task 3: Use Copilot Researcher to prepare a regulator facing issue brief
+
+In this task, you will use the Researcher agent to analyze emerging CCPA and CPRA enforcement trends and identify the most common areas of regulatory scrutiny. You will create an executive-focused risk brief, summarize findings in a tabular format, and develop actionable recommendations that support audit preparation and compliance planning.
 
 1. In your Microsoft Edge browser, go to the **Microsoft 365** home page and select **Researcher** from the list of agents in the navigation pane.
 
@@ -68,6 +78,10 @@ Your role as Associate Counsel is to help the Legal team quickly gather external
     - Select the **Create** button that appears at the top of the form. In the menu that appears, select **Document**.
     
     - Copilot opens a document in **Word** that contains the content from the **Pages** form. Save the document to your OneDrive as **Boulder Risk Brief – Executive Summary.docx**.
+
+## Summary
+
+In this task, you used the Researcher agent in Microsoft 365 Copilot to examine regulatory enforcement priorities and emerging legal risks related to the CCPA and CPRA. You created a risk brief that summarized common audit focus areas, documented enforcement trends, and provided practical recommendations for audit readiness. You also developed an actionable risk table and consolidated the findings into an executive-ready document that can be used to support Boulder Innovations’ regulatory compliance and audit preparation initiatives.
 
 ## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 

@@ -2,6 +2,8 @@
 
 ## Estimated duration: 44 minutes
 
+## Scenario
+
 As an Associate Counsel at Boulder Innovations, you were assigned to support the Legal team in drafting an internal guidance brief on the CCPA and CPRA. Your role is to support the Legal department by producing two key deliverables that can inform Boulder Innovations’ preparation for CCPA/CPRA compliance. To streamline your research and drafting process, you want to use Microsoft 365 Copilot Chat to explore the regulations and generate clear, actionable content for both legal and nonlegal audiences.
 
 Your two main objectives are:
@@ -17,6 +19,13 @@ In Copilot Chat on the web, the response mode selector lets you control how much
 When Copilot Chat opens in **Work** mode, the response mode selector isn’t shown. In **Work** mode, Copilot is optimized for secure, work‑context queries, so it automatically manages response depth for you. When you switch to **Web** mode, the response mode selector appears, allowing you to choose between faster responses or deeper reasoning. Once the selector is enabled, it remains visible as you switch between **Work** and **Web** modes. 
 <br/>If you’ve used Copilot in Excel, you know that it also includes a response control selector. However, its options are different from the Chat selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might look similar, they control different aspects of Copilot and aren't the same setting.
 
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot Chat to research and develop legal guidance related to the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA). You will generate compliance-focused summaries, create department-specific legal guidance, and develop actionable recommendations that help Boulder Innovations prepare for privacy regulation requirements. The resulting deliverables will support both legal professionals and business stakeholders in understanding and addressing compliance obligations.
+
+## Task 1: Use Copilot Chat to create regulatory legal guidance
+
+In this task, you will use Microsoft 365 Copilot Chat to analyze CCPA and CPRA requirements and create regulatory guidance tailored to Boulder Innovations. You will develop compliance summaries, comparison tables, action plans, and legal briefs designed for Legal, IT, Marketing, and Product Development teams.
 
 1. On the **Microsoft 365** home page, over the Microsoft 365 Copilot Chat verify the **Work** tab is selected by default. 
 
@@ -121,6 +130,10 @@ When Copilot Chat opens in **Work** mode, the response mode selector isn’t sho
     ![](../media/Module10/E1T1S18.png)
 
 1. Download the Product Development legal brief and review it. Verify that all the information you requested is in the document.
+
+## Summary
+
+In this task, you used Microsoft 365 Copilot Chat to research and summarize key CCPA and CPRA requirements relevant to Boulder Innovations. You expanded the guidance to address data retention, deletion practices, privacy-by-design principles, and product compliance considerations. You also created comparison tables, compliance action plans, and tailored legal briefs for Marketing, IT, and Product Development teams, providing practical guidance that supports organization-wide privacy compliance efforts.
 
 ## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 

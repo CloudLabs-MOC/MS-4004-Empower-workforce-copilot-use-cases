@@ -2,21 +2,31 @@
 
 ## Estimated duration: 44 minutes
 
+## Scenario
+
 As the audit window opens, the regulatory inquiries begin to trickle in—first a routine clarification, then a request for supporting documentation, then a surprise follow‑up asking for a deeper explanation of data‑handling obligations. Boulder Innovation knows how quickly these routine checks can escalate into a flood.
 
 To help the Legal Team stay ahead of the curve, you’re tasked with creating a Copilot Studio agent that can search the Web for authoritative regulatory sources on demand. Instead of spending hours digging for official guidance, the team gains a smart, dependable research assistant in their corner every time a new question associated with the state audit related to the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA) hits their inbox.
 
    > **NOTE:** In this exercise, you use the Copilot Studio lite experience to create the Regulatory Inquiry Assistant agent. This simplified experience is designed for everyday business users and requires no programming skills. By contrast, software developers who build more complex, advanced agents typically use the full Copilot Studio experience.
 
+## Lab Overview
+
+In this hands-on lab, you will use Copilot Studio to create a Regulatory Inquiry Assistant that helps Boulder Innovations respond to audit-related privacy and compliance questions. You will configure the agent to research authoritative CCPA and CPRA guidance, generate well-supported responses, and provide citations from trusted sources. The resulting agent will serve as a valuable research tool that helps the Legal team prepare for regulatory reviews and audits.
+
+## Task 4: Use Copilot Studio to create a Regulatory Inquiry Assistant
+
+In this task, you will use Copilot Studio's Agent Builder to create and configure a Regulatory Inquiry Assistant. You will define the agent's purpose, refine its instructions, enable web-based knowledge sources, add suggested prompts, and test its ability to provide accurate, citation-backed responses to regulatory inquiries.
+
 1. In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**. 
 
-1.  In Microsoft 365, select **All agents(1)** in the navigation pane, click on **+ Creat Agent (2)**.
+1. In Microsoft 365, select **All agents(1)** in the navigation pane, click on **+ Creat Agent (2)**.
 
     ![](../media/Module10/E1T4S2.png)
 
 1. Doing so opens Copilot Studio’s **Agent Builder** and displays the **New agent** page.
 
-3.  On the New Agent page, you want to ask Copilot to create an agent. In the prompt, you should enter the agent’s name and a general description of what the agent is about, who its target audience is, and what you want it to do.
+3. On the New Agent page, you want to ask Copilot to create an agent. In the prompt, you should enter the agent’s name and a general description of what the agent is about, who its target audience is, and what you want it to do.
     ```
     Create an agent titled Regulatory Inquiry Assistant. The purpose of this agent is to search the web for authoritative CCPA and CPRA guidance and generate clear, well-supported answers to audit-related questions. The agent helps the Legal team respond to regulators with speed, accuracy, and confidence. The agent is a research and drafting aid—not legal counsel. 
     ```
@@ -33,21 +43,21 @@ To help the Legal Team stay ahead of the curve, you’re tasked with creating a 
     Update the Instructions to include the following items: Responses should be written in a professional, precise, and neutral legal tone. The agent should flag uncertainties, version changes, or pending rulemaking when relevant.
     ```
 
-8.  Review Copilot’s response after updating the instructions. To verify the changes that Copilot made, select the **Configure** tab and then scroll down to the **Instructions** field. Verify that Copilot added the two new instructions that you requested.
+8. Review Copilot’s response after updating the instructions. To verify the changes that Copilot made, select the **Configure** tab and then scroll down to the **Instructions** field. Verify that Copilot added the two new instructions that you requested.
 
-9.  While the current instructions look good, you wonder if they could be improved upon. You aren't sure how to improve them, so you decide to ask Copilot what it thinks.To do so, select the Describe tab. This time, enter a prompt that asks Copilot what other instructions it would recommend that could improve this agent.
+9. While the current instructions look good, you wonder if they could be improved upon. You aren't sure how to improve them, so you decide to ask Copilot what it thinks.To do so, select the Describe tab. This time, enter a prompt that asks Copilot what other instructions it would recommend that could improve this agent.
 
     ```
     What other instructions would you recommend adding to improve this agent?
     ```
 
-10.  Review Copilot’s recommendations. You’re pleased with its suggestions, so ask Copilot to add them all to the agent's instructions.
+10. Review Copilot’s recommendations. You’re pleased with its suggestions, so ask Copilot to add them all to the agent's instructions.
 
         ```
         Add all of the recommended instructions to the agent.
         ```
 
-11.  Once Copilot responds that it updated the instructions, select the **Configure** tab and scroll through the **Instructions**. Note the new items that Copilot added.
+11. Once Copilot responds that it updated the instructions, select the **Configure** tab and scroll through the **Instructions**. Note the new items that Copilot added.
 
 1. In the **Configure** tab, scroll down to the **Knowledge** section and verify the Search all websites toggle switch is enabled. Copilot should have enabled this toggle switch when it created the agent based on the description you provided in your original prompt (that is, “The purpose of this agent is to search the web…”). If the toggle switch isn’t enabled, then do so now.
 
@@ -60,11 +70,11 @@ To help the Legal Team stay ahead of the curve, you’re tasked with creating a 
     ```
     Generate three suggested prompts for this agent and add these to the agent.
     ```
-1. You now want to enter several of your own prompts. Select the **Configure** tab and scroll down to the **Suggested prompts** section. You should see the three prompts that Copilot added to the agent.  
+1. You now want to enter several of your own prompts. Select the **Configure** tab and scroll down to the **Suggested prompts** section. You should see the three prompts that Copilot added to the agent. 
 
     ![](../media/Module10/E1T4S13.png)
 
-1. For each prompt that you want to manually add, select the **Add a suggested prompt** option that appears below the prompts.  
+1. For each prompt that you want to manually add, select the **Add a suggested prompt** option that appears below the prompts. 
     
 1. Six suggested prompts are displayed below that are related to popular regulatory topics. Review these prompts, select two or three that you like, and then add them to the agent.
 
@@ -79,7 +89,7 @@ To help the Legal Team stay ahead of the curve, you’re tasked with creating a 
     
     ![](../media/Module10/E1T4S16.png)
 
-15.  Test several of the suggested prompts. Verify the agent includes citations/links for each response.
+15. Test several of the suggested prompts. Verify the agent includes citations/links for each response.
 
 1. Wait a minute or two for Copilot to generate the agent. Once complete, the agent’s name, description, and configuration details appear on the right side of the page, where you can review them before selecting **Create**.
 
@@ -90,6 +100,10 @@ To help the Legal Team stay ahead of the curve, you’re tasked with creating a 
     ![](../media/Module10/E1T4S7.png)
 
     >**NOTE:** At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+
+## Summary
+
+In this task, you used Copilot Studio to build a Regulatory Inquiry Assistant designed to support Boulder Innovations' Legal team during privacy and compliance audits. You configured the agent to research authoritative CCPA and CPRA guidance, enhanced its instructions to improve response quality, enabled web search capabilities, and added suggested prompts for common regulatory topics. You then tested the agent to verify that it provides professional, well-supported responses with citations, creating a useful resource for audit preparation and regulatory research.
 
 ## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
