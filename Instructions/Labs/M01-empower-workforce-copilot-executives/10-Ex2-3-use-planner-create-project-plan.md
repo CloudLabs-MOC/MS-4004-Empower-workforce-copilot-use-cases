@@ -211,3 +211,8 @@ After completing this task, consider the following questions:
 ## Summary
 
 In this task, you used Microsoft Copilot in Planner to create and manage a project plan for Northwind Traders' new organic snack line launch. You generated tasks, milestones, goals, dependencies, stakeholder updates, and project timelines using AI-powered planning capabilities. The completed plan provides a structured approach for coordinating teams, tracking progress, and supporting successful project delivery.
+
+
+## You have successfully completed the module. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

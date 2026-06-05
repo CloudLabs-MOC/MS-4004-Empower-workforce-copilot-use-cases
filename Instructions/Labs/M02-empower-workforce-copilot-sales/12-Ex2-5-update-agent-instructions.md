@@ -64,3 +64,5 @@ In this task, you will update the EcoSense 360 RFP Response Agent with new instr
 ## Summary
 
 In this exercise, you used Copilot Studio to refine the EcoSense 360 RFP Response Agent by incorporating stakeholder-driven recommendations into its instruction set. You tested the updated agent by generating a new RFP response and comparing it with an earlier version to evaluate the enhancements. The updated agent demonstrated improved response quality, stronger compliance and technical coverage, and more detailed customer-facing content, helping increase the effectiveness of future RFP submissions.
+
+## You have successfully completed the task.

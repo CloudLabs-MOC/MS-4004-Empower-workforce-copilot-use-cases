@@ -214,3 +214,8 @@ After completing this task, consider the following questions:
 ## Summary
 
 In this task, you used Microsoft 365 Copilot in Excel to analyze Northwind Traders' Q4 budget forecast data and generate financial insights. You created forecasts, performed advanced analysis, evaluated what-if scenarios, and generated executive-ready visualizations that highlighted key trends and risks. The completed workbook provides valuable information that can help leadership improve planning, manage costs, and make informed business decisions.
+
+
+## You have successfully completed the module. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

@@ -136,5 +136,4 @@ Learner Support Contacts:
  
 Click **Next** from the bottom right corner to embark on your Lab journey!
 
-  ![](../media/module-4/next-0206.png)
-
+  ![](../media/ms4004-next.png)

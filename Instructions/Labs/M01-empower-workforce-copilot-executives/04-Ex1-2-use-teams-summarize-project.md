@@ -101,3 +101,6 @@ After completing this task, consider the following questions:
 
 In this task, you used Microsoft 365 Copilot in Teams to analyze and summarize discussions within the Project Nexus group chat. You generated conversation summaries, identified key decisions, milestones, risks, and action items, and explored project details using follow-up prompts. You also used Copilot citations to navigate directly to the original chat messages, enabling quick verification of information and helping stakeholders stay informed without manually reviewing lengthy chat conversations.
 
+## You have successfully completed the module. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

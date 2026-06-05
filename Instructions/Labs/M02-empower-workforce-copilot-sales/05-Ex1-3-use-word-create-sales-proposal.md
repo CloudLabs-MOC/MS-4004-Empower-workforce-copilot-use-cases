@@ -56,7 +56,9 @@ In this task, you will use Copilot in Word to create and enhance a sales proposa
     ```
 
 7. Review the results. The one thing that you might need to manually change is in the pain points section (which might be retitled to something else, such as Key Operational Challenges). If Copilot includes a bullet for how EcoSense 360 addresses each pain point, ensure the EcoSense 360 impact bullet is indented below its parent pain point bullet. That way, the bulleted list clearly draws attention to the EcoSense 360 solution for each pain point, as opposed to having what appears to be just a continuous string of bullets. For example:  
-    <br/>If your current version appears something like this:
+    
+    If your current version appears something like this:
+    
     - **High Energy Cost:** Hotels are facing rising energy expenses…
     - **EcoSense 360 Impact:** AI-driven optimization…
     - **HVAC Inefficiency:** Outdated or disconnected climate controls…
@@ -66,6 +68,7 @@ In this task, you will use Copilot in Word to create and enhance a sales proposa
 
     - **High Energy Cost:** Hotels are facing rising energy expenses…
         - **EcoSense 360 Impact:** AI-driven optimization…
+    
     - **HVAC Inefficiency:** Outdated or disconnected climate controls…
         - **EcoSense 360 Impact:** Integrated system connects with…  
 
@@ -76,3 +79,7 @@ In this task, you will use Copilot in Word to create and enhance a sales proposa
 ## Summary
 
 In this exercise, you used Copilot in Word to transform research findings into a customer-ready sales proposal for hotel and resort clients. You refined the proposal by connecting customer challenges to EcoSense 360 capabilities, improving executive-level messaging, and adding ROI insights. The completed document provides a compelling business case that can be used to support sales conversations and hospitality market expansion efforts.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-l1-5.png)

@@ -14,9 +14,11 @@ In this hands-on lab, you will use Copilot in Outlook to create and refine a per
 
 In this task, you will use Copilot in Outlook to draft, refine, and personalize a sales outreach email using content from an existing proposal. You will enhance the message with ROI insights, partnership details, and tone adjustments to create a compelling communication for hotel decision makers.
 
-1. In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **App launcher** in the navigation pane, and then select **Outlook**.
+1. In Microsoft Edge browser, navigate to the **Microsoft 365** home page, select **App launcher** in the navigation pane, and then select **Outlook**.
 
-2. In **Outlook on the web**, create a **new email**. Attach the **EcoSense360 Hospitality Proposal.docx** file that you created in the prior task.
+2. In **Outlook on the web**, create a **new email**. Select **Attach (1)**, and then choose **OneDrive (2)** to browse and then attach the **EcoSense360 Hospitality Proposal.docx** file that you created in the prior task.
+
+     ![](../media/lab6-06-14.png)
 
 3. In the body of the message, select the **Open Copilot** (pencil) icon that appears next to the attached file.
 
@@ -90,3 +92,7 @@ In this task, you will use Copilot in Outlook to draft, refine, and personalize 
 ## Summary
 
 In this exercise, you used Copilot in Outlook to create a professional outreach email introducing EcoSense 360 to a hospitality customer. You refined the email by incorporating proposal-based insights, highlighting ROI benefits, adding post-installation support messaging, and adjusting the tone to improve engagement. The completed email provides a personalized and persuasive communication that can help initiate meaningful sales conversations.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-l1-5.png)

@@ -223,3 +223,5 @@ After completing this task, consider the following questions:
 ## Summary
 
 In this task, you used the Northwind Business Insights Agent to answer executive-level business questions using approved organizational data. You analyzed forecast and sales performance, reviewed risks and growth opportunities, and combined information from multiple knowledge sources to generate actionable insights. The exercise demonstrated how custom Copilot agents can support faster decision-making and provide leaders with reliable, data-driven business recommendations.
+
+## You have successfully completed the module.

@@ -61,3 +61,7 @@ After completing this exercise, you should be able to:
 - Compare multiple projects and identify organizational risks.
 - Generate executive summaries and leadership briefings.
 - Create audience-specific communications from project insights.
+
+Click **Next** from the bottom right corner to embark on your Lab journey!
+
+  ![](../media/ms4004-next.png)

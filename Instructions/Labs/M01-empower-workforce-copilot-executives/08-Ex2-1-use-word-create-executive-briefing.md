@@ -169,3 +169,7 @@ After completing this task, consider the following questions:
 ## Summary
 
 In this task, you used Microsoft 365 Copilot in Word to transform Q3 sales data into an executive briefing report. You analyzed business performance, generated strategic recommendations, created revenue visualizations, and prepared leadership discussion materials. The completed documents provide valuable insights that can help senior leaders evaluate performance, identify opportunities, and make informed decisions for the upcoming quarter.
+
+## You have successfully completed the module. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

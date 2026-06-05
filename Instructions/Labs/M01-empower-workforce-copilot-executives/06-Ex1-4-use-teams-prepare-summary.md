@@ -149,3 +149,7 @@ After completing this task, consider the following questions:
 ## Summary
 
 In this task, you used Microsoft 365 Copilot in Teams to transform project insights into audience-specific communications. You created executive summaries, presentation-ready content, stakeholder announcements, and other communication formats tailored to different business needs. This exercise demonstrated how Copilot can help leaders efficiently communicate project status, risks, priorities, and recommendations while maintaining consistent messaging across audiences.
+
+## You have successfully completed the module. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

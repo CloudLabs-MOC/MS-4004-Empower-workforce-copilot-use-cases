@@ -130,3 +130,7 @@ After completing this exercise, consider the following questions:
 ## Summary
 
 In this exercise, you used Microsoft 365 Copilot Chat in Teams to synthesize communications related to Project Nexus from emails, meetings, and chat conversations. You generated a project summary, identified open action items and project risks, and created a stakeholder announcement highlighting key updates and milestones. The exercise demonstrated how Copilot can help project managers and business leaders quickly access important information, improve collaboration, and make informed decisions without manually reviewing multiple communication sources.
+
+## You have successfully completed the module. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

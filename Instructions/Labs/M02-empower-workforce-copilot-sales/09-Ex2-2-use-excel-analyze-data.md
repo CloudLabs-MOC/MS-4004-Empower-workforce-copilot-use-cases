@@ -24,7 +24,7 @@ In this task, you will use Copilot in Excel to analyze historical RFP submission
 
 1. Navigate to **OneDrive**, locate the **Fabrikam_Historical_RFP_Data.xlsx** file in the **EcoSense360-RFP-Documents** folder, and then open the file in **Excel for the web**.
 
-   ![](../media/lab2-l-n1.png) 
+   ![](../media/ms4004-l2-2.png) 
 
 5. From the Excel workbook, select the **Copilot** icon located at the bottom-right corner of the screen to open the Copilot pane. In the Copilot pane, leave the response mode selector set to **Auto**. Then verify the **Allow editing (1)** icon appears in the prompt field next to the plus (+) sign. 
 
@@ -57,3 +57,7 @@ In this task, you will use Copilot in Excel to analyze historical RFP submission
 ## Summary
 
 In this exercise, you used Copilot in Excel to analyze historical RFP data and identify the factors that influence proposal success. You generated summaries of requested features, deal outcomes, and regional performance, while creating visualizations to highlight key trends and opportunities. These insights provide valuable guidance for improving future RFP responses and enhancing the effectiveness of the EcoSense 360 RFP Response Agent.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

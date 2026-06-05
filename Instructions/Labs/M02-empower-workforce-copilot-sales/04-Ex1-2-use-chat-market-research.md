@@ -84,7 +84,7 @@ While you’re waiting for the Researcher agent to finish its analysis in Task 1
     Create the document so that I can download it.
     ```
 
-8. Once Copilot Chat creates the document, select the link to download it.
+8. Once Copilot Chat creates the document, select the link to **download it**.
 
     ![](../media/lab2-06-8.png)
 
@@ -107,3 +107,7 @@ While you’re waiting for the Researcher agent to finish its analysis in Task 1
 ## Summary
 
 In this task, you used Microsoft 365 Copilot Chat to research the hospitality energy management market and identify industry trends, customer pain points, competitors, and growth opportunities. Through a series of follow-up prompts, you transformed raw market information into actionable sales insights. You then compiled the findings into a structured Word document, creating a valuable resource to support EcoSense 360 sales and market strategy initiatives.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-l1-5.png)

@@ -184,4 +184,6 @@ In this task, you will use Copilot Studio Agent Builder to create and configure 
 
 In this exercise, you used Copilot Studio to create an RFP Response Agent that leverages product documentation, templates, and supporting materials to answer customer inquiries and generate proposal responses. You enhanced the agent with detailed instructions, curated knowledge sources, and custom prompts to improve response quality and consistency. The completed agent provides a scalable solution that helps reduce manual effort while delivering professional and accurate RFP responses.
 
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
+![](../media/ms4004-next.png)

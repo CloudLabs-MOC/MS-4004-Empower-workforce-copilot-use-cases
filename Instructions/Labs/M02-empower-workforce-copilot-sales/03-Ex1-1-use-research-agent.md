@@ -74,3 +74,7 @@ In this task, you will use Microsoft 365 Copilot Researcher to analyze leading h
 ## Summary
 
 In this task, you used Microsoft 365 Copilot Researcher to perform a competitive analysis of hotel energy management systems and explore current industry trends. You converted the research into a Word document and compared the findings with existing EcoSense360 market research using Copilot. The comparison highlighted key similarities, differences, and unique insights, providing a well-rounded understanding of the market landscape to support future sales and business strategy decisions.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-l1-5.png)

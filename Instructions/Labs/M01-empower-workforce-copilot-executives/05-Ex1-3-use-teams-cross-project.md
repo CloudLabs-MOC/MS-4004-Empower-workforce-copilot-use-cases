@@ -137,3 +137,7 @@ After completing this task, consider the following questions:
 ## Summary
 
 In this task, you used Microsoft 365 Copilot Chat in Teams to compare communications and progress across Project Nexus and Project Phoenix. You analyzed project milestones, key decisions, risks, blockers, dependencies, and open action items to gain a consolidated view of project health. You also generated a side-by-side comparison table and created a project status email based on Copilot's insights. This exercise demonstrated how Copilot can help executives and project leaders quickly understand multiple initiatives, improve cross-team coordination, and make informed strategic decisions.
+
+## You have successfully completed the module. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

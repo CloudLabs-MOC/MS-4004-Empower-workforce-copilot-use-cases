@@ -80,3 +80,7 @@ After completing this exercise, you should be able to:
 - Use knowledge sources to improve agent accuracy and relevance.
 - Generate executive insights and recommendations using AI-powered business tools.
 - Apply Copilot capabilities to support strategic planning and operational excellence.
+
+Click **Next** from the bottom right corner to embark on your Lab journey!
+
+![](../media/ms4004-next.png)

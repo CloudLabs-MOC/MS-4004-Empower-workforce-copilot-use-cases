@@ -258,3 +258,7 @@ After completing this task, consider the following questions:
 ## Summary
 
 In this task, you used Microsoft 365 Copilot Agent Builder to create the Northwind Business Insights Agent. You configured the agent's instructions, connected approved business documents as knowledge sources, generated executive-focused prompts, and tested its responses. The completed agent provides business leaders with a reliable way to access insights, analyze performance, and make informed decisions using trusted organizational data.
+
+## You have successfully completed the module. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

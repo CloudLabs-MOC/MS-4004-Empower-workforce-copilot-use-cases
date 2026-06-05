@@ -26,5 +26,6 @@ Fabrikam’s leadership team identified the hospitality industry (hotels and res
 
 To complete these tasks efficiently, you plan to use Microsoft 365 Copilot across several applications—experiencing how it can serve as your digital sales partner from research through client engagement.
 
+Click **Next** from the bottom right corner to embark on your Lab journey!
 
-
+  ![](../media/ms4004-next.png)

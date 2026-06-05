@@ -58,4 +58,6 @@ In this task, you will use Copilot in Teams to review a meeting transcript and e
 
 In this exercise, you used Copilot in Teams to analyze stakeholder feedback gathered during an RFP Response Agent review meeting. You identified the most impactful recommendations, summarized key discussion points, and transformed the feedback into structured instructions for agent improvement. The resulting insights provide a clear roadmap for enhancing the agent’s accuracy, coverage, and overall effectiveness.
 
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
+![](../media/ms4004-next.png)

@@ -15,3 +15,7 @@ In this exercise, you continue in your role as a Sales Executive at Fabrikam, In
 Each RFP is an opportunity, but also a challenge. The requests vary widely in format and complexity, and responding to them demands significant time from Sales, Product Management, and Engineering teams. Common questions, such as integration compatibility, sustainability metrics, and expected cost savings, are asked repeatedly across submissions. Given your recent success with using Copilot, Fabrikam’s leadership wants you to find a smarter, faster way to manage this process.
 
 Your goal is to build an RFP response agent in Microsoft 365 Copilot that can deliver consistent, accurate preliminary answers to customer inquiries about the EcoSense 360 energy management solution. The agent should help your Sales team respond more efficiently while maintaining a professional, customer-focused experience. To achieve this goal, you plan to use various Microsoft 365 Copilot tools to plan, build, and refine your solution.
+
+Click **Next** from the bottom right corner to embark on your Lab journey!
+
+  ![](../media/ms4004-next.png)
