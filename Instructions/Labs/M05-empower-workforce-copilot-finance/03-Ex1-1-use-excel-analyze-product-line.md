@@ -26,8 +26,6 @@ This task uses the default **Auto** selector mode.
 
 ## Steps
 
-1. Select the following link to download the [**EcoSmart COGS Estimates.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347616) file. Store the file in your **OneDrive** account for use by Copilot in your tenant.
-
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
     ```

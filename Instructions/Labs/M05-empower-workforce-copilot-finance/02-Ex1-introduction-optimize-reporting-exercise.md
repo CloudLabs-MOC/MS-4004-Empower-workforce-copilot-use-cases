@@ -21,3 +21,6 @@ In this exercise, you take on the role of a Financial Analyst at Fabrikam, Inc. 
 
 One of your key priorities is to help leadership make informed business decisions. Towards that end, you plan to use Copilot to analyze financial data, prepare acquisition summaries, and ensure reporting requirements are up to date. Throughout this exercise, you use Microsoft 365 Copilot across Excel, Teams, PowerPoint, and Copilot Chat to streamline your daily work, improve collaboration, and present data-driven insights more efficiently. Each task in this exercise builds upon the last, simulating a realistic workflow for a financial analyst.
 
+Click on **Next** from the lower right corner to move on to the next page.
+
+  ![](../media/ms4004-next.png)
