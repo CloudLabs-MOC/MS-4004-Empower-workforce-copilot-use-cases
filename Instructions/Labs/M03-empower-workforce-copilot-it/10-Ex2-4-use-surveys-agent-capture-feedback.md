@@ -1,6 +1,6 @@
 # Exercise 2, Task 4: Use the Surveys agent to create a feedback survey
 
-## Estimated duration: 26 minutes
+## Scenario
 
 One month after the feature rollout, VanArsdel’s CIO wants to know how employees are responding. Are they trying the new features? Are they running into problems? To gather this data, IT plans to distribute a short internal survey to measure adoption and satisfaction.
 
@@ -14,7 +14,7 @@ In this hands-on lab, you will use the Surveys agent in Microsoft 365 Copilot to
 
 In this task, you will use the Surveys agent to create an employee feedback survey focused on Microsoft 365 feature adoption. You will design quantitative and qualitative questions, add demographic information, refine response scales, and configure branching logic to better understand adoption barriers and user experiences.
 
-1. In the **Microsoft 365** home page, select **All agents**, then browse through the list of prebuilt agents and select the **Surveys** agent.
+1. In the **Microsoft 365** home page, select **All agents (1)**, then browse through the list of prebuilt agents and select the **Surveys (2)** agent.
 
     ![](../media/Module3/E2T4S1.png)
 
@@ -22,9 +22,11 @@ In this task, you will use the Surveys agent to create an employee feedback surv
 
       ![](../media/Module3/E2T4S1N.png)
 
-2. Ask the **Surveys** agent to create a new survey that captures feedback on VanArsdel’s employee experience with the new Microsoft 365 features (attach the document containing the features from Task 1). The survey should include the following features:
+1. In the **Surveys** agent prompt box, enter the provided prompt and attach the **Microsoft 365 features** document from Task 1.
 
     ```
+    Create a new survey that captures employee feedback on VanArsdel’s employee experience with the new Microsoft 365 features. The survey should include the following features:
+
     - A one-sentence introduction
     - Eight questions: five of which should be quantitative (Likert scales, multiple choice) and three open-text questions
     - Branching rules: If the employee answer "No" to any of the adoption questions, then ask a follow-up, open-text question in which they must explain why they didn’t adopt the feature.
@@ -39,9 +41,9 @@ In this task, you will use the Surveys agent to create an employee feedback surv
 1. Ask it to include one demographic question as a prompt to Copilot.
 
     ```
-    Include one demographic question that asks what department they’re in. Also, if the Likert scale questions don't provide text for each 1-5 option, then have it add text for all options. For example, if 1 is **Very difficult** and 5 is **Very easy**, but 2-4 have no explanations, then have it provide an explanation for 2-4 as well. 
+    Include one demographic question that asks what department they’re in. Also, if the Likert scale questions don't provide text for each 1-5 option, then have it add text for all options. For example, if 1 is Very difficult and 5 is Very easy, but 2-4 have no explanations, then have it provide an explanation for 2-4 as well. 
     ```
-    ![](../media/Module3/E2T4S4.png)
+    ![](../media/ms4004-l3-5.png)
 
 4. Scroll down to response after prompt, click on the **Survey form (1)**, you should be able to see the generated survey once you’re satisfied with the survey, select the **Open in Forms (2)** icon to open the form directly into Forms site.
 
@@ -58,4 +60,4 @@ In this task, you used the Surveys agent in Microsoft 365 Copilot to design a co
 
 ## You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
 
-![](../media/Module3/Next.png)
+![](../media/ms4004-next.png)

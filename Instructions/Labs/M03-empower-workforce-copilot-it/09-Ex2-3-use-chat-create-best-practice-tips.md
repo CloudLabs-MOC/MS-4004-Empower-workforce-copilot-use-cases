@@ -1,6 +1,6 @@
 # Exercise 2, Task 3: Use Microsoft 365 Copilot Chat to create best practice tips
 
-## Estimated duration: 20 minutes
+## Scenario
 
 Now that the announcement post is ready, you want to help users smoothly adopt these features. To do so, you want to create a cheat sheet that VanArsdel's end users can share during training sessions. You also want to include this cheat sheet with all onboarding materials.
 
@@ -24,7 +24,11 @@ In this task, you will use Microsoft 365 Copilot Chat to create a 10 Best Practi
 
     ![](../media/Module3/E2T3S2i.png)
 
-1. Then ask Copilot to create a cheat sheet titled **10 Best Practice Tips**. It should include 10 concise best-practice tips for adopting the new Microsoft 365 features that are listed in the attached document. Each tip should include a short sentence that describes what the tip is, followed by a short explanation (maximum of 25 words) that describes why the tip is important to users. 
+1. To create a best-practices reference guide, enter the provided prompt in the **Copilot** prompt box.
+
+    ```
+    Create a cheat sheet titled 10 Best Practice Tips. Include 10 concise best-practice tips for adopting the new Microsoft 365 features listed in the attached document. Each tip should include a short sentence describing the tip, followed by a brief explanation (maximum 25 words) explaining why the tip is important.
+    ```
 
 3. Review the cheat sheet that Copilot generated. Submit any suggested Copilot prompts that interest you. For example, you might want to ask Copilot to add a poster-style visual. 
 
@@ -33,6 +37,8 @@ In this task, you will use Microsoft 365 Copilot Chat to create a 10 Best Practi
 1. Ask Copilot to output the tips into the following formats:
 
     ```
+    Output the tips in the following formats:
+
     - Convert the list into a one-page cheat sheet (Word document) and a PDF.
     - Convert the list into a version for email (include a short subject line + 5 bullets).
     ```
@@ -51,4 +57,4 @@ In this task, you used Microsoft 365 Copilot Chat to generate a best-practice ch
 
 ## You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
 
-![](../media/Module3/Next.png)
+![](../media/ms4004-next.png)

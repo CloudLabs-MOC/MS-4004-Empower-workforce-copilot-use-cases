@@ -1,6 +1,6 @@
 # Exercise 1 - Task 2: Use Copilot in Whiteboard to identify potential risks
 
-## Estimated duration: 54 minutes
+## Scenario
 
 As the project moves into the planning phase, your IT team needs to identify potential risks that might affect schedule, budget, security, or operations. You’re responsible for facilitating a collaborative brainstorming session to capture and categorize all risks associated with the project. To achieve this goal, you plan to use Copilot in Microsoft Whiteboard to document these risks and group them into categories. Doing so can aid the IT team in developing mitigation strategies. Copilot in Whiteboard should base this list of risks on the project framework summary Word document that you created in Task 1 for the Network Modernization and Security Upgrade project.
 
@@ -16,7 +16,7 @@ In this hands-on lab, you will use Microsoft 365 Copilot in Whiteboard to facili
 
 In this task, you will use Microsoft 365 Copilot in Whiteboard to generate project risks related to network modernization, cybersecurity, hybrid work, and operational continuity. You will organize the risks into categories, review the AI-generated analysis, and create a summarized risk assessment document for future project planning activities.
 
-1. In the **Microsoft 365 Copilot Chat** window, select the **Apps (1)** icon in the navigation pane. In the **Apps** menu that appears, select **More apps (2)**. 
+1. In the **Microsoft 365 Copilot Chat** window, select the **App launcher (1)** icon in the navigation pane. In the **Apps** menu that appears, select **More apps (2)**. 
 
    ![](../media/Module3/E1T2S1.png)
 
@@ -26,7 +26,7 @@ In this task, you will use Microsoft 365 Copilot in Whiteboard to generate proje
 
    ![](../media/Module3/E1T2S2i.png)
    
-1.  In **Whiteboard for the web**, click on **+ New Whiteboard** to start a new Whiteboard session.
+1. In **Whiteboard for the web**, click on **+ New Whiteboard** to start a new Whiteboard session.
 
       ![](../media/Module3/E1T2S3.png)
 
@@ -38,17 +38,17 @@ In this task, you will use Microsoft 365 Copilot in Whiteboard to generate proje
 
    ![](../media/Module3/E1T2S4.png)
 
-4.  Select the **Copilot** icon next to the menu bar at the bottom of the page and then select **Suggest** from the menu that appears.
+4. Select the **Copilot (1)** icon next to the menu bar at the bottom of the page and then select **Suggest (3)** from the menu that appears.
 
     ![](../media/Module3/E1T2S5.png)
 
-5.  In the **Suggest content with Copilot** window, ask **Copilot** within Whiteboard to suggest a list of possible risks to upgrading a company’s corporate network infrastructure to improve performance, enhance cybersecurity, and support hybrid work.
-
-5.  In the **Suggest content with Copilot** window, ask **Copilot** within Whiteboard with the below prompt.
+5. In the **Suggest content with Copilot** window, ask **Copilot** with the below prompt.
+      
       ```
       Suggest a list of possible risks to upgrading a company’s corporate network infrastructure to improve performance, enhance cybersecurity, and support hybrid work.
       ```
-6.  By default, Copilot in Whiteboard generates ideas in groups of six. In the **Suggest content with Copilot** window that appears, note the first six ideas that it generated. Copilot gives you two options here - you can either attach the ideas to your whiteboard if you're satisfied with the suggestions, or you can have Copilot generate more suggestions. Notice how the **Insert (6)** button indicates the number of ideas that Copilot generated - in this case, six. While six suggestions are a good starting point, you want to dig deeper into the potential risks, so select the **Generate more** button. Note how Copilot generated another six ideas, so the **Insert (12)** button now displays 12. 
+
+6. By default, Copilot in Whiteboard generates ideas in groups of six. In the **Suggest content with Copilot** window that appears, note the first six ideas that it generated. Copilot gives you two options here - you can either attach the ideas to your whiteboard if you're satisfied with the suggestions, or you can have Copilot generate more suggestions. Notice how the **Insert (6)** button indicates the number of ideas that Copilot generated - in this case, six. While six suggestions are a good starting point, you want to dig deeper into the potential risks, so select the **Generate more** button. Note how Copilot generated another six ideas, so the **Insert (12)** button now displays 12. 
 Generate at least **18 risks**, if not more, and then insert them on to your Whiteboard canvas.
 
       ![](../media/Module3/E1T2S6.png)
@@ -61,9 +61,9 @@ Generate at least **18 risks**, if not more, and then insert them on to your Whi
 
 1. In **Microsoft Whiteboard**, these activities are supported through standard whiteboarding functionality. If you haven't used Whiteboard before, try selecting (double-click) a specific note, and then in the menu bar that appears above it, you can select the **Edit text** (pencil) icon or any of the other options. Selecting the ellipsis icon at the end of the menu bar displays a menu of more options, such as deleting the note. Again, the idea behind Microsoft Whiteboard is to mimic real-world sticky-note exercises. Feel free to edit any note as you wish.
 
-8.  In looking at the risks, you notice that there are few, if any associated with network downtime. Select the **Copilot** icon at the bottom of the page and then select **Suggest** from the menu.
+1. Review the identified risks. To add risks related to network downtime, select the **Copilot** icon at the bottom of the page, and then select **Suggest**.
 
-9.  In the **Suggest content with Copilot** window that appears, ask Copilot with the below prompt
+9. In the **Suggest content with Copilot** window that appears, ask Copilot with the below prompt
       ```
       Suggest any risks associated with system downtime.
       ```
@@ -71,7 +71,7 @@ Generate at least **18 risks**, if not more, and then insert them on to your Whi
 
       ![](../media/Module3/E1T2S12.png)
 
-11. After making one last review of your Whiteboard, you identified a note that you want to remove. Select a note that you no longer want, and then in the icon tray that appears, select the ellipsis icon and then select the **Delete** option.
+11. Review the Whiteboard. Select a note that you no longer want, and then in the icon tray that appears, select the ellipsis icon and then select the **Delete** option.
 
       ![](../media/Module3/E1T2S13.png)
 
@@ -79,11 +79,11 @@ Generate at least **18 risks**, if not more, and then insert them on to your Whi
 
       > **NOTE:**  When you choose the option to categorize your notes, Whiteboard automatically selects the sticky notes that are currently in view on the canvas. In doing so, it displays the selected notes within a border. Notes outside the current viewport aren’t included within this border, so if you proceed immediately, those notes that are outside the border aren’t categorized.
 
-13.  There are two ways to expand the selection so that all notes are included within the border:
+13. There are two ways to expand the selection so that all notes are included within the border:
 
-        - **Show more notes on the screen**. When you select the Copilot option to categorize notes, Copilot grabs everything that’s in view and places them within the border. To avoid the situation where Copilot doesn’t include all the notes within the border, zoom out or pan until all the notes you want are visible.
+      - **Show more notes on the screen**. When you select the Copilot option to categorize notes, Copilot grabs everything that’s in view and places them within the border. To avoid the situation where Copilot doesn’t include all the notes within the border, zoom out or pan until all the notes you want are visible.
     
-        - **Select everything explicitly using a keyboard command**. Press **Ctrl+A** to select all objects on the canvas, including sticky notes that aren’t in view. Select one of the edges of the border and drag the entire selection of notes into the view on the canvas so that you can see all the notes.
+      - **Select everything explicitly using a keyboard command**. Press **Ctrl+A** to select all objects on the canvas, including sticky notes that aren’t in view. Select one of the edges of the border and drag the entire selection of notes into the view on the canvas so that you can see all the notes.
       
 1. For the purpose of this task, press **Ctrl+A** to select all the sticky notes on the whiteboard. With all notes selected, choose **Categorize** from the menu and review the results.
 
@@ -107,7 +107,7 @@ Generate at least **18 risks**, if not more, and then insert them on to your Whi
 
    ![](../media/Module3/E1T2S18.png)
 
-22.  You now want to save this summarization to a Word document so that you can include it as a resource in the PowerPoint presentation you create in the next task. In the **Summary** window that Copilot creates in your Whiteboard, highlight the text and then copy it to your clipboard **(Ctrl+C)**. 
+22. To save this summarization to a Word document that you can include it as a resource in the PowerPoint presentation you create in the next task. In the **Summary** window that Copilot creates in your Whiteboard, highlight the text and then copy it to your clipboard **(Ctrl+C)**. 
 
 1. Open a blank **Word** document from M365 portal apps section, paste in the Summary notes, and then save the file to your **OneDrive**. When you’re done, return to your Whiteboard.
 

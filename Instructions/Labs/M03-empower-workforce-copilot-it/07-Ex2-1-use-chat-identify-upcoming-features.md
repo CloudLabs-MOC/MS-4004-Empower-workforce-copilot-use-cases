@@ -1,6 +1,6 @@
 # Exercise 2 - Task 1: Use Microsoft 365 Copilot Chat to identify upcoming Microsoft 365 features
 
-## Estimated duration: 26 minutes
+## Scenario
 
 In preparation for VanArsdel’s upcoming IT leadership meeting, you must create a summary of upcoming Microsoft 365 features that might affect users in the next quarter. You need this information quickly so that your IT team can plan communication and support strategies. Your goal is to identify and summarize the most relevant new features that can affect VanArsdel’s end users within the next 90 days, with notes on potential IT actions.
 
@@ -35,7 +35,7 @@ In this task, you will use Microsoft 365 Copilot Chat to identify and summarize 
 
 5. When editing in **Pages**, note how Copilot displays the Copilot chat pane along with the Pages form. 
 
-1. In the **Pages** form, select the **Create (1)** button and then select **Document (2)** in the drop-down menu. In the dialog box that appears, select **Open Word**, which opens the document in **Word for the web**. 
+1. In the **Pages** form, select the **Create (1)** button and then select **Document (2)** in the drop-down menu. In the dialog box that appears, select **Open Word (3)**, which opens the document in **Word for the web**. 
 
     ![](../media/Module3/E2T1S6.png)
 
@@ -43,7 +43,7 @@ In this task, you will use Microsoft 365 Copilot Chat to identify and summarize 
 
 6. In **Word for the web**, Copilot copies its entire response into a document, including the extraneous chat content that appeared at the beginning and end of the chat. Delete any extraneous text that was pasted in as well. Tag or highlight items you want to prioritize for communications. 
 
-1. On the **Word** home page, click on **Copilot** which is in the bottom right corner.
+1. On the **Word** home page, click on **Copilot** which is in the bottom right corner. Verify the **Allow editing** icon appears in the prompt field next to the plus (+) sign.
 
       ![](../media/Module3/E2T1S8.png)
 
@@ -57,9 +57,19 @@ In this task, you will use Microsoft 365 Copilot Chat to identify and summarize 
 
     ![](../media/Module3/E2T1S9.png)
  
-10. Once Copilot adds the executive summary to the document, ask it to add a one-sentence risk or opportunity for each feature.
+10. Once Copilot adds the executive summary to the document, enter the provided prompt in the **Copilot** prompt box.
 
-11. Review the content. If Copilot added the risks and opportunities in a separate section rather than in each feature, ask it to remove the risk and opportunity section that it just added and instead add the risk or opportunity at the end of each feature rather than in a separate section of risks and opportunities by givining the following prompt. Click on **Done** once after the review.
+    ```
+    Add a one-sentence risk or opportunity for each feature.
+    ```
+
+11. Review the content. If Copilot added the risks and opportunities in a separate section rather than in each feature, enter the provided prompt in the **Copilot** prompt box.
+
+    ```
+    Remove the separate Risks and Opportunities section. Instead, add the corresponding risk or opportunity statement at the end of each feature description.
+    ```
+
+1. Review the updated feature descriptions and verify that each feature includes its associated risk or opportunity statement. Click on **Done** once after the review.
 
      ![](../media/Module3/E2T1S11.png)
 
@@ -67,10 +77,12 @@ In this task, you will use Microsoft 365 Copilot Chat to identify and summarize 
 
 13. You plan to use this document in Task 3, so make note of the file name that appears above the menu bar.
 
+    ![](../media/ms4004-l3-2.png)
+
 ## Summary
 
 In this task, you used Microsoft 365 Copilot Chat to research and summarize upcoming Microsoft 365 features that are expected to become available in the near future. You documented feature descriptions, end-user benefits, recommended IT actions, and associated risks or opportunities. You then refined the report in Word by adding an executive summary and enhancing the content, creating a valuable planning resource for leadership, communications, and adoption initiatives.
 
 ## You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
 
-![](../media/Module3/Next.png)
+![](../media/ms4004-next.png)

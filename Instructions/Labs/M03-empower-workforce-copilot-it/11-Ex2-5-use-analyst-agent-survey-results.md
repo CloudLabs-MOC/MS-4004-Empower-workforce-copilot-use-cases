@@ -1,6 +1,6 @@
 # Exercise 2 - Task 5: Use the Analyst agent to analyze survey results
 
-## Estimated duration: 36 minutes
+## Scenario
 
 The survey results are in, so you must now brief the leadership team on adoption progress, user sentiment, and recommended next steps. To do so, you must analyze the survey data and produce a summary highlighting what’s working and where users need help.
 
@@ -38,9 +38,11 @@ In this task, you will use the Analyst agent to examine survey results related t
 
     ![](../media/Module3/E2T5S7.png)
 
-5. Ask the **Analyst** agent to analyze the attached employee survey results and provide the following feedback:
+1. In the **Analyst** agent prompt box, enter the provided prompt.
 
     ```
+    Analyze the attached employee survey results and provide the following feedback:
+
     - A five-bullet executive summary (top three positives, top two concerns)
 
     - Three charts: Adoption rate by department, Ease-of-use score distribution, Top blockers frequency
@@ -55,7 +57,11 @@ In this task, you will use the Analyst agent to examine survey results related t
 
     ![](../media/Module3/E2T5S8.png)
 
-7. Ask the Analyst agent if there are any correlations that can be drawn from the data.
+1. To identify relationships between survey responses, enter the provided prompt in the **Analyst** agent prompt box.
+
+    ```
+    Are there any correlations that can be drawn from the data.
+    ```
 
 8. Review the response. If the Analyst agent offers any suggested prompts related to the correlations that it found, feel free to select and submit them if they interest you.
 
@@ -63,15 +69,23 @@ In this task, you will use the Analyst agent to examine survey results related t
 
 9. Since you’re one of the leaders from the IT department, you’re curious as to the responses from members of the IT department, ask the Analyst agent with the prompt.
 
+    ```
+    Filter the data to show responses from only the IT department.
+    ```
+
 10. Review the response. If the Analyst agent offers any suggested prompts related to the IT responses, feel free to select and submit them if they interest you.
 
     ![](../media/Module3/E2T5S11.png)
 
-1. Finally, ask the Analyst agent to produce a one-page executive summary report for download, along with a polished executive slide deck that contains all these insights and charts for leadership review.
+1. To generate leadership-ready deliverables, enter the provided prompt in the **Analyst** agent prompt box.
+
+    ```
+    Produce a one-page executive summary report for download, along with a polished executive slide deck that contains all survey insights  and charts for leadership review.
+    ```
 
 12. If the Analyst agent offers any suggested prompts related to these downloads, feel free to select and submit them if you wish.
 
-13. Download the summary report and the slide deck and review each document.
+13. **Download** the **summary report** and the **slide deck** and review each document.
 
       ![](../media/Module3/E2T5S13.png)
 
@@ -81,6 +95,4 @@ In this lab, you explored how Microsoft 365 Copilot can support IT professionals
 
 You also leveraged Microsoft 365 Copilot capabilities to drive technology adoption by researching upcoming Microsoft 365 features, creating user communications and best-practice guidance, designing feedback surveys, and analyzing adoption data to generate actionable insights. Through these exercises, you experienced how AI-assisted workflows can help IT teams improve productivity, enhance collaboration, accelerate decision-making, and deliver more effective outcomes with less manual effort.
 
-## You have successfully completed the module. Click on Next >> to proceed with the next exercise.
-
-![](../media/Module3/Next.png)
+## You have successfully completed the module.

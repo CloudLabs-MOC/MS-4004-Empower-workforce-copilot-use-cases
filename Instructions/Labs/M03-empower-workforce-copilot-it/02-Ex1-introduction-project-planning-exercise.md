@@ -1,15 +1,14 @@
 # Exercise 1: Streamline IT project planning with Microsoft 365 Copilot
 
-## Estimated duration: 12 minutes
+## Overview
 
-### Overview
 Modern IT departments face a rapidly evolving landscape, where the demand for speed, efficiency, and innovation is higher than ever. Whether deploying new infrastructure, upgrading applications, or supporting hybrid work environments, IT teams must juggle multiple priorities—often with limited resources and tight deadlines. The complexity of these projects requires not only technical expertise but also seamless coordination, clear communication, and robust documentation.
 
 Throughout this exercise, you discover how integrating Copilot into your daily workflows can revolutionize project planning and execution. Copilot enables IT teams to collaborate more effectively, brainstorm solutions, and keep project content up to date—all while reducing administrative overhead and lowering overall project management costs. By utilizing Copilot’s tools, IT professionals can not only meet the demands of today’s fast-paced environment but also position their organizations for future growth and resilience.
 
   > **Note:** The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
 
-### Scenario
+## Scenario
 
 As the Director of IT at Boulder Innovations, you're leading a critical initiative aimed at transforming the company’s digital infrastructure. The current network has reached its limits in supporting the demands of hybrid work, secure data access, and high-performance collaboration. Your goal is to design and implement a modern, resilient, and secure network that enhances productivity while minimizing downtime and risk.
 
@@ -33,3 +32,7 @@ In this exercise, you will complete the following tasks:
   - **Exercise 1 - Task 1**: Use Copilot Chat to define the project framework.
   - **Exercise 1 - Task 2**: Use Copilot in Whiteboard to identify potential risks.
   - **Exercise 1 - Task 3**: Use Copilot in PowerPoint to create an executive presentation.
+
+Click **Next** from the bottom right corner to embark on your Lab journey!
+
+![](../media/ms4004-next.png)

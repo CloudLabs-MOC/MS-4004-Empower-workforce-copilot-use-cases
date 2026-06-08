@@ -1,14 +1,12 @@
 # Exercise 2: Transform feature launches and adoption using Microsoft 365 Copilot
 
-## Estimated duration: 12 minutes
-
-### Overview
+## Overview
 
 Microsoft 365 Copilot is transforming how IT professionals plan, communicate, and measure technology adoption across their organizations. For IT teams, successful adoption isn’t just about deploying new tools—it’s about ensuring employees understand, embrace, and actively use them. Copilot can streamline every step of that process by helping IT professionals quickly discover upcoming Microsoft 365 features, create clear and engaging communications for end users, and develop practical resources such as announcements, best-practice guides, and training materials.
 
 > **NOTE:** The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
 
-### Scenario
+## Scenario
 
 As the IT Manager at VanArsdel, Ltd., a 2,500-employee engineering and manufacturing company operating across three regions, you play a key role in helping the organization stay productive, connected, and secure. VanArsdel’s leadership recently announced a company-wide initiative to accelerate Microsoft 365 feature adoption. It wants to ensure that employees not only have access to new tools, but also understand how to use them effectively to improve collaboration and streamline daily work.
 
@@ -42,3 +40,6 @@ In this exercise, you will complete the following tasks:
   - **Exercise 2 - Task 5**: Use the Analyst agent to analyze survey results.
 
 
+Click **Next** from the bottom right corner to embark on your Lab journey!
+
+![](../media/ms4004-next.png)

@@ -82,4 +82,4 @@ In this exercise, you used Copilot in Word to transform research findings into a
 
 ## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
-![](../media/ms4004-l1-5.png)
+![](../media/ms4004-next.png)
