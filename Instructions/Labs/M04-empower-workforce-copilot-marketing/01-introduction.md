@@ -2,7 +2,7 @@
 
 ### Overall Estimated Duration: 4 Hours
 
-## Module Overview
+## Lab Overview
 
 Microsoft 365 Copilot can help Marketing professionals in numerous ways. For example, they can generate content for their campaigns, improve productivity, provide insights into their campaigns, collaborate more effectively, and more. Copilot can suggest relevant hashtags, images, and even write social media posts for you. Similarly, if you’re creating a blog post, Copilot can suggest topics, provide research material, and even help you write the post.
 
@@ -18,7 +18,7 @@ This module equips Marketing professionals with the skills and knowledge necessa
 
 - **Collaboration**. Copilot can help Marketing professionals collaborate more effectively. For example, if you’re working on a project with a team, Copilot can help you assign tasks, set deadlines, and even provide reminders.
 
-### Copilot prompting
+## Copilot prompting
 
 One of the primary keys to effectively using Copilot is the quality of your Copilot prompts. A good Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
 
@@ -48,11 +48,19 @@ We've prepared a seamless environment for you to explore and learn about **Modul
  
 Once the lab environment is ready, the virtual machine displayed on the left will be your primary workspace for completing the exercises, while the **Guide** on the right side provides step-by-step instructions for each task.
 
+![](../media/ms4004-l3-vm.png)
+
+##  Lab Guide Zoom In/Zoom Out
+
+To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
+
+![](../media/Module3/zoom.png)
+
 ## Exploring Your Lab Resources
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
  
-![](../media/module-4/env-0206.png)
+![](../media/Module3/env.png)
 
 ## Utilizing the Split Window Feature
  
@@ -99,9 +107,13 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
     ![](../media/module-4/prereq-3.png)
 
-1. In **File Explorer**, navigate to **`C:\AllFiles`**location and select all the files from the folder and click **Open**.
+1. In **File Explorer**, navigate to **`C:\AllFiles` (1)** location and select all the files **(2)** from the folder and click **Open (3)**.
 
-1. When the upload is complete, you should see **Uploaded 92 items to My files** in the bottom center of the screen.
+    ![](../media/ms4004-l1-2.png)
+
+1. When the upload is complete, you should see **Uploaded 93 items to My files** in the bottom center of the screen.
+
+    ![](../media/ms4004-l1-3.png)
 
 1. Leave **Edge** open and move on to the next task.
 
@@ -122,6 +134,6 @@ Learner Support Contacts:
  
 Click **Next** from the bottom right corner to embark on your Lab journey!
 
-  ![](../media/module-4/next-0206.png)
+  ![](../media/ms4004-next.png)
 
 
