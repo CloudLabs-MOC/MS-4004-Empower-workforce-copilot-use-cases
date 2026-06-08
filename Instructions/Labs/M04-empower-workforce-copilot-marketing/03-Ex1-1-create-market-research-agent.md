@@ -10,7 +10,7 @@ This agent should be product agnostic. Relecloud recently implemented Microsoft 
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, sign in to the **Microsoft 365** using the URL below: 
+1.  In Microsoft Edge browser, sign in to the **Microsoft 365** using the URL below: 
 
     ```
     https://www.microsoft365.com
@@ -43,19 +43,31 @@ Perform the following steps to complete this task:
 
 7.  If you wish to change the instructions, you can either manually edit them directly in the **Instructions** field or you can ask Copilot to update the instructions for you.  
 
-1. After reviewing the **Instructions**, you wonder if they could be improved upon. You aren't sure how to improve them, so you decide to ask Copilot what it thinks. To do so, you can use the Agent builder chat interface, which should be on the left side of the screen. In the chat interface, ask Copilot if it has any recommendations for improving the instructions.
+1. In the **Left pane**, enter the provided prompt to identify additional instructions that could improve the agent.
 
-8.  Review Copilot’s recommendations. You’re pleased with its suggestions, so ask Copilot to add them all to the agent’s instructions.
+    ```
+    What additional instructions would you recommend to improve this agent?
+    ```
 
-9.  Once Copilot responds that it updated the instructions, select the **Configure** tab and scroll through the **Instructions**. Note the new items that Copilot added.
+1. Review Copilot’s recommendations. To add the suggested improvements to the agent instructions, enter the provided prompt in the **Left pane**.
 
-10.  Now that you’re satisfied with the instructions, you’re ready to configure the agent’s knowledge sources and starter prompts.  
-    <br/>In the **Configure** tab, scroll down to the **Knowledge** section and verify the **Search all websites** toggle switch is enabled. Copilot should have enabled this toggle switch when it created the agent based on the description you provided in your original prompt (that is, “…**drawing from web sources such as** …”). If the toggle switch isn’t enabled, then do so now.
+    ```
+    Add all of the recommended instructions to the agent.
+    ```
+
+9.  Once Copilot responds that it updated the instructions, in the **Configure** tab and scroll through the **Instructions**. Note the new items that Copilot added.
+
+10. In the **Configure** tab, scroll down to the **Knowledge** section and verify the **Search all websites** toggle switch is enabled. Copilot should have enabled this toggle switch when it created the agent based on the description you provided in your original prompt (that is, “…**drawing from web sources such as** …”). If the toggle switch isn’t enabled, then do so now.
 
 11.  For **Suggested prompts**, you can have Copilot generate prompts for you, or you can manually create your own prompts. Let’s try both methods.  
-    <br/>To have Copilot generate suggested prompts, ask Copilot to generate three suggested prompts for the agent. Note how each prompt has a title and a message. Then ask Copilot to add it to the agent’s suggested prompts.
 
-12.  You now want to enter several of your own prompts. Select the **Configure** tab and scroll down to the **Suggested prompts** section. You should see the three prompts that Copilot added to the agent.  
+1. In the **Left pane**, enter the provided prompt to generate suggested prompts for the agent.
+
+    ```
+    Generate three suggested prompts for this agent. Include a title and message for each prompt.
+    ```
+
+12. To enter several of your own prompts. in the **Configure** tab scroll down to the **Suggested prompts** section. You should see the three prompts that Copilot added to the agent.  
 
 1. For each prompt that you want to manually add, select the **Add a suggested prompt** option that appears below the prompts.  
 
@@ -87,18 +99,24 @@ Perform the following steps to complete this task:
             
         - **Message:** Create a downloadable executive‑ready market landscape brief for {Product Category}. Include audience sentiment, competitor positioning, emerging trends, and actionable recommendations for marketing strategy. Structure the output with headings and bullet points for clarity.
     
-13.  Test several of the suggested prompts. Verify the agent is correctly pulling in data from the knowledge source documents.
+13. Test several of the suggested prompts. Verify the agent is correctly pulling in data from the knowledge source documents.
 
-14.  Once you’re satisfied with the results for the suggested prompts, select the **Create** button from the top to create the agent.
+14. The agent’s configuration is now complete, so select the **Create** button from the top to create the agent.
 
-15.  Once the agent is created, a dialog box appears that indicates the agent was successfully created. In this dialog box, you can either go to the agent or share it. Select the **Go to agent** option.
+    ![](../media/ms4004-l4-1.png)
 
-> **[!NOTE]**
-> At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+15. Once the agent is created, a dialog box appears that indicates the agent was successfully created. In this dialog box, you can either go to the agent or share it. Select the **Go to agent** option.
+
+    ![](../media/lab2-06-57.png) 
+
+    > **[!NOTE]**
+    > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
 
 ## Summary
 
 In this task, you used the Copilot Studio experience to create a Market Research Agent. You provided a natural language description of the agent’s purpose and capabilities, and Copilot automatically generated detailed instructions for the agent based on that description. You then reviewed and improved those instructions with the help of Copilot. Finally, you configured the agent’s knowledge sources and starter prompts before creating the agent.
 
 
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
+![](../media/ms4004-next.png)

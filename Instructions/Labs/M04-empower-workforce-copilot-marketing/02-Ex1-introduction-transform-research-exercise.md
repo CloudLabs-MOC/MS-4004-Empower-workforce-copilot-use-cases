@@ -26,4 +26,6 @@ Your goal is to develop a marketing campaign for Relecloud's latest product, Rel
 
 Throughout this exercise, you use Microsoft 365 Copilot tools to gather market insights, analyze those insights, convert them into marketing collateral, and build a campaign plan. This exercise simulates a typical marketing workflow, showing how Copilot agents can support Marketing research, analysis, content creation, and campaign planning.
 
+Click on **Next** from the lower right corner to move on to the next page.
 
+  ![](../media/ms4004-next.png)

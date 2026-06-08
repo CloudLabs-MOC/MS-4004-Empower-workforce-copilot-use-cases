@@ -49,7 +49,7 @@ Perform the following steps to complete this task:
 
 6.  Review the results and then select the **Copy** icon that appears below the content. Paste the copied results into your Loop page. Delete any extraneous text that was copied and pasted along with the results (see the start and end of the content).
 
-1. Click on the Create new page button at the bottom of the left navigation pane to create a new page for the next section of the campaign plan. 
+1. Click on the **Create new page** button at the bottom of the left navigation pane to create a new page for the next section of the campaign plan. 
 
     ![Create new page](../media/module-4/E1T4S6-0206.png)
 
@@ -94,3 +94,7 @@ Perform the following steps to complete this task:
 ## Summary
 
 In this task, you used Copilot in Loop to create a structured launch campaign plan for Relecloud’s WorkSpace 360 smart workplace solution. You created multiple pages in a Loop workspace for each section of the campaign plan and entered prompts to generate content for each section based on the insights from the Market Insights Report. You then copied and pasted the generated content into the respective pages in Loop, creating a comprehensive campaign plan that is ready for review and execution.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

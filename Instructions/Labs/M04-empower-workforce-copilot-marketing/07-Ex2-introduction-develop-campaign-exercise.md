@@ -34,3 +34,7 @@ You’re the Latin America (LATAM) Marketing Director for Contoso Beverage, a di
 
 
 To ensure a successful LATAM launch, Contoso’s executive team asked you to lead a comprehensive market readiness and campaign development initiative. Your goal is to understand where consumer interest and market potential are strongest, identify the right positioning for Mystic Spice in LATAM, and craft compelling campaign concepts that connect with local audiences.
+
+Click on **Next** from the lower right corner to move on to the next page.
+
+  ![](../media/ms4004-next.png)
