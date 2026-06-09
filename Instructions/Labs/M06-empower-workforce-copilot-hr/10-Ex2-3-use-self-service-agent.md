@@ -80,3 +80,7 @@ In this task, you will use the HR Self-Service Assistant to ask questions about 
 ## Summary
 
 In this exercise, you used the HR Self-Service Assistant to obtain information about company policies, employee benefits, relocation assistance, and workplace programs. You evaluated the agent’s ability to provide accurate, source-based responses while identifying potential gaps in the available knowledge sources. You also tested how the agent handled unsupported or sensitive questions, demonstrating the importance of clear boundaries and reliable policy guidance in employee self-service solutions.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

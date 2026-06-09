@@ -16,7 +16,7 @@ In this task, you will use Copilot in Outlook to draft and refine an email that 
 
 1. In **Outlook**, create a new email.
 
-1. In the new email message, select **Attach (1)**, and then choose **OneDrive (2)** to browse and then attach the Manager Performance PDF file from **OneDrive** that you uploaded at the end of the prior task.
+1. In the new email message, select **Attach (1)**, and then choose **OneDrive (2)** to browse and then attach the **Manager Performance PDF** file from **OneDrive** that you uploaded at the end of the prior task.
 
    ![](../media/lab6-06-14.png)
 
@@ -87,3 +87,7 @@ In this task, you will use Copilot in Outlook to draft and refine an email that 
 ## Summary
 
 In this exercise, you used Copilot in Outlook to transform manager performance analysis into a clear and professional communication for HR leadership. You refined the email by summarizing key metrics, highlighting strengths and development opportunities, and incorporating actionable recommendations. The completed message enables leaders to quickly understand workforce trends and take informed actions to strengthen management effectiveness across Contoso.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

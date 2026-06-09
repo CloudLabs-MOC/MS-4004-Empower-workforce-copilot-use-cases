@@ -11,7 +11,7 @@ The four pages you'll create are:
 - **3-RACI Matrix (Roles and Responsibilities)**
 - **4-Decision Log and Change Log**
 
-## Steps
+## Task 1: Use Copilot in Loop to track construction milestones
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
@@ -43,7 +43,7 @@ The four pages you'll create are:
 
     ![](./media/milestones-page.png)
 
-1. Open the Copilot pane and ask Copilot to generate a table of key milestones and associated timelines for the distribution center expansion by submitting the following prompt:
+1. Open the **Copilot** pane and ask Copilot to generate a table of key milestones and associated timelines for the distribution center expansion by submitting the following prompt:
 
     > **`Note:`** For this first prompt, the text has been provided so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit - **Goal**, **Context**, **Sources**, and **Expectations**.
 
@@ -65,7 +65,7 @@ The four pages you'll create are:
 
     ![](./media/raid-page.png)
 
-1. Open the Copilot pane and ask Copilot to create a RAID log table for the 24-week distribution center expansion project. Your prompt should request risks, assumptions, issues, and dependencies, along with owners, due dates, status, and mitigation actions.\
+1. Open the Copilot pane and ask Copilot to create a RAID log table for the 24-week distribution center expansion project. Your prompt should request risks, assumptions, issues, and dependencies, along with owners, due dates, status, and mitigation actions.
 
     ```
     Create a RAID (Risks, Assumptions, Issues, and Dependencies) log for a 24-week Distribution Center Expansion Project. Include relevant risks, assumptions, issues, and dependencies along with owners, due dates, current status, impact, and mitigation actions. Present the information in a clear table format suitable for project tracking and review.
@@ -99,15 +99,15 @@ The four pages you'll create are:
     4-Decision Log and Change Log
     ```
 
-    ![](./media/decision-page.png)
+    ![](./media/ms4004-l7-3.png)
 
 1. Open the Copilot pane and ask Copilot to create a **Decision Log** table for the project with the following columns: **Decision**, **Requested By**, **Date**, **Approved By**, **Impact**, and **Status**.
 
-    ![](./media/decision-prompt.png)
+    ```
+    Create a Decision Log table to help the Operations Leader track approvals for weekend shifts, vendor hours, and PPE budget. Include the following columns: Decision, Requested By, Due Date, Options Considered, Final Decision, Rationale, Owner, and Follow-up Tasks.
+    ```
 
 1. Review the Decision Log and paste it into the **4-Decision Log and Change Log** page.
-
-    ![](./media/decision-table.png)
 
 1. Place your cursor below the Decision Log table. Ask Copilot to create a **Change Log** table for tracking potential shifts in inspection dates, routing, cost, schedule, and go-live readiness.
 
@@ -137,15 +137,6 @@ In this task, you used **Microsoft 365 Copilot in Loop** to build a structured p
 
 This workspace can now serve as a central planning hub for the facility expansion project.
 
-## Support Contact
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
-The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both technical and training-related queries.
-
-Learner Support Contacts:
-
-- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
-- Live Chat Support: https://cloudlabs.ai/labs-support
-
-Click **Next** from the bottom right corner to proceed to the next task!
-
-![](./media/next-button.png)
+![](../media/ms4004-next.png)

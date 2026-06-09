@@ -26,7 +26,9 @@ In this task, you will use Copilot in Loop to create development plans for indiv
 
      ![](../media/lab6-06-23.png)
 
-2. In **Loop for the web**, click on **+** and select **New workspace**. Name the workspace **Contoso Manager Development Plans** and click on **Create**.
+2. In **Loop for the web**, click on **+** and select **New workspace**. Name the workspace **Contoso Manager Development Plans (1)** and click on **Create (2)**.
+
+     ![](../media/ms4004-l6-1.png)
 
 3. While the Manager Performance PDF file contains insights on 15 Contoso managers that you analyzed in earlier tasks, this training doesn’t have enough time to summarize the findings for all 15 of them. To give you an appreciation for how this exercise would work in a real-world scenario without being overly time-consuming, this task only focuses on two of the managers, Jacob Hancock and Kerry Allen. 
     
@@ -64,7 +66,7 @@ In this task, you will use Copilot in Loop to create development plans for indiv
 
 9. Select **Jacob Hancock’s** Loop page again. Note how Copilot opened a new pane that didn’t display the previous conversation related to Jacob. When you return to a Loop page, you can either start a new Copilot chat session for that page or return to an existing one. 
 
-1. To see how you can return to a prior conversation, scroll down past the suggested prompts and select the **Chat History** button. It should display lines from each of the previous chat sessions for this Loop page. In this case, there should just be one chat session, so select the line to open that conversation. 
+1. To see how you can return to a prior conversation, scroll down past the suggested prompts and select the **Chat History** button. It should display lines from each of the previous chat sessions for this Loop page. In this case, there should just be one chat session, so **select the line to open that conversation**. 
 
     ![](../media/lab6-06-30.png)
 
@@ -86,3 +88,6 @@ In this task, you will use Copilot in Loop to create development plans for indiv
 
 In this exercise, you used Copilot in Loop to transform manager performance insights into actionable development plans. You created dedicated collaboration pages for individual managers, generated recommendations to improve engagement and reduce attrition, and consolidated the results into a workspace-wide action plan summary. The completed Loop workspace serves as a central hub for manager development planning, collaboration, and progress tracking.
 
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

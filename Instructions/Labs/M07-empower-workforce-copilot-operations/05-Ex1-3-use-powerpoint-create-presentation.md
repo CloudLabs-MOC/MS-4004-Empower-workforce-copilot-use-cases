@@ -14,7 +14,7 @@ PowerPoint provides two ways to use Copilot: standard Copilot prompts for quickl
 
 In summary, use chat-style Copilot for generating ideas and content suggestions; use **Edit with Copilot** for hands-on editing inside the file.
 
-## Steps
+## Task 3: Use Copilot in PowerPoint to create an executive presentation
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
@@ -39,7 +39,6 @@ In summary, use chat-style Copilot for generating ideas and content suggestions;
 1. Select **Copilot** to open the Copilot pane.
 
     ![](../M05-empower-workforce-copilot-finance/media/copilot-ribbon.png)
-
 
 1. In the Copilot prompt field, ask Copilot to generate an executive leadership presentation based on the attached file.
 
@@ -128,15 +127,6 @@ In this task, you used **Microsoft 365 Copilot in PowerPoint** to transform the 
 
 You now have a presentation that can support executive review and decision-making regarding the building heating system.
 
-## Support Contact
+## You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
 
-The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both technical and training-related queries.
-
-Learner Support Contacts:
-
-- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
-- Live Chat Support: https://cloudlabs.ai/labs-support
-
-Click **Next** from the bottom right corner to proceed to the next task!
-
-![](./media/next-button.png)
+![](../media/ms4004-next.png)

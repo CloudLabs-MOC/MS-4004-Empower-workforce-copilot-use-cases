@@ -4,7 +4,7 @@ As the Operations Lead for Contoso's regional distribution center expansion, you
 
 You're tasked with revising the regional distribution center's safety protocols using Copilot in OneNote. Your goal is to review the current procedures, identify impacted areas, generate updated safety guidance, and prepare a summary that can be shared with Operations staff.
 
-## Steps
+## Task 4: Use Copilot in OneNote to update safety protocols
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
@@ -18,15 +18,27 @@ You're tasked with revising the regional distribution center's safety protocols 
 
     - **Password**: **<inject key="AzureAdUserPassword"></inject>**
 
-1. In the Microsoft 365 portal, click on the **App launcher** button and select **OneDrive**.
+1. In the Microsoft 365 portal, click on the **App launcher (1)** button and select **OneDrive (2)**.
 
-    ![](./media/onenote.png)
+     ![](../media/module-4/prereq-2.png)
 
 1. In **OneDrive**, download the **Contoso Expansion Safety Procedures** notebook. Open it through the desktop app.
 
+     ![](../media/module-4/ms4004-l7-4.png)
+
 1. If its ask for the sign in, then provide email and password to complete the sign in procedure.
 
-1. Select **Copilot** to open the Copilot pane. If announcements appear, select **Skip**.
+    - **Email/Username**: **<inject key="AzureAdUserEmail"></inject>**
+
+    - **Password**: **<inject key="AzureAdUserPassword"></inject>**
+
+1. On **Sign in to all apps, websites, and services on this device?** page, select **Yes**.
+
+1. In the **Unpack Notebook** window, select **Create**.
+
+1. Select **Copilot** to open the Copilot pane, on the **Home** tab . If announcements appear, select **Skip**.
+
+    ![](../media/ms4004-l7-5.png)
 
 1. Ask Copilot to review the safety procedures and identify any areas that might be affected by the construction of the new warehouse wing and dock upgrades.
 
@@ -34,7 +46,7 @@ You're tasked with revising the regional distribution center's safety protocols 
     Review the Contoso Expansion Safety Procedures notebook and identify any safety procedures, operational processes, emergency guidance, or employee workflows that may be affected by the construction of the new warehouse wing and dock upgrades. Summarize the impacted areas and explain why they may require updates.
     ``` 
 
-    ![](./media/outlook1.png)
+    ![](./media/ms4004-l7-6.png)
 
 1. Review Copilot's analysis and note the impacted areas. If Copilot displays a suggested prompt related to mitigation recommendations, feel free to submit it.
 
@@ -58,11 +70,15 @@ You're tasked with revising the regional distribution center's safety protocols 
 
 1. Once the formatting is complete, select **Copy response** to copy the updated draft.
 
-1. In your notebook, select **+ Add page** and create a new page titled:
+     ![](../media/ms4004-l7-7.png)
+
+1. In your notebook, select **+ Add page (1)** and create a new page titled (2):
 
     ```
     Expansion protocols
     ```
+
+    ![](../media/ms4004-l7-8.png)
 
 1. Paste the copied content into the new page. Remove any extra conversational text if needed.
 
@@ -80,11 +96,11 @@ You're tasked with revising the regional distribution center's safety protocols 
 
     ![](./media/onenote4.png)
 
-1. Now open the word file and change the name as **Summary of protocol changes**.
+1. Now **Open Work** file and change the name as **Summary of protocol changes**.
 
-1. Now click on the **File** form the menu selcet **Export** and download the file as pdf by selecting **Download as PDF**.
+1. Now click on the **File (1)** form the menu selcet **Export (2)** and download the file as pdf by selecting **Download as PDF (3)**.
 
-    ![](./media/onenote5.png)
+    ![](./media/ms4004-l7-10.png)
 
 1. Now upload the pdf file to **OneDrive**.
 
@@ -102,15 +118,6 @@ In this task, you used **Copilot in OneNote** to review and update safety docume
 
 These updates are now ready to support communication and awareness across the Operations team.
 
-## Support Contact
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
-The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both technical and training-related queries.
-
-Learner Support Contacts:
-
-- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
-- Live Chat Support: https://cloudlabs.ai/labs-support
-
-Click **Next** from the bottom right corner to proceed to the next task!
-
-![](./media/next-button.png)
+![](../media/ms4004-next.png)

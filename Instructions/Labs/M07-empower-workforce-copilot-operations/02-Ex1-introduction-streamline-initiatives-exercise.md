@@ -1,5 +1,7 @@
 # Exercise 1: Streamline operational initiatives using Microsoft 365 Copilot
 
+## Overview
+
 In today’s fast-paced business environment, Operations teams are expected to drive efficiency, adapt quickly, and deliver results across a wide range of initiatives. Microsoft 365 Copilot empowers Operational personnel to meet these demands by seamlessly integrating intelligent automation into everyday workflows.
 
 With Copilot, Operations professionals can:
@@ -14,7 +16,7 @@ With Copilot, Operations professionals can:
 
 By utilizing Copilot’s capabilities across Microsoft Office apps, Operations teams can unify their approach to project ideation, analysis, and action. The result is a more agile, informed, and collaborative Operations function—one that harnesses intelligent automation to optimize outcomes and drive operational excellence.
 
-### Scenario
+## Scenario
 
 Adatum Corporation’s 50‑year‑old office building has a failing boiler. As the company’s Operations Manager, you must evaluate whether to repair or replace the boiler system—and if replacing, whether to convert from a boiler to a furnace system. Your goal is to use Microsoft 365 Copilot to help you move from brainstorming to research to executive communication to decision and vendor engagement, all in a single day’s workflow.
 
@@ -27,3 +29,7 @@ This workflow is reflected in the following tasks that you plan to complete this
 - **Early afternoon: Communicate and persuade using Copilot in PowerPoint**. With the comparative report saved to OneDrive, you use Copilot in PowerPoint to turn the report into an executive presentation, refine topics before generating slides, add speaker notes, insert supporting images, and create a Q\\&A slide for stakeholder dialogue.
 
 - **Late afternoon: Decide and engage using Microsoft 365 Copilot Chat**. You close the loop by using Copilot Chat to synthesize everything produced so far, frame a request for proposal (RFP), and prepare for vendor engagement and leadership decision.
+
+Click on **Next** from the lower right corner to move on to the next page.
+
+  ![](../media/ms4004-next.png)

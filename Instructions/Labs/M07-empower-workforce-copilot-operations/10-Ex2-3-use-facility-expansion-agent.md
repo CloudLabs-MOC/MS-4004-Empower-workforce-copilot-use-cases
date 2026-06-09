@@ -10,35 +10,39 @@ Your goal is to observe how the agent behaves when:
 
 This will help you evaluate whether the agent is providing accurate, in-scope, citation-based responses and using appropriate fallback behavior when information is missing.
 
-## Steps
+## Task 3: Ask the Facility Expansion FAQ agent questions about the expansion project
 
-1. The **Facility Expansion FAQ Assistant** should still be open from the previous task. If it isn't, open it from the Microsoft 365 home page.
+1. The **Facility Expansion FAQ Assistant** agent should still be open from the previous task. If it isn't, open it from the Microsoft 365 home page.
 
 1. Start a conversation with your **Facility Expansion FAQ Assistant** and ask questions about the following topics related to the distribution center expansion:
 
     - What's the temporary evacuation route from Packing?
+    
     - Are forklifts allowed in the new wing this week?
+    
     - When do SKU CHAI-12 and COFF-08 move to the new racks?
 
-    ![](./media/create-agent-prompta.png)
+      ![](./media/create-agent-prompta.png)
 
 1. Review the agent's responses. Observe how the agent cites or summarizes information from the uploaded knowledge source files.
 
 1. Now ask some questions that aren't covered by the knowledge source documents, such as:
 
     - What is the total cost of the Fargo expansion project, and which contractor submitted the lowest bid?
+    
     - Will the new wing include an automated picking system or robotics platform?
 
-    ![](./media/create-agent-promptb.png)
+      ![](./media/create-agent-promptb.png)
 
 1. Review how the agent responds to those out-of-scope questions. Verify that it declines appropriately or provides a fallback response instead of speculating.
 
 1. Next, ask some questions that are only partially covered by the knowledge source documents, such as:
 
     - When will the facility return to normal routing, and what permanent safety procedures will replace the temporary ones?
+    
     - Exactly how many pallets do we plan to move during Wave 5, and what's the breakdown by product category?
 
-    ![](./media/create-agent-promptc.png)
+      ![](./media/create-agent-promptc.png)
 
 1. Review how the agent responds to the partially covered questions. Verify that it answers the portion supported by the knowledge sources and uses an appropriate fallback for anything not confirmed.
 
@@ -63,15 +67,6 @@ In this task, you tested the **Facility Expansion FAQ Assistant** by asking ques
 
 This review helps validate that the agent is ready to support operational questions in a safe and reliable way.
 
-## Support Contact
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
-The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both technical and training-related queries.
-
-Learner Support Contacts:
-
-- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
-- Live Chat Support: https://cloudlabs.ai/labs-support
-
-Click **Next** from the bottom right corner to proceed to the next task!
-
-![](./media/next-button.png)
+![](../media/ms4004-next.png)

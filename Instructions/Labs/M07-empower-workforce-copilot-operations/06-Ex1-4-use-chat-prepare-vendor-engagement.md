@@ -18,7 +18,7 @@ When Copilot Chat opens in **Work** mode, the response mode selector may not be 
 
 This task uses **Work** mode because you're working with files created earlier in the lab.
 
-## Steps
+## Task 4: Use Microsoft 365 Copilot Chat to prepare for vendor engagement
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
@@ -40,7 +40,7 @@ This task uses **Work** mode because you're working with files created earlier i
 
     ![](./media/attach-report.png)
 
-### Create a Decision Matrix
+### Task 4.1 Create a Decision Matrix
 
 1. Ask Copilot Chat to summarize the key decision factors from the attached report. The decision criteria should include cost, energy efficiency, downtime impact, and long-term maintenance considerations.
 
@@ -90,7 +90,7 @@ This task uses **Work** mode because you're working with files created earlier i
 
     ![](./media/matrix-download-prompt.png)
 
-### Create the HVAC Vendor RFP
+### Task 4. 2 Create the HVAC Vendor RFP
 
 1. In Copilot Chat, attach the decision matrix document that you downloaded.
 
@@ -114,7 +114,7 @@ This task uses **Work** mode because you're working with files created earlier i
 
     ![](./media/download-rfp.png)
 
-### Create the Executive Summary
+### Task 4.3 Create the Executive Summary
 
 1. Ask Copilot to create a one-page executive summary that references the decision matrix as the basis for its recommendations. The summary should:
 
@@ -161,15 +161,6 @@ In this task, you used **Microsoft 365 Copilot Chat** in Work mode to transform 
 
 These outputs can now support vendor engagement and leadership decision-making.
 
-## Support Contact
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
-The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both technical and training-related queries.
-
-Learner Support Contacts:
-
-- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
-- Live Chat Support: https://cloudlabs.ai/labs-support
-
-Click **Next** from the bottom right corner to complete the lab!
-
-![](./media/next-button.png)
+![](../media/ms4004-next.png)

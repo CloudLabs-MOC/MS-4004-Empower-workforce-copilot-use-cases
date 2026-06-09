@@ -142,4 +142,6 @@ In this task, you will use Copilot Studio Agent Builder to create and configure 
 In this exercise, you used Copilot Studio to build an HR Self-Service Assistant that provides employees with answers to common HR policy questions. You enhanced the agent with detailed instructions, privacy-aware guidance, source citations, and curated HR knowledge documents. The completed agent delivers reliable, policy-based support while helping improve employee access to information and reducing routine HR inquiries.
 
 
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
+![](../media/ms4004-next.png)

@@ -34,7 +34,7 @@ In this task, you will use Copilot in Excel to explore manager-level HR data and
 1. In the **Copilot** pane, enter the provided prompt, and then submit it to generate a summary of the dataset and identify the HR metrics that most strongly indicate manager effectiveness.
 
    ```
-   Summarize the dataset in Contoso_HR_ManagerMetrics.xlsx and identify which HR metrics most strongly indicate manager effectiveness. This task is part of an HR review at Contoso to evaluate manager strengths and development opportunities, such as high attrition or low training completion. Use the columns provided in the file (Engagement Score, Attrition Rate, Training Completion, Average Team Tenure, Internal Promotions, Performance Rating). Present the results in a clear, concise table with actionable insights that can be included in a report.
+   Summarize the dataset in Contoso_HR_ManagerMetrics.xlsx and identify which HR metrics most strongly indicate manager effectiveness. This task is part of an HR review at Contoso to evaluate manager strengths and development opportunities, such as high attrition or low training completion. Use the columns provided in the file (Engagement Score, Attrition Rate, Training Completion, Average Team Tenure, Internal Promotions, Performance Rating). Create the analysis in a new worksheet and present the results in a clear, concise table with actionable insights that can be included in a report.
    ```
 
 6. Review the results in the new sheet.
@@ -92,3 +92,7 @@ In this task, you will use Copilot in Excel to explore manager-level HR data and
 ## Summary
 
 In this exercise, you used Copilot in Excel to analyze manager performance metrics and evaluate key indicators of team health. You identified trends related to engagement, attrition, training completion, and performance ratings, while generating visualizations and rankings to highlight areas of success and improvement. The resulting insights provide HR leaders with a stronger understanding of manager effectiveness and workforce performance.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

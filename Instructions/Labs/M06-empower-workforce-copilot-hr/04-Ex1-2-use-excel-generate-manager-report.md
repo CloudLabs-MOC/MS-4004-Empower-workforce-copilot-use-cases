@@ -50,14 +50,16 @@ In this task, you will use Copilot in Excel to analyze manager performance metri
 
    ![](../media/lab6-06-12.png)
 
-    - If you selected **Download as PDF** in your version of Excel, Copilot displays the PDF in the existing tab in your Microsoft Edge browser. In the **Export** pane that appears, select the **Download** button. Copilot downloads a PDF file containing the table from the Manager Performance sheet.
+1. If you selected **Download as PDF** in your version of Excel, Copilot displays the PDF in the existing tab in your Microsoft Edge browser. In the **Export** pane that appears, select the **Download** button. Copilot downloads a PDF file containing the table from the Manager Performance sheet.
 
       ![](../media/lab6-06-13.png)
 
-    - The file is stored in your PC’s **Downloads** folder. **Upload** this file from the **Downloads** folder to your **OneDrive**. 
-        
-    - If you selected **Create PDF/XPS Document** in your version of Excel, Copilot opens a **File Explorer** window. Save the file to your OneDrive.
+1. The file is stored in your PC’s **Downloads** folder. **Upload** this file from the **Downloads** folder to **OneDrive**. 
 
 ## Summary
 
 In this exercise, you used Copilot in Excel to generate a comprehensive Manager Summary report based on HR performance data. You identified top-performing managers, highlighted areas for development, and analyzed relationships between training, attrition, and team performance. You then exported the results for use in leadership reviews and future workforce planning activities.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

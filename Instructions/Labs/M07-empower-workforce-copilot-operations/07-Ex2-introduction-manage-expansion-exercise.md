@@ -16,7 +16,7 @@ For example, Copilot can help with:
 > [!TIP]
 > The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise to generate more relevant and useful responses.
 
-### Scenario
+## Scenario
 
 In this exercise, you take on the role of the Operations Lead for Contoso's regional distribution center in Fargo, North Dakota. You're responsible for managing the facility's upcoming expansion, which is intended to support growing customer demand and improve warehouse capacity.
 
@@ -29,3 +29,7 @@ The expansion involves:
 - Communicating progress, risks, and updates to leadership and cross-functional teams.
 
 The Operations team must balance tight deadlines, regulatory compliance, and the need for clear communication across departments and with external partners. In this exercise, you'll use Microsoft 365 Copilot to manage planning, create an internal knowledge agent, update protocols, and communicate changes to staff.
+
+Click on **Next** from the lower right corner to move on to the next page.
+
+  ![](../media/ms4004-next.png)

@@ -32,9 +32,11 @@ In this task, you will use Copilot in Viva Engage to create and enhance an annou
 
      ![](../media/lab6-06-38.png)
 
-4. In the **Create a new community** window, enter **Adatum HR agent testing** in the **Name** field, and enter **This community is used for testing the Viva Engage announcement for Adatum’s new HR Self-Service Assistant** **agent** in the **Description** field. Select the **Create** button.
+4. In the **Create a new community** window, enter **Adatum_HR_agent_testing_<inject key="DeploymentID" enableCopy="false"/> (1)** in the **Name** field, and enter **This community is used for testing the Viva Engage announcement for Adatum’s new HR Self-Service Assistant agent (2)** in the **Description** field. Select the **Create (3)** button.
 
-5. In **Viva Engage**, select **+Create new** at the top of the navigation pane, and then select **Post** in the drop-down menu that appears.
+     ![](../media/ms4004-l6-2.png)
+
+5. In **Viva Engage**, select **+ Create new** at the top of the navigation pane, and then select **Post** in the drop-down menu that appears.
 
 6. In the **Post** window, select the **Copilot** icon to open the Copilot pane.
 
@@ -133,3 +135,7 @@ In this task, you will use Copilot in Viva Engage to create and enhance an annou
 ## Summary
 
 In this exercise, you used Copilot in Viva Engage to create a compelling announcement for the rollout of the HR Self-Service Assistant. You improved the message with a conversational tone, added employee testimonials, and emphasized the value of the new HR support experience. The completed announcement helps promote awareness, encourage adoption, and invite employee feedback to support continuous improvement of the assistant.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

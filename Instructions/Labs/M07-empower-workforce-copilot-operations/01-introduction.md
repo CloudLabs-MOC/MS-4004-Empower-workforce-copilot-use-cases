@@ -1,6 +1,6 @@
 # Module 7: Empower workforce copilot operations
 
-## Module Overview
+## Lab Overview
 
 Operations teams are the backbone of every organization. They coordinate people, processes, facilities, and technology to keep the business running smoothly—often while juggling tight timelines, complex logistics, and constant change. In this environment, the ability to make fast, informed decisions is critical.
 
@@ -20,7 +20,7 @@ Across industries, Operations teams face similar pressures: maintaining safe and
 
 This training module is built around realistic, scenario‑driven exercises that reflect the responsibilities of modern Operations teams. These exercises reflect what Operations teams do daily—coordinating people, projects, safety, and change. Copilot strengthens these essential functions by reducing friction, speeding execution, and ensuring that information is accurate, consistent, and actionable.
 
-### Copilot prompting
+## Copilot prompting
 
 One of the primary keys to effectively using Copilot is the quality of your Copilot prompts. A good Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
 
@@ -42,7 +42,7 @@ To get the most out of this module, you should have:
 
 ## Getting Started with the lab
 
-We've prepared a seamless environment for you to explore and learn about **Module 1: Empower Workforce with Microsoft 365 Copilot for Executives**. Let's begin by making the most of this experience!
+We've prepared a seamless environment for you to explore and learn about **Module 7: Empower Workforce with Microsoft 365 Copilot for Operations**. Let's begin by making the most of this experience!
 
 ## Accessing Your Lab Environment
  
@@ -99,9 +99,13 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
     ![](../media/module-4/prereq-3.png)
 
-1. In **File Explorer**, navigate to `C:\LabFiles\MS-4004-Empower-workforce-copilot-use-cases\ResourceFiles` location and select all the files from the ResourceFiles folder and click **Open**.
+1. In **File Explorer**, navigate to **`C:\AllFiles` (1)** location and select all the files **(2)** from the folder and click **Open (3)**.
+
+    ![](../media/ms4004-l1-2.png)
 
 1. When the upload is complete, you should see **Uploaded 93 items to My files** in the bottom center of the screen.
+
+    ![](../media/ms4004-l1-3.png)
 
 1. Leave **Edge** open and move on to the next task.
 
@@ -109,8 +113,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 When using Copilot, you may find that some files aren’t immediately available in the suggestions. This occurs because certain Copilot experiences only reference files from the **Most Recently Used (MRU)** list, while others let you browse **OneDrive** directly. To ensure a file appears in the **MRU** list, simply open it in the relevant Microsoft 365 app, and it will be added automatically.
 
-> [!IMPORTANT]
-> Microsoft 365 Copilot can only work with files saved to **OneDrive**. Files stored locally on your PC will need to be moved to **OneDrive** for Copilot to access them.
+> **`!IMPORTANT:** Microsoft 365 Copilot can only work with files saved to **OneDrive**. Files stored locally on your PC will need to be moved to **OneDrive** for Copilot to access them.
 
 ## Support Contact
  
@@ -123,4 +126,4 @@ Learner Support Contacts:
  
 Click **Next** from the bottom right corner to embark on your Lab journey!
 
-  ![](../media/module-4/next-0206.png)
+  ![](../media/ms4004-next.png)

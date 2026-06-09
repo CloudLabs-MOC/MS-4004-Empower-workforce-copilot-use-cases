@@ -20,17 +20,7 @@ This agent should:
 
 > **`Note:`** This task uses the Copilot Studio lite experience, which is designed for business users and doesn't require coding.
 
-## Steps
-
-1. Select each of the following links to download their respective files and store them in your **OneDrive** account:
-
-    - [**Contoso_Expansion_Project_Overview.docx**](https://go.microsoft.com/fwlink/?linkid=2347809)
-    - [**Contoso_Expansion_FAQ_Reference.docx**](https://go.microsoft.com/fwlink/?linkid=2347517)
-    - [**Contoso_Expansion_Knowledge_Pack.docx**](https://go.microsoft.com/fwlink/?linkid=2347808)
-    - [**Contoso_Inventory_Move_Schedule.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347519)
-    - [**Contoso_Safety_Protocol_Updates.docx**](https://go.microsoft.com/fwlink/?linkid=2347520)
-    - [**Contoso_Temporary_Evacuation_Routes.docx**](https://go.microsoft.com/fwlink/?linkid=2347611)
-    - [**Contoso_Vendor_Access_and_Hours.docx**](https://go.microsoft.com/fwlink/?linkid=2347521)
+## Task 2: Use Copilot Studio to build a Facility Expansion FAQ agent
 
 1. Open a new tab in your **Microsoft Edge** browser and navigate to the Microsoft 365 home page:
 
@@ -87,7 +77,19 @@ This agent should:
 
     ![](./media/knowledge-section.png)
 
-1. In the **Knowledge** section, select **Upload from onedrive** and upload all seven files that mention earlier on the lab guide.
+15. In the **Knowledge** section, select the **Attach cloud files** icon that appears next to the **Enter a URL or name or drop files here** field. 
+
+     ![](../media/lab2-06-50.png) 
+
+1. In the **File Explorer** window that appears, navigate to your **OneDrive** folder and select the below files and then select the **Open** button.
+
+     - **Contoso_Expansion_Project_Overview.docx**
+    - **Contoso_Expansion_FAQ_Reference.docx**
+    - **Contoso_Expansion_Knowledge_Pack.docx**
+    - **Contoso_Inventory_Move_Schedule.xlsx**
+    - **Contoso_Safety_Protocol_Updates.docx**
+    - **Contoso_Temporary_Evacuation_Routes.docx**
+    - **Contoso_Vendor_Access_and_Hours.docx**
 
 1. Return to the **Describe** tab and ask Copilot to generate three suggested prompts for the agent.
 
@@ -98,6 +100,26 @@ This agent should:
     ![](./media/add-prompts.png)
 
 1. In the **Configure** tab, review the suggested prompts. Add two or three more prompts manually from the examples provided in the lab.
+
+    <br/>Six suggested prompts are displayed below that are related to popular facility expansion topics. Review these prompts, select two or three that you like, and then add them to the agent.
+
+    - **Title:** Construction Timeline Check
+        - **Message:** What construction phase are we currently in for the Fargo distribution center expansion, and which areas of the building are affected this week?  
+                
+    - **Title:** PPE & Safety Requirements
+        - **Message:** What PPE is required in the construction-adjacent zones, and do these requirements change during the 24‑week expansion?  
+                
+    - **Title:** Temporary Evacuation Route Guidance
+        - **Message:** What is the temporary evacuation route for the Packing area during the expansion, and where is the nearest assembly point?  
+                
+    - **Title:** Inventory Move Wave Details
+        - **Message:** Which SKUs are included in the next inventory move wave, and what are the start and end dates for that wave?  
+                
+    - **Title:** Vendor Access & Parking Instructions
+        - **Message:** Where should vendors park during the expansion, and what are the temporary access hours and check‑in rules?  
+                
+    - **Title:** Operational Impacts Summary
+        - **Message:** What operational impacts should staff expect over the next few weeks due to the ongoing construction and dock upgrades?              
 
 1. Test several of the suggested prompts and review the responses. Verify that the agent references the uploaded files and stays within scope.
 
@@ -125,15 +147,6 @@ In this task, you used **Microsoft Copilot Studio** to build a Facility Expansio
 
 The agent can now be used to answer common operational questions in a consistent, citation-based way.
 
-## Support Contact
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
-The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both technical and training-related queries.
-
-Learner Support Contacts:
-
-- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
-- Live Chat Support: https://cloudlabs.ai/labs-support
-
-Click **Next** from the bottom right corner to proceed to the next task!
-
-![](./media/next-button.png)
+![](../media/ms4004-next.png)

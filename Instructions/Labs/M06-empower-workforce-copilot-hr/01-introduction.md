@@ -26,7 +26,7 @@ This training module guides you through the following practical exercises that d
 
 By the end of this module, you should clearly see how Copilot can transform HR workflows, improve employee experiences, and enable your team to operate more strategically.
 
-### Copilot prompting
+## Copilot prompting
 
 One of the primary keys to effectively using Copilot is the quality of your Copilot prompts. A good Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
 
@@ -53,6 +53,8 @@ We've prepared a seamless environment for you to explore and learn about **Modul
 ## Accessing Your Lab Environment
  
 Once the lab environment is ready, the virtual machine displayed on the left will be your primary workspace for completing the exercises, while the **Guide** on the right side provides step-by-step instructions for each task.
+
+![](../media/ms4004-l6-vm.png)
 
 ## Exploring Your Lab Resources
  
@@ -105,9 +107,13 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
     ![](../media/module-4/prereq-3.png)
 
-1. In **File Explorer**, navigate to **`C:\LabFiles\MS-4004-Empower-workforce-copilot-use-cases\ResourceFiles`** location and select all the files from the ResourceFiles folder and click **Open**.
+1. In **File Explorer**, navigate to **`C:\AllFiles` (1)** location and select all the files **(2)** from the folder and click **Open (3)**.
 
-1. When the upload is complete, you should see **Uploaded 92 items to My files** in the bottom center of the screen.
+    ![](../media/ms4004-l1-2.png)
+
+1. When the upload is complete, you should see **Uploaded 93 items to My files** in the bottom center of the screen.
+
+    ![](../media/ms4004-l1-3.png)
 
 1. Leave **Edge** open and move on to the next task.
 
@@ -128,4 +134,4 @@ Learner Support Contacts:
  
 Click **Next** from the bottom right corner to embark on your Lab journey!
 
-  ![](../media/module-4/next-0206.png)
+  ![](../media/ms4004-next.png)

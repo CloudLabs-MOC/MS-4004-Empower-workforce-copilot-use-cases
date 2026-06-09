@@ -34,4 +34,6 @@ This initiative is designed to ensure that every manager receives clear, actiona
 
 Your task is to use Microsoft 365 Copilot to extract insights from manager-level HR data, summarize findings, and communicate targeted recommendations to managers and HR leadership. The insights you generate play a critical role in shaping Contoso’s management culture and driving organizational success.
 
+Click on **Next** from the lower right corner to move on to the next page.
 
+  ![](../media/ms4004-next.png)
