@@ -74,6 +74,8 @@ In this task, you will:
 
 4. Select the **Web** mode option.
 
+   ![](../media/m08-4.png)
+
 5. Enter the same prompt used with the Researcher agent.
 
 6. Submit the request.
