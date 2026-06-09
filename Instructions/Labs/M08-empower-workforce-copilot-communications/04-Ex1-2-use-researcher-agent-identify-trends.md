@@ -27,9 +27,15 @@ In this task, you will:
 
 2. Sign in using the credentials provided by your lab environment.
 
-3. In the navigation pane, locate and select the **Researcher** agent.
+    - **Email/Username**: **<inject key="AzureAdUserEmail"></inject>**
 
-4. In the prompt field, enter a request similar to the following:
+    - **Password**: **<inject key="AzureAdUserPassword"></inject>**
+
+3. In the navigation pane, locate and select the **Researcher (1)** agent.
+
+   ![](../media/m08-2.png)
+
+4. In the prompt(2) field, enter a request similar to the following:
 
    ```text
    Boulder Innovations is preparing to launch AuroraHub, an internal communications hub where employees can access sustainability updates, operational alerts, best-practice guidance, and leadership messages in formats optimized for mobile access and shift-based work.
@@ -53,10 +59,10 @@ In this task, you will:
    ```text
    Go ahead
    ```
-
+   ![](../media/m08-3.png)
+   
 7. Wait while the Researcher agent gathers and analyzes information.
 
----
 
 ## Task 2: Compare Researcher and Copilot Chat
 
