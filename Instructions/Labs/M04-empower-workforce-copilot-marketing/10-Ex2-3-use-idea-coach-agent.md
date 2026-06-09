@@ -1,10 +1,16 @@
 # Exercise 2, Task 3: Use Copilot’s Idea Coach agent to generate creative campaign concepts
 
-## Overview
+## Scenario
 
 Now that you finished analyzing the market data and reviewing the performance of Mystic Spice Premium Chai Tea, you want to develop ideas for a new seasonal marketing campaign to build on the brand’s growing success. The campaign should target health-conscious, experience-driven consumers who value comfort, wellness, and authenticity, which are the core brand pillars of Mystic Spice Premium Chai Tea.
 
-Perform the following steps to complete this task:
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot’s Idea Coach agent to generate and refine creative marketing campaign concepts. You will explore campaign ideas, develop messaging and promotional strategies, tailor content for specific audiences and regions, and compile recommendations into a reusable campaign planning document.
+
+## Task 3: Use Copilot’s Idea Coach agent to generate creative campaign concepts
+
+In this task, you will use the Idea Coach agent to create marketing campaign concepts for Mystic Spice Premium Chai Tea, expand selected ideas with messaging and promotional activities, adapt them for specific demographics and regions, and consolidate the results into a Word document.
 
 1. Navigate back to the browser tab where you have Microsoft 365 Copilot open and under **Agents** section select **All agents (1)**. 
 
@@ -69,3 +75,7 @@ Perform the following steps to complete this task:
 ## Summary
 
 In this task, you used the Idea Coach agent to generate creative marketing campaign ideas for Mystic Spice Premium Chai Tea. You asked the agent to review the product description and come up with campaign ideas, then expand on those ideas with key messages and promotional activities. You also learned how to use the Edit in Pages feature to compile the agent's responses into a Word document that you can save and use for future reference.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

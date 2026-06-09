@@ -1,5 +1,7 @@
 # Exercise 2, Task 2: Use Copilot in PowerPoint to create an executive presentation
 
+## Scenario
+
 Your next task is to share the information captured in the **Smart Sensor contract comparison** document in tomorrow's Finance leadership meeting. Visual clarity and brevity are key. You plan to use Copilot in PowerPoint to generate a presentation that summarizes your key takeaways and includes recommendations for mitigating the identified risks. Ensure the deck is concise and visually engaging.
 
 ## Using Copilot in PowerPoint
@@ -14,7 +16,13 @@ In summary, use chat-style Copilot for thinking and generating ideas; use **Edit
 
 This task uses the **Edit with Copilot** functionality.
 
-## Steps
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft Copilot in PowerPoint to transform a contract comparison document into an executive-ready presentation. You will create comparison slides, highlight risks and opportunities, add strategic recommendations, and build action-oriented content tailored for Finance leadership. These capabilities help decision-makers quickly evaluate vendor options and support informed contract negotiations.
+
+## Task 2: Use Copilot in PowerPoint to create an executive presentation
+
+In this task, you will use Copilot in PowerPoint to create an executive presentation that compares vendor contracts, highlights key findings, and presents recommendations, risks, and next steps for Finance leadership.
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
@@ -179,15 +187,6 @@ In this task, you used **Copilot in PowerPoint** with the **Edit with Copilot** 
 
 This presentation is now ready to be delivered to Fabrikam's Finance leadership team in tomorrow's meeting.
 
-## Support Contact
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
-The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
-
-Learner Support Contacts:
-
-- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
-- Live Chat Support: https://cloudlabs.ai/labs-support
-
-Click **Next** from the bottom right corner to proceed to the next task!
-
-![](./media/next-button.png)
+![](../media/ms4004-next.png)

@@ -1,5 +1,7 @@
 # Exercise 1, Task 3: Use Copilot Chat to analyze a potential acquisition
 
+## Scenario
+
 Fabrikam's executive team is evaluating the potential acquisition of Relecloud, Ltd. Robin Kline, Fabrikam's Finance Manager, sent you a detailed business perspective for Relecloud. It provides an overview of the company's market position and industry analysis, financial performance, customer and sales insights, operations and capabilities, intellectual property, product roadmap, risks and challenges, and future outlook.
 
 Robin tasked you with analyzing and summarizing the document into three concise areas:
@@ -20,7 +22,13 @@ When Copilot Chat opens in **Work** mode, the response mode selector isn't shown
 
 As you saw in the earlier task that used Copilot in Excel, it also includes a response control selector. However, its options are different from the Chat selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors may look similar, they control different aspects of Copilot and aren't the same setting.
 
-## Steps
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot Chat to analyze a potential acquisition and transform complex business information into actionable insights. You will evaluate financial performance, operational capabilities, and integration considerations while generating structured reports and visual summaries. These capabilities help finance professionals accelerate due diligence and support strategic acquisition decisions.
+
+## Task 3: Use Copilot Chat to analyze a potential acquisition
+
+In this task, you will use Copilot Chat to analyze Relecloud's business perspective, generate financial and operational insights, and create an acquisition integration plan for Fabrikam.
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
@@ -40,11 +48,13 @@ As you saw in the earlier task that used Copilot in Excel, it also includes a re
 
     ![](./media/copilot-work-mode.png)
 
-1. In the Copilot prompt field, select the **attachment** icon and attach the **Relecloud Business Perspective.docx** file that you downloaded in Step 1.
+1. In Copilot Chat, select **Add (1)**, and then choose **Attach cloud files (2)** to browse and attach a file from OneDrive.
 
-    ![](./media/attach-file.png)
+   ![](./media/attach-file.png)
 
-    ![](./media/attach-file4.png)
+1. In **My files (1)**, select **Relecloud Business Perspective.docx (2)**, and then click **Select (3)**.
+
+   ![](./media/attach-file4.png)
 
 1. Based on Robin Kline's request, enter a prompt asking Copilot to review the attached document and create a business perspective summary that contains the following three sections:
 
@@ -66,26 +76,6 @@ As you saw in the earlier task that used Copilot in Excel, it also includes a re
     In the next step, you'll submit a more detailed prompt to produce a richer, more structured report.
 
 1. Ask Copilot to create an **expanded version** of the previous report. Tell it to include all the information from the previous summary, and also add the following details to each section:
-
-    - In the **Financial analysis** section, include:
-        - Valuation and deal structure, including valuation multiples and deal structure implications
-        - Financial health and ratios, including liquidity and solvency, profitability trends, gross-to-net retention by cohort, regional annual recurring revenue (ARR) dynamics, and cash flow analysis
-        - Revenue and customer concentration, including revenue breakdown, customer concentration risk, customer concentration by sector/vertical, and churn and retention drivers
-        - The following visual:
-            - **Line or Bar Charts:** Revenue, EBITDA, and net income trends over time, plus gross margin and operating margin trends
-
-    - In the **Operations analysis** section, include:
-        - Cost structure and efficiency, including COGS and operating expenses (OpEx) analysis, efficiency metrics, and scalability assessment
-        - Competitive positioning, including a SWOT analysis and peer benchmarking
-        - The following visuals:
-            - **SWOT Matrix:** Visual grid summarizing strengths, weaknesses, opportunities, and threats
-            - **Scalability Assessment Diagram:** Illustrates DevSecOps practices, infrastructure, and organizational scalability
-
-    - In the **Integration Planning** section, include:
-        - Synergy and integration modeling, including synergy realization, integration risks, and a post-merger integration plan
-        - Leadership and organizational review, including management track record and organizational structure
-        - The following visual:
-            - **Integration Timeline (Gantt Chart):** Visualizes the phases and milestones of the post-merger integration plan
 
     ```
     Expand the previous report and include the following:
@@ -111,13 +101,13 @@ As you saw in the earlier task that used Copilot in Excel, it also includes a re
 
 1. Review the expanded results. Note the difference between the first summary report - based on a high-level prompt - and this second report - based on a much more detailed request. This comparison highlights the importance of crafting detailed prompts that incorporate all four key elements: **Goal**, **Context**, **Sources**, and **Expectations**.
 
+1. Feel free to select any of Copilot's suggested follow-up prompts if you want to refine or expand the summary further. When you're ready, ask Copilot to **compile this information into a single downloadable document**. Download the file once it's generated and save it to your **OneDrive** account.
+
     ```
     Compile the complete acquisition analysis into a single downloadable document with all sections, charts, diagrams, and recommendations included.
     ```
 
     ![](./media/compare-results.png)
-
-1. Feel free to select any of Copilot's suggested follow-up prompts if you want to refine or expand the summary further. When you're ready, ask Copilot to **compile this information into a single downloadable document**. Download the file once it's generated and save it to your **OneDrive** account.
 
 1. You have now completed **Task 3**.
 
@@ -133,15 +123,6 @@ In this task, you used **Copilot Chat** in Work mode to analyze the Relecloud Bu
 
 This task demonstrates that the more precise and structured your prompt - incorporating Goal, Context, Sources, and Expectations - the more actionable and comprehensive Copilot's output will be.
 
-## Support Contact
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
-The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
-
-Learner Support Contacts:
-
-- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
-- Live Chat Support: https://cloudlabs.ai/labs-support
-
-Click **Next** from the bottom right corner to proceed to the next task!
-
-![](./media/next-button.png)
+![](../media/ms4004-next.png)

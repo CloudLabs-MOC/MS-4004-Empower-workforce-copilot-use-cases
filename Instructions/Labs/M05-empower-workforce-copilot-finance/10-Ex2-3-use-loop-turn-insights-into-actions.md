@@ -1,8 +1,16 @@
 # Exercise 2, Task 3: Use Copilot in Loop to turn insights into actionable content
 
+## Scenario
+
 Before presenting the **Smart Sensor contract comparison - Finance** PowerPoint to Finance leadership, you want to gather diverse perspectives from the Finance team - especially from those members with procurement and legal experience. You plan to use Copilot in Microsoft Loop to review your draft presentation and turn its insights involving negotiation strategy, risk mitigation ideas, and communication framing into actionable, collaborative content.
 
-## Steps
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft Copilot in Loop to transform presentation insights into structured, collaborative content that supports stakeholder review and decision-making. You will create negotiation strategies, risk mitigation plans, and communication frameworks that can be shared and refined by cross-functional teams. These capabilities help organizations turn analysis into actionable plans while improving collaboration and alignment.
+
+## Task 3: Use Copilot in Loop to turn insights into actionable content
+
+In this task, you will use Copilot in Loop to convert contract comparison recommendations into collaborative content, including negotiation strategies, risk mitigation plans, and stakeholder communication frameworks.
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
@@ -146,15 +154,6 @@ In this task, you used **Copilot in Microsoft Loop** to transform the Smart Sens
 
 This workspace is now ready to be shared with Finance colleagues for collaborative review before the leadership presentation.
 
-## Support Contact
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
-The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
-
-Learner Support Contacts:
-
-- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
-- Live Chat Support: https://cloudlabs.ai/labs-support
-
-Click **Next** from the bottom right corner to proceed to the next task!
-
-![](./media/next-button.png)
+![](../media/ms4004-next.png)

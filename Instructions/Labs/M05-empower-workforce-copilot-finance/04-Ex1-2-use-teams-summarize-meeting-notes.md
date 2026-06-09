@@ -1,12 +1,20 @@
 # Exercise 1, Task 2: Use Copilot in Teams to summarize meeting notes
 
+## Scenario
+
 In your role as a Financial Analyst for Fabrikam, you joined a meeting with Robin Kline, Fabrikam's Finance Manager, and other members of the Finance department, including Amari Rivera, Quincy Brooks, Miguel Reyes, and Eric Solomon. The purpose of the meeting was to discuss the upcoming year-end financial analysis and reporting requirement. The discussion covered how new data fields and automation might affect financial reporting timelines and formats.
 
 You didn't have time to take detailed notes, so you turn to Copilot for help. In this task, you plan to use Copilot in Teams to summarize the meeting notes. This summary can help you quickly extract key takeaways and action items, which can then be shared with your manager and used to align future financial reporting processes.
 
 > **`Note:`** Since this course uses a bring-your-own-subscription (BYOS) model, it doesn't include a simulated lab or demo environment for Fabrikam. Therefore, there's no Microsoft 365 tenant to access. To replicate the experience of a real Teams meeting in a simple, accessible format, meeting notes are provided in a text (.txt) file. In a corporate environment, these conversations would typically be stored in Teams, but for this exercise, the text file allows learners to upload and use the content with Copilot Chat without needing access to a live Teams channel. The format preserves sender names, timestamps, and message content so you can practice summarizing and extracting key information just as you would with actual Teams chat messages.
 
-## Steps
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot in Teams to transform meeting notes into actionable business outputs. You will generate summaries, identify decisions and action items, create participant-specific task lists, draft communications, build timelines, and produce policy guidance. These capabilities help finance teams improve collaboration, accountability, and follow-up execution.
+
+## Task 2: Use Copilot in Teams to summarize meeting notes
+
+In this task, you will use Copilot in Teams to analyze meeting notes, extract key decisions and action items, assign responsibilities, and generate follow-up deliverables such as emails, timelines, meeting invites, and policy documentation.
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
@@ -28,11 +36,19 @@ You didn't have time to take detailed notes, so you turn to Copilot for help. In
 
     ![](./media/teams-copilot-nav.png)
 
-1. On the **Welcome to Copilot Chat** page, enter a prompt asking Copilot to summarize the key decisions, updates, and action items in the meeting notes. Attach the **Fabrikam Finance meeting notes.txt** file to the prompt by selecting the **attachment** icon before submitting.
+1. In Copilot Chat, select **Add (1)**, and then choose **Attach cloud files (2)** to browse and attach a file from OneDrive.
 
-    ![](./media/attach-file.png)
+   ![](./media/attach-file.png)
 
-    ![](./media/attach-filea.png)
+1. In **My files (1)**, select **Fabrikam Finance meeting notes.txt (2)**, and then click **Select (3)**.
+
+   ![](./media/attach-filea.png)
+
+1. Once the files are uploaded, provide the following prompt and then click on **Send**:
+
+    ```
+    Summarize the key decisions, updates, and action items in the attached meeting notes.
+    ```
 
 1. Review the summary to ensure it includes decisions, next steps, and responsibilities. Then ask Copilot to generate a downloadable file of the summary for distribution to the meeting participants. Download the document that Copilot generates.
 
@@ -100,15 +116,6 @@ In this task, you used **Copilot in Microsoft Teams** to process and act on the 
 
 These outputs demonstrate how Copilot in Teams can transform unstructured meeting notes into actionable, shareable deliverables - saving time and improving team alignment.
 
-## Support Contact
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
 
-The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
-
-Learner Support Contacts:
-
-- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
-- Live Chat Support: https://cloudlabs.ai/labs-support
-
-Click **Next** from the bottom right corner to proceed to the next task!
-
-![](./media/next-button.png)
+![](../media/ms4004-next.png)

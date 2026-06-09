@@ -6,7 +6,13 @@ Relecloud is gearing up to launch its flagship solution, WorkSmart 360, designed
 
 In this task, you continue in your role as a Senior Marketing Strategist for Relecloud. Now that you have created the Market Research Agent in Microsoft 365 Copilot, you want to use it to collect and synthesize comprehensive market insights for smart workspace products in the commercial office market. Once you gather and synthesize this market intelligence, you then plan to use Copilot’s prebuilt Analyst agent to interpret the data and generate strategic Marketing recommendations in Task 3.
 
+## Lab Overview
+
+In this hands-on lab, you will use the Market Research Agent in Microsoft 365 Copilot to gather and synthesize market intelligence for smart workspace products in the commercial office market. You will analyze industry trends, customer sentiment, competitor activity, and emerging opportunities to better understand the market landscape. The resulting insights will help inform marketing strategies and support future campaign planning for WorkSmart 360 and other Relecloud products.
+
 ## Task 2: Use the Market Research Agent to synthesize market intelligence
+
+In this task, you will use the Market Research Agent to gather and analyze market intelligence for smart workspace products in the commercial office market. You will refine the generated report through iterative prompts and save the final market insights report for future analysis.
 
 1. In your Microsoft Edge browser, you should have a tab open from the prior task that displays the **Market Research Agent**. If not, open Microsoft 365 and select the **Market Research Agent** to open it.
 

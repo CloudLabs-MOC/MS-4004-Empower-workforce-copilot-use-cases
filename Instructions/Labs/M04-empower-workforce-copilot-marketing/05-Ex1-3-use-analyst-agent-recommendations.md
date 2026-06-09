@@ -1,6 +1,6 @@
 # Exercise 1, Task 3: Use Copilot’s Analyst agent to generate strategic recommendations
 
-## Overview
+## Scenario
 
 In the previous phase, you used the Market Research Agent to collect and synthesize comprehensive insights on the smart workspace products market. You saved this information in a report titled **Market Insights Report – Smart Workspaces.docx**. The data in this report included trends, audience behaviors, cultural shifts, competitive developments, and recommended actions. Now, it’s time to move from insight to strategy.
 
@@ -16,7 +16,13 @@ In this task, you plan to use Copilot’s Analyst agent to interpret the finding
     - Influencer and partnership strategies to amplify reach and credibility.
     - Risk considerations and mitigation tactics.
 
+## Lab Overview
+
+In this hands-on lab, you will use Copilot’s Analyst agent to transform market research findings into strategic marketing recommendations. You will analyze market trends, audience behaviors, and competitive insights, prioritize business opportunities, and create executive-ready deliverables. These capabilities help marketing teams convert research into actionable strategies that support product positioning and campaign planning.
+
 ## Task 3: Use Copilot’s Analyst agent to generate strategic recommendations
+
+In this task, you will use the Analyst agent to interpret the Market Insights Report and generate strategic recommendations for messaging, positioning, channel strategy, and market opportunities.
 
 1. Open Microsoft 365 in a new browser tab using the URL below. 
 

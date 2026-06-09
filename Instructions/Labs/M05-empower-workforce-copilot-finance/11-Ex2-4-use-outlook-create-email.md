@@ -1,10 +1,18 @@
 # Exercise 2, Task 4: Use Copilot in Outlook to create an email that requests feedback
 
+## Scenario
+
 You're finalizing your materials and need quick feedback from your Finance colleagues. To do so, you plan to use Copilot in Outlook to create a short, polished email that motivates timely collaboration and streamlines the review process. You want the email to sound professional and urgent but remain collaborative and positive. It should solicit feedback on your presentation, embed the Loop component that you created in the prior task for collaboration, and strike a direct, concise tone while conveying urgency.
 
 This task helps you become familiar with Copilot's draft process in Outlook by generating multiple email versions. You learn how to create, review, and compare different drafts so you can select the one that best fits your tone and purpose.
 
-## Steps
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft Copilot in Outlook to create and refine a professional email requesting stakeholder feedback. You will generate multiple drafts, adjust tone and structure, incorporate collaborative content, and create a polished communication that encourages timely responses. These capabilities help professionals improve collaboration and streamline stakeholder engagement.
+
+## Task 4: Use Copilot in Outlook to create an email that requests feedback
+
+In this task, you will use Copilot in Outlook to draft, refine, and finalize a professional email requesting feedback on presentation materials. You will explore multiple drafts, adjust tone and structure, and incorporate collaborative elements to improve communication effectiveness.
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
@@ -25,6 +33,8 @@ This task helps you become familiar with Copilot's draft process in Outlook by g
 1. In **Outlook on the web**, select **New mail** to create a new email.
 
 1. In the body of the new email, select the **Open Copilot** icon to open the Copilot draft window.
+
+    ![](./media/ms4004-l5-2.png)
 
 1. In the Copilot prompt field, enter a prompt asking Copilot to write a short, direct email to your Finance team colleagues requesting feedback on your draft contract comparison presentation. Include the following in your prompt:
 
@@ -86,31 +96,18 @@ This task helps you become familiar with Copilot's draft process in Outlook by g
     - Key points for review are listed in **bullet format**
     - The email opens by **stressing the deadline for feedback**
 
-1. Review the updated email - this is now **draft 3 of 3**. You decide to add one final paragraph. Ask Copilot to add a single paragraph at the end of the email that explains how your colleagues' input will improve the final deliverable. Include a motivating phrase such as:
+1. Review the updated email - this is now **draft 3 of 3**. You decide to add one final paragraph. Ask Copilot to add a single paragraph at the end of the email that explains how your colleagues' input will improve the final deliverable. Include a motivating phrase like ‘Your insights will make a big impact.
 
     ```
-    Rewrite the email so that:
-
-    * It opens by stressing the deadline for feedback.
-    * The key items requiring review are presented as bullet points.
-    * The overall structure is easy to scan and action-oriented.
-    * The professional tone is maintained.
+    Add a single paragraph at the end of the email that explains how colleagues’ input will help improve the final deliverable. Include the phrase "Your insights will make a big impact."
 
     ```
 
-    ```
-    Your insights will make a big impact.
-    ```
+    ![](./media/ms4004-l5-3.png)
 
-1. Review the results. After re-reading the email, you aren't fully satisfied with the tone. In the Copilot menu, scroll down and select **Change Tone**, then choose one of the tone options from the menu.
+1. Review the results. After re-reading the email, you aren't fully satisfied with the tone. In the Copilot menu, scroll down and select **Change Tone (1)**, then choose one of the tone options from the menu **(2)**.
 
-1. Review the new draft. You're still not completely satisfied, so enter a prompt directly asking Copilot to adjust the tone to sound **friendly and confident but still professional**.
-
-    ```
-    Add a single paragraph at the end of the email explaining how colleagues' feedback will strengthen the final presentation and recommendations. Include the phrase: "Your insights will make a big impact."
-    ```
-
-    ![](./media/tone-adjustment.png)
+     ![](./media/ms4004-l5-4.png)
 
 1. Review the final result. Once you're satisfied with the email, select **Keep it** in the Copilot window. This takes you out of Copilot draft mode and into the actual email.
 
@@ -132,27 +129,3 @@ In this task, you used **Copilot in Outlook** to craft a professional, collabora
 - Added a motivating closing paragraph encouraging colleague participation.
 - Adjusted the email tone using Copilot's **Change Tone** feature and a custom tone prompt.
 - Finalized and kept the best version of the email for distribution.
-
-## Exercise 2 Summary
-
-Across this exercise, you used Microsoft 365 Copilot to streamline the full contract analysis and negotiation workflow at Fabrikam. You:
-
-- **Evaluated vendor contracts** using Copilot Chat to compare Adatum Corporation and Contoso, Ltd. side by side, identify risks, and generate negotiation points.
-- **Built an executive presentation** using Copilot in PowerPoint to visualize contract findings for Finance leadership.
-- **Created a collaborative Loop workspace** with structured negotiation strategy, risk mitigation, and communication plan pages.
-- **Drafted a professional feedback email** using Copilot in Outlook, iterating through multiple drafts to find the right tone and structure.
-
-Together, these tasks demonstrate how Copilot can accelerate the entire contract lifecycle - from analysis to decision-making to stakeholder communication - helping Finance professionals work smarter and faster.
-
-## Support Contact
-
-The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
-
-Learner Support Contacts:
-
-- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
-- Live Chat Support: https://cloudlabs.ai/labs-support
-
-Click **Next** from the bottom right corner to complete the lab!
-
-![](./media/next-button.png)

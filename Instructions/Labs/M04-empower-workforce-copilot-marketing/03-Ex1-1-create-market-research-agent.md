@@ -1,6 +1,6 @@
 # Exercise 1, Task 1: Use Copilot Studio to create a Market Research Agent
 
-## Overview
+## Scenario
 
 Relecloud is preparing to launch WorkSmart 360 in the commercial office market. Relecloud’s Marketing department must understand the competitive landscape, customer preferences, and emerging trends to inform the campaign. Your first step is to build a Market Research Agent that can aggregate this information from web sources, social media, and research reports.
 
@@ -8,17 +8,23 @@ This agent should be product agnostic. Relecloud recently implemented Microsoft 
 
 > **Note:** In this exercise, you use the Copilot Studio Lite experience to create the Market Research Agent. This simplified experience is designed for everyday business users and requires no programming skills. By contrast, software developers who build more complex, advanced agents typically use the full Copilot Studio experience.
 
-Perform the following steps to complete this task:
+## Lab Overview
 
-1.  In Microsoft Edge browser, sign in to the **Microsoft 365** using the URL below: 
+In this hands-on lab, you will use Copilot Studio Agent Builder to create a Market Research Agent that gathers and analyzes market insights from web-based sources. You will configure the agent's instructions, enable knowledge sources, and create suggested prompts that help marketing teams research trends, customer sentiment, competitor activity, and market opportunities. These capabilities help organizations make informed marketing decisions and improve campaign planning.
+
+## Task 1: Use Copilot Studio to create a Market Research Agent
+
+In this task, you will use Copilot Studio Agent Builder to create and configure a Market Research Agent that researches market trends, customer sentiment, competitor activity, and marketing opportunities using web-based sources.
+
+1. In Microsoft Edge browser, sign in to the **Microsoft 365** using the URL below: 
 
     ```
     https://www.microsoft365.com
     ```
 
-2.  In Microsoft 365, select **New agent** in the navigation pane. Doing so opens Copilot Studio’s **Agent Builder** and displays the **New agent** page.
+2. In Microsoft 365, select **New agent** in the navigation pane. Doing so opens Copilot Studio’s **Agent Builder** and displays the **New agent** page.
 
-3.  On the **New Agent (1)** page, you want to ask Copilot to create an agent. In the prompt, you should enter the agent’s name and a general description of what the agent is about, who its target audience is, and what you want it to do. 
+3. On the **New Agent (1)** page, you want to ask Copilot to create an agent. In the prompt, you should enter the agent’s name and a general description of what the agent is about, who its target audience is, and what you want it to do. 
 
     For this agent, enter the following prompt **(2)** and then select the forward **arrow (Send) icon (3)** to submit the prompt:  
     
@@ -27,7 +33,7 @@ Perform the following steps to complete this task:
     ```
     ![Create Agent Prompt](../media/module-4/E1T1S3-0206.png)
 
-4.  After you select the forward arrow, the **Agent Builder** form opens on the right side for your new agent. At the top of the form is a **Configure** tab and a **Try it** tab.
+4. After you select the forward arrow, the **Agent Builder** form opens on the right side for your new agent. At the top of the form is a **Configure** tab and a **Try it** tab.
 
     - The **Configure** tab enables you to define the detailed settings that drive the agent.
 
@@ -37,11 +43,11 @@ Perform the following steps to complete this task:
 
     ![Agent Builder Form](../media/module-4/E1T1S4-0206.png)
 
-6.  On the **Configure** tab, the **Name** and **Description** fields should be filled in based on the prompt that you entered. Scroll down to the **Instructions** field. Copilot generated these instructions based on the description that you provided in your initial prompt. Review the detailed level of instructions that Copilot generated.
+6. On the **Configure** tab, the **Name** and **Description** fields should be filled in based on the prompt that you entered. Scroll down to the **Instructions** field. Copilot generated these instructions based on the description that you provided in your initial prompt. Review the detailed level of instructions that Copilot generated.
 
     > **Important:** The beauty of the Agent Builder process is that Copilot automatically translates your basic, natural language description into a complex set of instructions. This process saves you from creating this detailed instruction set on your own.
 
-7.  If you wish to change the instructions, you can either manually edit them directly in the **Instructions** field or you can ask Copilot to update the instructions for you.  
+7. If you wish to change the instructions, you can either manually edit them directly in the **Instructions** field or you can ask Copilot to update the instructions for you. 
 
 1. In the **Left pane**, enter the provided prompt to identify additional instructions that could improve the agent.
 
@@ -55,11 +61,11 @@ Perform the following steps to complete this task:
     Add all of the recommended instructions to the agent.
     ```
 
-9.  Once Copilot responds that it updated the instructions, in the **Configure** tab and scroll through the **Instructions**. Note the new items that Copilot added.
+9. Once Copilot responds that it updated the instructions, in the **Configure** tab and scroll through the **Instructions**. Note the new items that Copilot added.
 
 10. In the **Configure** tab, scroll down to the **Knowledge** section and verify the **Search all websites** toggle switch is enabled. Copilot should have enabled this toggle switch when it created the agent based on the description you provided in your original prompt (that is, “…**drawing from web sources such as** …”). If the toggle switch isn’t enabled, then do so now.
 
-11.  For **Suggested prompts**, you can have Copilot generate prompts for you, or you can manually create your own prompts. Let’s try both methods.  
+11. For **Suggested prompts**, you can have Copilot generate prompts for you, or you can manually create your own prompts. Let’s try both methods. 
 
 1. In the **Left pane**, enter the provided prompt to generate suggested prompts for the agent.
 
@@ -67,9 +73,9 @@ Perform the following steps to complete this task:
     Generate three suggested prompts for this agent. Include a title and message for each prompt.
     ```
 
-12. To enter several of your own prompts. in the **Configure** tab scroll down to the **Suggested prompts** section. You should see the three prompts that Copilot added to the agent.  
+12. To enter several of your own prompts. in the **Configure** tab scroll down to the **Suggested prompts** section. You should see the three prompts that Copilot added to the agent. 
 
-1. For each prompt that you want to manually add, select the **Add a suggested prompt** option that appears below the prompts.  
+1. For each prompt that you want to manually add, select the **Add a suggested prompt** option that appears below the prompts. 
 
     Six suggested prompts are displayed below that are related to popular market research actions. Add the first prompt (**Market insights report**) as that prompt is used in the next task. Then review the remaining prompts, select two or three other ones that you like, and then add them to the agent as well.
     

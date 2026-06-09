@@ -1,5 +1,7 @@
 # Exercise 1, Task 1: Use Copilot in Excel to analyze new product line COGS
 
+## Scenario
+
 The Finance team is finalizing Cost of Goods Sold (COGS) estimates for Fabrikam's new EcoSmart product line. As the team's lead financial analyst, you're tasked with verifying the latest COGS data provided by the Operations team and ensuring leadership can easily review the most relevant numbers. Leadership wants to understand which product features or materials are driving higher production costs so they can evaluate where to optimize suppliers or production processes.
 
 To accomplish these goals, you plan to use Microsoft Copilot in Excel to go beyond sorting and filtering. You want to analyze patterns in the COGS data, identify top cost drivers, and generate a summary of insights that can be shared with the Operations team.
@@ -24,7 +26,13 @@ If you've used Copilot Chat, you know that it also includes a response control s
 
 This task uses the default **Auto** selector mode.
 
-## Steps
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot in Excel to analyze Cost of Goods Sold (COGS) data for a new product line. You will identify cost drivers, detect anomalies, uncover cost trends, generate summary reports, and create visualizations that support financial decision-making and cost optimization efforts.
+
+## Task 1: Use Copilot in Excel to analyze new product line COGS
+
+In this task, you will use Copilot in Excel to analyze EcoSmart product COGS data, identify key cost drivers and anomalies, generate cost optimization insights, and create visual reports that help leadership understand production cost trends.
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 

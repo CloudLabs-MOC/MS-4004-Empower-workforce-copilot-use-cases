@@ -11,7 +11,7 @@ For financial professionals at Fabrikam, Inc., Copilot acts as a digital partner
 > [!TIP]
 > The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
 
-### Scenario
+## Scenario
 
 In this exercise, you take on the role of a Financial Analyst at Fabrikam, Inc. Fabrikam is a global manufacturer of sustainable consumer products. It’s currently in the midst of two major initiatives: 
 

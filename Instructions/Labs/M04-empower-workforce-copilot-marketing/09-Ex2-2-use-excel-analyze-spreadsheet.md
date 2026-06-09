@@ -1,6 +1,6 @@
 # Exercise 2, Task 2: Use Copilot in Excel to analyze a marketing spreadsheet
 
-## Overview
+## Scenario
 
 One of Contoso’s marketing analysts provided you with a monthly performance tracking spreadsheet that shows monthly sales and marketing activity across the LATAM regions for Contoso's Chai Tea product in the past year. You want to use Copilot in Excel to analyze this data and identify key trends, uncover correlations between marketing engagement and sales performance, and determine which factors might be driving product success in different months.
 
@@ -21,7 +21,13 @@ If you’ve used Copilot Chat, you know that it also includes a response control
 
 This task uses the default **Auto** selector mode.
 
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot in Excel to analyze marketing performance data for Contoso’s Chai Tea product. You will identify sales trends, uncover relationships between marketing activities and sales outcomes, visualize data patterns, detect anomalies, and generate insights that support data-driven marketing decisions.
+
 ## Task 2: Use Copilot in Excel to analyze a marketing spreadsheet
+
+In this task, you will use Copilot in Excel to explore marketing and sales data, identify top-performing periods, analyze correlations between engagement metrics and sales, create visualizations and sparklines, and generate formulas that enhance future analysis.
 
 1. In the Microsoft 365 portal, click on the **App launcher (1)** button and select **OneDrive (2)**.
 
@@ -96,3 +102,7 @@ This task uses the default **Auto** selector mode.
 ## Summary
 
 In this task, you used Copilot in Excel to analyze a marketing performance tracking spreadsheet for Contoso’s Chai Tea product. You asked Copilot to create visual representations of the data, identify key trends and correlations between marketing activities and sales outcomes, add sparklines to show monthly trends, and suggest useful formulas to enhance your analysis. Through this process, you experienced how Copilot can help you quickly uncover insights from your data and automate analysis tasks in Excel.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

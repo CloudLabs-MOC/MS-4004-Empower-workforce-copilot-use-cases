@@ -1,6 +1,6 @@
 # Exercise 2, Task 1: Use Copilot in Word to consolidate multiple market reports
 
-## Overview
+## Scenario
 
 Contoso's Latin America (LATAM) product manager provided you with three market reports involving the company's Mystic Spice Premium Chai Tea beverage. However, you’re finding it difficult to analyze the information, since you’re constantly jumping back and forth between documents.
 
@@ -16,9 +16,15 @@ When **Edit with Copilot** is disabled, Copilot behaves more like Copilot Chat. 
 
 This task uses the **Edit with Copilot** functionality.
 
-##Task 1: Use Copilot in Word to consolidate multiple market reports
+## Lab Overview
 
-3. In your Microsoft Edge browser, sign in to the **Microsoft 365** home page using the URL below:
+In this hands-on lab, you will use Microsoft 365 Copilot in Word to consolidate multiple market research documents into a unified business report. You will enrich the report with additional market insights, competitive analysis, and distribution channel strategies to create a comprehensive marketing reference for regional planning.
+
+## Task 1: Use Copilot in Word to consolidate multiple market reports
+
+In this task, you will use Copilot in Word to combine multiple market reports into a single LATAM Market Analysis report, enhance it with competitor and distribution channel insights, and create a professional document to support marketing strategy decisions.
+
+1. In your Microsoft Edge browser, sign in to the **Microsoft 365** home page using the URL below:
 
     ```
     https://www.microsoft365.com

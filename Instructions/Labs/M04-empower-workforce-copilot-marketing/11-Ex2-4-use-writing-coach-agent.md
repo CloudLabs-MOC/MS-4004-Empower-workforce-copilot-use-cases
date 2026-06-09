@@ -1,6 +1,6 @@
 # Exercise 2, Task 4: Use Copilot’s Writing Coach agent to draft promotional campaign announcements
 
-## Overview
+## Scenario
 
 In the prior task, you selected a campaign idea for Mystic Spice Premium Chai Tea. You then had the Idea Coach agent help expand on this idea with suggestions for key messages, taglines, and promotional activities, which you saved in the **Mystic Spice Premium Chai Tea campaign concepts** document.
 
@@ -8,7 +8,13 @@ It’s now time to bring your campaign to life! Your goal is to create a short, 
 
 You plan to use Copilot’s Writing Coach agent to draft this promotional announcement. It should capture the public’s attention, reflect the campaign’s theme and concepts, and encourage audience participation. You want to keep the tone warm, inviting, and aligned with Mystic Spice’s comforting identity. Ensure the message is concise and optimized for digital platforms.
 
-Perform the following steps to complete this task:
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot’s Writing Coach agent to create and refine marketing content for a product launch campaign. You will generate promotional messages, improve tone and engagement, develop audience-focused campaign variations, and create social media content concepts with captions, visual design guidance, and animation recommendations.
+
+## Task 4: Use Copilot’s Writing Coach agent to draft promotional campaign announcements
+
+In this task, you will use the Writing Coach agent to create promotional content for the Mystic Spice Premium Chai Tea campaign. You will refine messaging, adapt content for different campaign themes, develop a social media carousel concept, and generate supporting creative guidance for marketing and design teams.
 
 1. Navigate back to the browser tab where you have Microsoft 365 Copilot open and under the **Agents** section, select **All agents (1)**.
 
