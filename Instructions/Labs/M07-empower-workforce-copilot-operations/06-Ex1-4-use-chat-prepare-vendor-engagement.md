@@ -1,259 +1,175 @@
-# Exercise 1, Task 4: Use Microsoft 365 Copilot Chat to Prepare for Vendor Engagement
+# Exercise 1, Task 4: Use Microsoft 365 Copilot Chat to prepare for vendor engagement
 
-## Scenario
+It's been quite a day thus far. With Copilot's help, you brainstormed in Whiteboard, researched in Word, and created an executive presentation in PowerPoint. It's now time to prepare for vendor engagement and turn your work into practical decision-making outputs.
 
-Throughout the day, you used Microsoft 365 Copilot across multiple applications to support the evaluation of Adatum Corporation's aging heating system. You brainstormed project ideas in Whiteboard, researched heating system options in Word, and created an executive presentation in PowerPoint.
-
-You now need to prepare for vendor engagement and leadership decision-making. To accomplish this, you will use Microsoft 365 Copilot Chat to consolidate information from your previous work into actionable business deliverables.
-
-Your objectives are to create:
+For this final task in Exercise 1, you want to consolidate your previous work into actionable deliverables:
 
 - A decision matrix comparing boiler repair, boiler replacement, and furnace conversion.
-- A Request for Proposal (RFP) that can be sent to HVAC vendors.
-- An executive summary that leadership can use to make an informed decision.
+- A draft Request for Proposal (RFP) to send to HVAC vendors.
+- An executive-ready summary that leadership can review before approving next steps.
 
-This exercise demonstrates how Microsoft 365 Copilot Chat can synthesize information from multiple Microsoft 365 files and transform that information into structured business outputs.
+You plan to use **Microsoft 365 Copilot Chat** to assist with this process. Copilot Chat can pull context from your previous artifacts and help you synthesize information into structured business outputs.
 
-## Lab Overview
+## Using Copilot Chat
 
-In this hands-on lab, you will use Microsoft 365 Copilot Chat to analyze information from previously created documents, generate decision-making tools, create a vendor Request for Proposal (RFP), and prepare an executive-ready summary.
+In Copilot Chat on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** unless a task specifically calls for a different mode.
 
-You will learn how Copilot Chat can use organizational content stored in Microsoft 365 to assist with planning, vendor selection, and executive communications.
+When Copilot Chat opens in **Work** mode, the response mode selector may not be shown. In **Work** mode, Copilot is optimized for secure, work-context queries and can reference content stored in your Microsoft 365 environment, such as files in OneDrive.
 
-## Prerequisites
+This task uses **Work** mode because you're working with files created earlier in the lab.
 
-Before starting this exercise, ensure that:
+## Steps
 
-- You have access to Microsoft 365.
-- A Microsoft 365 Copilot license is assigned to your account.
-- You are signed in using the provided Microsoft 365 lab credentials.
-- You have completed:
-  - Exercise 1, Task 2: Use Copilot in Word to Compare Operational Reports
-  - Exercise 1, Task 3: Use Copilot in PowerPoint to Create an Executive Presentation
-- The following files are available in your OneDrive:
-  - Heating System Comparison report
-  - Executive presentation created in Task 3
-- Internet connectivity is available.
-- Microsoft 365 Copilot Chat is enabled for your account.
+1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
-## Task 4: Prepare Vendor Engagement Deliverables Using Copilot Chat
+    ```
+    https://www.microsoft365.com
+    ```
 
-In this task, you will use Microsoft 365 Copilot Chat to generate a decision matrix, create an HVAC vendor Request for Proposal (RFP), and prepare an executive summary for leadership review.
+1. Enter the following credentials to sign in to Microsoft 365:
 
-### Steps
+    - **Email/Username**: **<inject key="AzureAdUserEmail"></inject>**
 
-1. Open **Microsoft Edge** and navigate to:
+    - **Password**: **<inject key="AzureAdUserPassword"></inject>**
 
-   ```text
-   https://www.microsoft365.com
-   ```
+1. Open **Copilot Chat** and verify that **Work** mode is selected.
 
-2. Sign in using your Microsoft 365 credentials.
+    ![](../M05-empower-workforce-copilot-finance/media/copilot-work-mode.png)
 
-3. Verify that **Work** mode is selected.
+1. In the Copilot prompt field, attach the **Heating System Comparison** report from your **OneDrive**.
 
-   > **Note:** This exercise uses internal Microsoft 365 content stored in OneDrive. Work mode allows Copilot to access organizational content and documents. Web mode is not required for this exercise.
+    ![](./media/attach-report.png)
 
-4. Open **Microsoft 365 Copilot Chat**.
+### Create a Decision Matrix
 
-5. In the Copilot Chat prompt area, select **Attach content** or the attachment icon.
+1. Ask Copilot Chat to summarize the key decision factors from the attached report. The decision criteria should include cost, energy efficiency, downtime impact, and long-term maintenance considerations.
 
-6. Browse your OneDrive and attach the **Heating System Comparison** report that was created in Task 2.
+    ```
+    Summarize the key decision factors from this report. Include cost, energy efficiency, downtime impact, and long-term maintenance considerations.
+    ```
 
-7. After attaching the report, enter a prompt similar to:
+    ![](./media/decision-criteria.png)
 
-   ```text
-   Summarize the key decision factors from this report. Include cost, energy efficiency, downtime impact, and long-term maintenance considerations.
-   ```
+1. Review the decision criteria and refine it if needed. Submit any suggested prompts that help improve the criteria.
 
-8. Submit the prompt.
+    ![](./media/decision-criteriaa.png)
 
-9. Review the generated decision criteria.
+1. Ask Copilot to create a decision matrix that compares three options: boiler repair, boiler replacement, and convert to furnace. Include columns for cost, installation time, energy efficiency, expected lifespan, and risk level.
 
-10. Verify that the response includes considerations such as:
+    ```
+    Create a decision matrix that compares boiler repair, boiler replacement, and furnace conversion. Include columns for cost, installation time, energy efficiency, expected lifespan, and risk level.
+    ```
 
-    - Cost
-    - Energy efficiency
-    - Downtime impact
-    - Maintenance requirements
-    - Operational risk
-    - Long-term value
+   ![](./media/decision-matrix-prompt.png)
 
-11. Review any suggested prompts generated by Copilot.
+1. Review the matrix. If needed, ask Copilot to add columns for warranty terms and compliance requirements.
 
-12. If applicable, select one or more suggested prompts to further refine the decision criteria.
+    ```
+    Update the decision matrix by adding warranty terms and compliance requirements as additional evaluation criteria.
+    ```
 
-13. Once satisfied with the criteria, enter the following prompt:
+   ![](./media/decision-matrix-prompta.png)
 
-   ```text
-   Create a decision matrix that compares boiler repair, boiler replacement, and furnace conversion. Include columns for cost, installation time, energy efficiency, expected lifespan, and risk level. Use the decision criteria previously identified and focus on factors important to leadership, including cost, energy efficiency, downtime, and maintenance.
-   ```
+1. Once the decision criteria are in place, ask Copilot to make the matrix more actionable by rating or scoring each option against the evaluation criteria.
 
-14. Submit the prompt.
+    ```
+    Assign High, Medium, or Low ratings for risk and provide comparative scoring for each option against the evaluation criteria.
+    ```
 
-15. Review the generated decision matrix.
+    ![](./media/enhanced-matrix.png)
 
-16. Verify that the matrix compares all three options.
+1. Review the decision matrix and submit any suggested prompts that help improve it.
 
-17. Identify any missing information.
+1. Ask Copilot to format the decision matrix as a downloadable Word document.
 
-18. Enter the following prompt:
+    ```
+    Format this decision matrix as a downloadable Word report. Include a title, introduction, decision matrix table, and a usage guidance section explaining how leadership should use the matrix for decision-making.
+    ```
 
-   ```text
-   Update the decision matrix by adding warranty terms and compliance requirements as additional evaluation criteria.
-   ```
+1. Download the decision matrix document once Copilot provides the download link.
 
-19. Submit the prompt.
+    ![](./media/matrix-download-prompt.png)
 
-20. Review the updated matrix.
+### Create the HVAC Vendor RFP
 
-21. To make the matrix more actionable, enter the following prompt:
+1. In Copilot Chat, attach the decision matrix document that you downloaded.
 
-   ```text
-   Assign High, Medium, or Low ratings for risk and provide comparative scoring for each option against the evaluation criteria.
-   ```
+1. Ask Copilot to draft an RFP for HVAC vendors based on the decision matrix.
 
-22. Submit the prompt.
+    ```
+    Using the attached decision matrix, draft a Request for Proposal (RFP) for HVAC vendors. Include project scope, timeline, vendor requirements, proposal submission requirements, evaluation criteria, and next steps.
+    ```
 
-23. Review the enhanced decision matrix.
+    ![](./media/rfp-prompt.png)
 
-24. Verify that each option now includes:
+1. Review the RFP and submit any suggested prompts that help improve the draft.
 
-    - Comparative scoring
-    - Risk ratings
-    - Warranty considerations
-    - Compliance considerations
+    ![](./media/rfp-review.png)
 
-25. Review any suggested prompts displayed by Copilot.
+1. Ask Copilot to format the RFP into a downloadable Word document and download it once the link is available.
 
-26. Apply any suggestions that help improve the matrix.
+    ```
+    Format the RFP as a downloadable Word document.
+    ```
 
-27. Once satisfied with the matrix, enter the following prompt:
+    ![](./media/download-rfp.png)
 
-   ```text
-   Format this decision matrix as a downloadable Word report. Include a title, introduction, decision matrix table, and a usage guidance section explaining how leadership should use the matrix for vendor evaluation and decision-making.
-   ```
+### Create the Executive Summary
 
-28. Submit the prompt.
+1. Ask Copilot to create a one-page executive summary that references the decision matrix as the basis for its recommendations. The summary should:
 
-29. Wait for Copilot to generate the document.
+    - Provide context about the failing boiler and why action is needed.
+    - Explain the available options.
+    - Pull highlights from the decision matrix.
+    - Suggest a preferred option.
+    - Recommend next steps.
 
-30. When Copilot provides a downloadable file, download the Word document.
+    ```
+    Create a one-page executive summary that:
+    - Explains the current situation and why action is required
+    - Describes the available options (repair, replace, or convert)
+    - Highlights findings from the decision matrix
+    - Recommends a preferred option
+    - Identifies recommended next steps
 
-31. Save the document for later use.
+    The summary should be concise, executive-focused, and decision-ready.
+    ```
 
-32. Verify that the downloaded document contains:
+1. Review the executive summary and submit any suggested prompts that improve it.
 
-    - Title page or heading
-    - Introduction
-    - Decision matrix table
-    - Usage guidance section
+    ![](./media/executive-summary-review.png)
 
-33. Return to the Copilot Chat window.
+1. Ask Copilot to format the executive summary into a downloadable Word document. Download the document once Copilot provides the link.
 
-34. Attach the decision matrix document that you downloaded.
+    ```
+    Format this executive summary as a downloadable Word document.
+    ```
 
-35. Enter the following prompt:
+    ![](./media/download-summary.png)
 
-   ```text
-   Using the attached decision matrix, draft a Request for Proposal (RFP) for HVAC vendors. Include project scope, timeline, vendor requirements, proposal submission requirements, evaluation criteria, and expected deliverables.
-   ```
+1. You have now completed **Task 4** and **Exercise 1**. Click **Next** to continue.
 
-36. Submit the prompt.
+## Summary
 
-37. Review the generated RFP.
+In this task, you used **Microsoft 365 Copilot Chat** in Work mode to transform the Heating System Comparison research into three business deliverables for Adatum Corporation. You:
 
-38. Verify that the RFP includes:
+- Summarized key decision factors from the Heating System Comparison report.
+- Generated a decision matrix comparing boiler repair, boiler replacement, and furnace conversion.
+- Created an HVAC vendor RFP.
+- Produced a one-page executive summary with a recommended course of action and next steps.
+- Downloaded all three deliverables as formatted Word documents.
 
-    - Project background
-    - Scope of work
-    - Project timeline
-    - Vendor qualifications
-    - Evaluation criteria
-    - Submission instructions
+These outputs can now support vendor engagement and leadership decision-making.
 
-39. Review any suggested prompts generated by Copilot.
+## Support Contact
 
-40. Apply any suggestions that improve the quality of the RFP.
+The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both technical and training-related queries.
 
-41. Once satisfied with the content, enter the following prompt:
+Learner Support Contacts:
 
-   ```text
-   Format the RFP as a downloadable Word document.
-   ```
+- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
+- Live Chat Support: https://cloudlabs.ai/labs-support
 
-42. Submit the prompt.
+Click **Next** from the bottom right corner to complete the lab!
 
-43. Download the generated RFP document.
-
-44. Save the document for future use.
-
-45. Verify that the document is properly formatted and suitable for vendor distribution.
-
-46. Return to the Copilot Chat window.
-
-47. Enter the following prompt:
-
-   ```text
-   Create a one-page executive summary that:
-
-   - Explains the current situation and why action is required
-   - Describes the available options (repair, replace, or convert)
-   - Highlights findings from the decision matrix
-   - Recommends a preferred option
-   - Identifies recommended next steps
-
-   The summary should be concise, executive-focused, and decision-ready.
-   ```
-
-48. Submit the prompt.
-
-49. Review the generated executive summary.
-
-50. Verify that the summary includes:
-
-    - Business context
-    - Available options
-    - Key comparison results
-    - Recommended approach
-    - Next-step recommendations
-
-51. Review any suggested prompts displayed by Copilot.
-
-52. Apply any suggestions that improve clarity or executive readiness.
-
-53. Once satisfied with the summary, enter the following prompt:
-
-   ```text
-   Format this executive summary as a downloadable Word document.
-   ```
-
-54. Submit the prompt.
-
-55. Download the generated document.
-
-56. Save the executive summary.
-
-57. Review the final document and verify that it is appropriate for leadership review and decision-making.
-
-### Expected Outcome
-
-You successfully used Microsoft 365 Copilot Chat to:
-
-- Analyze information from existing Microsoft 365 documents.
-- Create a decision matrix for evaluating heating system options.
-- Generate an HVAC vendor Request for Proposal (RFP).
-- Produce an executive-ready summary for leadership review.
-- Create downloadable Word documents from Copilot-generated content.
-- Transform research and analysis into actionable business deliverables.
-
-## Key Takeaways
-
-By completing this exercise, you learned how to:
-
-- Use Microsoft 365 Copilot Chat with organizational content stored in OneDrive.
-- Generate structured decision-making tools from existing documents.
-- Create vendor-ready Request for Proposal (RFP) documents.
-- Develop executive summaries based on analytical findings.
-- Convert Copilot responses into downloadable business documents.
-- Streamline planning, procurement, and executive communication processes using Microsoft 365 Copilot.
+![](./media/next-button.png)
