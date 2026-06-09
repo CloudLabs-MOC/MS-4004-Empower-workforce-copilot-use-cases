@@ -27,6 +27,10 @@ In this task, you will:
 
 2. Sign in using the credentials provided by your lab environment.
 
+    - **Email/Username**: **<inject key="AzureAdUserEmail"></inject>**
+
+    - **Password**: **<inject key="AzureAdUserPassword"></inject>**
+
 3. In the navigation pane, select **Apps** and then select **Word**.
 
 4. In **Word for the web**, select **Blank document**.
@@ -36,6 +40,8 @@ In this task, you will:
 6. Verify that **Allow editing** is enabled in the Copilot pane.
 
 7. In the Copilot prompt box, attach the **AuroraHub Product Overview.docx** file from OneDrive.
+
+   ![](../media/m08-1.png)
 
 8. Enter the following prompt:
 
