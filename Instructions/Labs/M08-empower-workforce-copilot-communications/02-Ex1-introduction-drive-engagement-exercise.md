@@ -1,5 +1,7 @@
 # Exercise 1: Drive Engagement with a Unified Communication Strategy Using Microsoft 365 Copilot
 
+## Lab Overview
+
 Effective communication strategies require more than creating content—they require alignment. Communications professionals must connect business objectives, employee needs, leadership priorities, and external influences into a cohesive narrative that drives engagement and organizational change.
 
 Microsoft 365 Copilot helps Communications teams move beyond content creation by supporting strategic planning, research, analysis, and message refinement. By transforming information from multiple sources into actionable insights, Copilot enables Communications professionals to create consistent, data-driven communication strategies that resonate across audiences.
@@ -8,15 +10,15 @@ Throughout this exercise, you'll use Copilot to develop a unified communication 
 
 As a Communications Manager, you'll use Copilot to help connect strategy, data, and storytelling into a compelling communication plan that supports both leadership objectives and employee engagement.
 
-> [!TIP]
-> Remember the four key elements of an effective Copilot prompt:
+
+> **!TIP:** Remember the four key elements of an effective Copilot prompt:
 >
 > * **Goal** – What you want Copilot to accomplish.
 > * **Context** – Background information that helps Copilot understand the situation.
 > * **Sources** – The information or files Copilot should use.
 > * **Expectations** – The desired format, tone, and level of detail.
 
-### Scenario
+## Scenario
 
 Boulder Innovations is accelerating its transition toward next-generation clean energy operations, including smart grid optimization, distributed energy resources, and sustainability-focused business initiatives. As part of this transformation, company leadership identified a growing challenge: employees across field operations, Health, Safety, and Environment (HSE), engineering, and corporate departments often receive information through disconnected systems and inconsistent communication channels.
 
@@ -35,3 +37,7 @@ As the Communications Manager for Boulder Innovations, you're responsible for le
 By the end of this exercise, you'll have used Microsoft 365 Copilot to transform product information, organizational data, and external research into a unified communication strategy that supports employee engagement, organizational transparency, and successful adoption of AuroraHub.
 
 This version is more lab-focused, removes some of the repetitive narrative text, and aligns closely with the AuroraHub exercises that follow (Word, Excel, Copilot Chat, PowerPoint, and communication strategy activities).
+
+Click on **Next** from the lower right corner to move on to the next page.
+
+  ![](../media/ms4004-next.png)

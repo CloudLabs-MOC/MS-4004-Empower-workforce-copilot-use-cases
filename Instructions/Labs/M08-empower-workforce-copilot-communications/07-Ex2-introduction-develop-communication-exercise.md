@@ -1,17 +1,7 @@
----
-lab:
-  title: 'Exercise 2: Develop an employee centered communication experience using Microsoft 365 Copilot'
-  description: In this exercise, Copilot is used as a strategic enabler for employee‑centered communication. It helps Communications professionals synthesize leadership priorities, employee sentiment, and organizational context into messaging that feels intentional rather than reactive. By surfacing patterns, refining tone, and supporting consistent language across touchpoints, Copilot helps shape communication experiences that reinforce credibility and psychological safety.
-  duration: 12 minutes
-  level: 200
-  islab: true
-  primarytopics:
-    - Microsoft 365
-    - Microsoft 365 Copilot
----
-
 # Exercise 2: Develop an employee centered communication experience using Microsoft 365 Copilot
----
+
+## Overview
+
 Building trust and transparency across an organization requires more than periodic announcements or one‑way updates. Communications professionals must create communication experiences that are clear, responsive, and inclusive. These experiences should meet employees within their roles and acknowledge their perspectives, questions, and concerns. Microsoft 365 Copilot supports this work by helping Communications teams design strategies that balance openness, empathy, and operational realities at scale.
 
 In this exercise, Copilot is used as a strategic enabler for employee‑centered communication. It helps Communications professionals synthesize leadership priorities, employee sentiment, and organizational context into messaging that feels intentional rather than reactive. By surfacing patterns, refining tone, and supporting consistent language across touchpoints, Copilot helps shape communication experiences that reinforce credibility and psychological safety.
@@ -20,10 +10,10 @@ Copilot also plays a critical role in helping Communications teams manage transp
 
 Finally, Copilot helps Communications teams scale their impact. Through intelligent assistance, idea generation, and guided responses, it enables teams to maintain consistency and responsiveness even as information flows increase. The result is a communication strategy that’s not only informative but also participatory—strengthening trust, improving alignment, and reinforcing a culture where employees feel heard, informed, and valued.
 
-> [!TIP]
-> The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
 
-### Scenario
+>> **!TIP:** The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
+
+## Scenario
 
 Trey Research experienced a rapid evolution over the past year. Although this progress produced positive outcomes, it also introduced challenges the company must address. For example, clinical teams are under constant time pressure, R&D groups must constantly respond to compliance reviews, and remote employees seek better visibility into leadership decisions. 
 
@@ -43,3 +33,6 @@ As Trey Research’s Communications Manager, you’re at the center of this init
 
 TR-Pulse isn't just a program—it's a commitment to resetting how Trey Research communicates. In this exercise, Copilot serves as your creative partner, research assistant, content strategist, and operational amplifier. It helps you draft clearer announcements, distill complex data into compelling insights, generate audience‑specific messaging, and scale support through an intelligent FAQ agent. Together, these capabilities help you model the transparency, consistency, and empathy that employees expect and leadership prioritizes.
 
+Click on **Next** from the lower right corner to move on to the next page.
+
+  ![](../media/ms4004-next.png)

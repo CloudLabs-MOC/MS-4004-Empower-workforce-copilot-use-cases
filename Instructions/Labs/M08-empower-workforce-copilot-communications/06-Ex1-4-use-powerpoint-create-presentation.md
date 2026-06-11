@@ -1,31 +1,37 @@
 # Exercise 1, Task 4: Use Copilot in PowerPoint to create an executive presentation
 
+## Scenario
+
 With the strategic communication brief complete and external research findings documented, Boulder Innovations’ executive leadership team now requires a concise, visual presentation that summarizes the AuroraHub initiative. Executive audiences typically prefer decision-oriented presentations that focus on strategic priorities, business value, supporting evidence, and next steps rather than detailed reports.
 
 In this task, you'll use Microsoft 365 Copilot in PowerPoint to transform your communication brief and research findings into an executive-ready presentation. Copilot helps accelerate slide creation, organize content into a logical flow, and generate visuals that support key messages and recommendations.
 
 ### Task 4.1: Create a new presentation
 
-1. In Microsoft Edge, navigate to **[https://www.microsoft365.com](https://www.microsoft365.com)**.
+1. Navigate back to **Microsoft 365** home page, select **App launcher** in the navigation pane, and then select **PowerPoint** from the **Apps** menu.
 
-2. Select **Apps** from the navigation pane and then select **PowerPoint**.
+    ![](./media/app-launcher-powerpoint.png)
 
-3. In **PowerPoint for the web**, select **Blank presentation**.
+1. In **PowerPoint for the web**, click on  **create a blank presentation**.
 
-4. On the **Home** tab, select **Copilot**.
+1. Select **Copilot** at the right bottom of the page and tap to open the Copilot pane.
+
+    ![](./media/copilot-ribbon.png)
 
 ### Task 4.2: Attach supporting documents
 
-1. In the Copilot pane, select the **plus (+)** icon.
+1. In the Copilot pane, verify the **Allow editing** icon appears in the prompt field next to the plus (+) sign.
 
-2. Select **Add work content**.
+1. In the Copilot pane, select the **plus (+) (1)** icon.
+
+2. Select **Add work content (2)**.
+
+   ![](../media/Module3/E1T3S4.png)
 
 3. Attach the following files from your OneDrive:
 
    * The **AuroraHub Strategic Communication Brief** created in Task 1.
    * The **Trend Synthesis PDF Summary** created in Task 2.
-
-4. Verify that the **Allow editing** icon appears in the prompt field.
 
 ### Task 4.3: Generate the executive presentation
 
@@ -58,6 +64,8 @@ In this task, you'll use Microsoft 365 Copilot in PowerPoint to transform your c
 
 3. Wait while Copilot generates the presentation.
 
+   ![](../media/ms4004-l8-14.png)
+
    > **Note:** Depending on your environment, Copilot may either create the slides automatically or generate a slide outline first. If an outline is provided, instruct Copilot to create the presentation from the proposed outline.
 
 ### Task 4.4: Improve the engagement insights slide
@@ -80,7 +88,7 @@ In this task, you'll use Microsoft 365 Copilot in PowerPoint to transform your c
 
 ### Task 4.5: Improve the launch plan slide
 
-1. Locate the slide covering the AuroraHub launch plan.
+1. Locate the slide covering the **AuroraHub launch plan**.
 
 2. Select the slide.
 
@@ -114,7 +122,7 @@ In this task, you'll use Microsoft 365 Copilot in PowerPoint to transform your c
 
 5. If Copilot provides additional improvement suggestions, review them and apply any changes that strengthen the presentation.
 
-### Summary
+## Summary
 
 In this task, you used Microsoft 365 Copilot in PowerPoint to:
 
@@ -123,5 +131,3 @@ In this task, you used Microsoft 365 Copilot in PowerPoint to:
 * Generate visuals and diagrams that improve storytelling.
 * Refine messaging for executive audiences.
 * Present AuroraHub's strategic value, supporting evidence, and adoption approach in a format suitable for leadership decision-making.
-
-You can now save the presentation and proceed to the next task.
