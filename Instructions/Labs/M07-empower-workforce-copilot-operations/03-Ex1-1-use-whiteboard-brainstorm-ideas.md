@@ -20,6 +20,8 @@ By the end of this exercise, you will have a structured Whiteboard containing ca
 
 ## Task 1: Use Copilot in Whiteboard to brainstorm project plan ideas
 
+In this task, you will use Microsoft 365 Copilot in Whiteboard to generate and organize ideas for a boiler installation project. You will create a new Whiteboard, use Copilot to suggest project planning activities, and build a foundation for project brainstorming.
+
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
     ```
@@ -51,6 +53,8 @@ By the end of this exercise, you will have a structured Whiteboard containing ca
     ![](./media/rename-whiteboard.png)
 
 ### Task 1.1 Generate Project Planning Ideas
+
+In this task, you will use Copilot's Suggest feature to generate project planning ideas for installing a new boiler system. You will review, expand, and insert the generated ideas as sticky notes on the Whiteboard.
 
 1. Select the **Copilot (1)** icon from the bottom toolbar, then select **Suggest (2)**.
 
@@ -90,6 +94,8 @@ By the end of this exercise, you will have a structured Whiteboard containing ca
 
 ### Task 1.2 Add Risk Mitigation Ideas
 
+In this task, you will use Copilot to identify potential risks associated with the boiler installation project and generate mitigation strategies. The resulting ideas will be added to the Whiteboard to support project planning and risk management.
+
 1. Select the **Copilot (1)** icon again and choose **Suggest (2)**.
 
     ![](../media/Module3/E1T2S5.png)
@@ -116,6 +122,8 @@ By the end of this exercise, you will have a structured Whiteboard containing ca
 
 ### Task 1.3 Categorize the Notes
 
+In this task, you will use Copilot's Categorize feature to automatically group brainstorming notes into meaningful categories. You will review and refine the generated groupings to improve organization and visibility of project themes.
+
 1. Press **Ctrl + A** to select all notes on the canvas. Verify that all sticky notes are selected, including any that were previously outside the visible area.
 
     ![](./media/select-all.png)
@@ -140,6 +148,8 @@ By the end of this exercise, you will have a structured Whiteboard containing ca
 
 ### Task 1.4 Add Downtime Reduction Ideas
 
+In this task, you will use Copilot to generate recommendations for minimizing heating system downtime during the boiler installation. These ideas will be added to the existing brainstorming session to help reduce operational disruption.
+
 1. Select a note that is no longer useful. Open the **More options (...)** menu and select **Delete**.
 
     ![](./media/delete-note.png)
@@ -161,6 +171,8 @@ By the end of this exercise, you will have a structured Whiteboard containing ca
 1. Move the new note grid if it overlaps existing content. If needed, select **Fit to Screen** so all notes remain visible.
 
 ### Task 1.5 Final Categorization and Summary
+
+In this task, you will perform a final categorization of all brainstorming notes and use Copilot to generate a summary of the session. The resulting Whiteboard will provide a structured overview of project plans, risks, and operational considerations.
 
 1. Press **Ctrl + A** to select all notes again. Then select **Copilot** > **Categorize** > **Categorize**.
 

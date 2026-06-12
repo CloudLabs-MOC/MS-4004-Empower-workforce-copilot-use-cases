@@ -1,5 +1,7 @@
 # Exercise 2, Task 3: Ask the Facility Expansion FAQ agent questions about the expansion project
 
+## Scenario
+
 In this task, you take on the role of a Contoso project manager involved in the Fargo distribution center expansion project. You now want to test the **Facility Expansion FAQ Assistant** that you created in the previous task to see how well it responds to different types of questions.
 
 Your goal is to observe how the agent behaves when:
@@ -10,7 +12,22 @@ Your goal is to observe how the agent behaves when:
 
 This will help you evaluate whether the agent is providing accurate, in-scope, citation-based responses and using appropriate fallback behavior when information is missing.
 
+## Lab Overview
+
+In this hands-on lab, you will use the Facility Expansion FAQ Assistant created in Microsoft Copilot Studio to evaluate how well it responds to different types of user questions. You will explore how the agent can:
+
+* Answer questions that are fully supported by its knowledge sources.
+* Respond appropriately to questions that are outside its scope.
+* Handle questions that are only partially covered by available information.
+* Provide citations and references when answering questions.
+* Follow configured guardrails and fallback guidance.
+
+By the end of this task, you will understand how to validate an agent's accuracy, scope adherence, citation usage, and response quality before making it available to users.
+
+
 ## Task 3: Ask the Facility Expansion FAQ agent questions about the expansion project
+
+In this task, you will interact with the Facility Expansion FAQ Assistant to evaluate its responses across a variety of scenarios. You will test the agent's ability to answer supported questions, manage unsupported requests, and apply fallback guidance when information is incomplete.
 
 1. The **Facility Expansion FAQ Assistant** agent should still be open from the previous task. If it isn't, open it from the Microsoft 365 home page.
 

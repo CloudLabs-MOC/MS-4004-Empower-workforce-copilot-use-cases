@@ -1,5 +1,8 @@
 # Exercise 2, Task 1: Use Copilot in Loop to track construction milestones
 
+
+## Scenario
+
 As the Operations Lead for Contoso's regional distribution center expansion, you're responsible for keeping the project on schedule and ensuring all teams remain aligned. The expansion involves construction work, safety updates, vendor coordination, and inventory movement-all of which require clear tracking and accountability.
 
 With so many moving parts and stakeholders, Microsoft Loop provides a collaborative workspace where you can organize milestones, risks, responsibilities, decisions, and changes. In this task, you'll use Copilot in Loop to create four project management pages that can help support the expansion effort.
@@ -11,7 +14,21 @@ The four pages you'll create are:
 - **3-RACI Matrix (Roles and Responsibilities)**
 - **4-Decision Log and Change Log**
 
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot in Loop to create and organize a project management workspace for a distribution center expansion project. You will explore how Copilot can:
+
+* Generate a milestones and timeline plan for a complex project.
+* Create a RAID log to track risks, assumptions, issues, and dependencies.
+* Build a RACI matrix to clarify roles and responsibilities.
+* Create decision and change logs to support project governance.
+* Organize project information into collaborative Loop pages.
+
+By the end of this task, you will understand how to use Copilot in Loop to create structured project management artifacts that support planning, collaboration, and operational oversight.
+
 ## Task 1: Use Copilot in Loop to track construction milestones
+
+In this task, you will use Microsoft 365 Copilot in Loop to build a project management workspace for Contoso's distribution center expansion. You will create and organize planning artifacts that help track project progress, ownership, risks, decisions, and changes throughout the project lifecycle.
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 

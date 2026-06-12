@@ -1,8 +1,23 @@
 # Exercise 1, Task 3: Use Copilot in PowerPoint to create an executive presentation
 
+## Scenario
+
 In the previous task, you used Copilot in Word to create the **Heating System Comparison** report, which identified the differences between boiler and furnace heating systems. You now want to create an executive-level presentation that summarizes the findings and helps leadership make an informed decision.
 
 To support this goal, you'll use Microsoft 365 Copilot in PowerPoint to generate a presentation from the report, add supporting visuals, insert an additional research slide, and create a closing Q&A slide. This task demonstrates how Copilot in PowerPoint can help transform written analysis into a leadership-ready presentation.
+
+## Lab Overview
+
+In this hands-on lab, you will use **Microsoft 365 Copilot in PowerPoint** to create an executive presentation based on an existing report. You will explore how Copilot can:
+
+* Generate a presentation from a Word document.
+* Create and insert AI-generated visuals.
+* Research and add new slide content.
+* Add supporting slides such as a Q&A section.
+* Refine a presentation for an executive audience.
+
+By the end of this task, you will understand how to use Copilot in PowerPoint to transform written analysis into a polished, leadership-ready presentation.
+
 
 ## Using Copilot in PowerPoint
 
@@ -15,6 +30,8 @@ PowerPoint provides two ways to use Copilot: standard Copilot prompts for quickl
 In summary, use chat-style Copilot for generating ideas and content suggestions; use **Edit with Copilot** for hands-on editing inside the file.
 
 ## Task 3: Use Copilot in PowerPoint to create an executive presentation
+
+In this task, you will use Microsoft 365 Copilot in PowerPoint to create an executive presentation based on the Heating System Comparison report. You will generate a slide deck, enhance it with visuals and additional research, and prepare it for leadership review.
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 

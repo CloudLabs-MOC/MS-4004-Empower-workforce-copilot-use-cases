@@ -1,5 +1,7 @@
 # Exercise 1, Task 4: Use Microsoft 365 Copilot Chat to prepare for vendor engagement
 
+## Scenario
+
 It's been quite a day thus far. With Copilot's help, you brainstormed in Whiteboard, researched in Word, and created an executive presentation in PowerPoint. It's now time to prepare for vendor engagement and turn your work into practical decision-making outputs.
 
 For this final task in Exercise 1, you want to consolidate your previous work into actionable deliverables:
@@ -10,6 +12,18 @@ For this final task in Exercise 1, you want to consolidate your previous work in
 
 You plan to use **Microsoft 365 Copilot Chat** to assist with this process. Copilot Chat can pull context from your previous artifacts and help you synthesize information into structured business outputs.
 
+## Lab overview
+
+In this hands-on lab, you will use Microsoft 365 Copilot Chat in Work mode to transform research and analysis into actionable business deliverables. You will explore how Copilot can:
+
+* Summarize key decision factors from an existing report.
+* Create a decision matrix to evaluate multiple solution options.
+* Draft a Request for Proposal (RFP) for HVAC vendors.
+* Generate an executive summary with recommendations and next steps.
+* Export Copilot-generated outputs as Word documents.
+
+By the end of this task, you will understand how to use Microsoft 365 Copilot Chat to synthesize information, support decision-making, and prepare business-ready documents for stakeholder engagement.
+
 ## Using Copilot Chat
 
 In Copilot Chat on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** unless a task specifically calls for a different mode.
@@ -19,6 +33,8 @@ When Copilot Chat opens in **Work** mode, the response mode selector may not be 
 This task uses **Work** mode because you're working with files created earlier in the lab.
 
 ## Task 4: Use Microsoft 365 Copilot Chat to prepare for vendor engagement
+
+In this task, you will use Microsoft 365 Copilot Chat in Work mode to convert the Heating System Comparison report into practical business deliverables. You will create decision-making tools, vendor engagement documents, and executive communications that support leadership review and project planning.
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
@@ -41,6 +57,8 @@ This task uses **Work** mode because you're working with files created earlier i
     ![](./media/attach-report.png)
 
 ### Task 4.1 Create a Decision Matrix
+
+In this task, you will use Copilot Chat to identify key evaluation criteria and create a decision matrix comparing boiler repair, boiler replacement, and furnace conversion. You will refine the matrix with additional criteria, ratings, and scoring to support informed decision-making.
 
 1. Ask Copilot Chat to summarize the key decision factors from the attached report. The decision criteria should include cost, energy efficiency, downtime impact, and long-term maintenance considerations.
 
@@ -92,6 +110,8 @@ This task uses **Work** mode because you're working with files created earlier i
 
 ### Task 4. 2 Create the HVAC Vendor RFP
 
+In this task, you will use Copilot Chat to generate a Request for Proposal (RFP) for HVAC vendors based on the decision matrix. The RFP will include project requirements, vendor qualifications, evaluation criteria, and proposal submission guidelines.
+
 1. In Copilot Chat, attach the decision matrix document that you downloaded.
 
 1. Ask Copilot to draft an RFP for HVAC vendors based on the decision matrix.
@@ -115,6 +135,8 @@ This task uses **Work** mode because you're working with files created earlier i
     ![](./media/download-rfp.png)
 
 ### Task 4.3 Create the Executive Summary
+
+In this task, you will use Copilot Chat to create a concise executive summary that highlights the current situation, available options, key findings, recommended actions, and next steps. The summary will provide leadership with a decision-ready overview of the proposed heating system initiative.
 
 1. Ask Copilot to create a one-page executive summary that references the decision matrix as the basis for its recommendations. The summary should:
 
