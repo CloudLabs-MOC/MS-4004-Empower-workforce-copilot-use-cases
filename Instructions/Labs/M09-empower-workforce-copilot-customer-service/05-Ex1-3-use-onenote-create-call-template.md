@@ -1,10 +1,22 @@
 # Exercise 1, Task 3: Use Copilot in OneNote to create a call summary template
 
-## Overview
+## Scenario
 
 As the Customer Service Manager at Lamna Healthcare Company, you're looking to standardize how your team documents customer interactions during calls. Right now, customer support reps are taking notes in various formats, leading to inconsistencies in how client concerns, actions, and follow-ups are tracked. To ensure all critical information is captured efficiently and consistently, you decide to create a standardized call summary template that your team can use for every client interaction. This template should help improve internal communication, provide clarity on next steps, and ensure no critical details are overlooked.
 
 To accomplish this goal, you plan to use Copilot in OneNote to generate a reusable template that captures all the essential elements of each client call, from the initial concern to the resolution and follow-up steps. Copilot can help in creating sections for client details, a summary of the issue, and space for internal notes that don't need to be shared with the client. By ensuring the template is easy to fill out in real time, you can create a tool that saves your team valuable time, helps improve data consistency, and supports quicker responses for future calls. You plan to save this template in a shared notebook, making it accessible to the entire customer support team for use across the board.
+
+## Lab Overview
+
+In this lab, you will use Microsoft 365 Copilot in OneNote to create and refine a standardized customer service call summary template for support teams. You will enhance the template with structured fields, severity classifications, and usability improvements to ensure consistent documentation of customer interactions, resolutions, escalations, and follow-up activities.
+
+## Task 3: Use Copilot in OneNote to create a call summary template
+
+Perfect bro, then for your OneNote task the **Task Overview** should be:
+
+**Task 3: Use Copilot in OneNote to Create a Call Summary Template**
+
+In this task, you will use Microsoft 365 Copilot in OneNote to create a standardized customer service call summary template. You will enhance the template with severity levels, customer interaction fields, and formatting improvements to support consistent documentation, issue tracking, and follow-up management across the support team.
 
 1. In your Microsoft Edge browser, go to the **Microsoft 365** home page, from the **App launcher (1)**, select **OneNote (2)**.
 
@@ -12,21 +24,17 @@ To accomplish this goal, you plan to use Copilot in OneNote to generate a reusab
 
       > **Note:** If prompted, sign in with your lab credentials.
 
-1. In **OneNote for the web**, click on **Create new Notebook**. On the Notebook, click on the notebook name **(1)** and click on your **OneDrive (2)** to rename the notebook. 
+1. In **OneNote for the web**, click on **+ Create new Notebook**. 
 
-1. Click on the **ellipsis (...) (3)**, and select **Rename (4)**. Provide the name as **Support team shared notebook** and then click on it to **Open (5)**.
+1. In the **Create New Notebook** dialog, enter **Support team shared notebook (1)** as the notebook name, and then select **Create (2)**.
 
-      ![](../media/module-9/E1T3S2-0306.png) 
-
-      ![](../media/module-9/E1T3S2a-0306.png) 
-
-      ![](../media/module-9/E1T3S2b-0306.png)       
+      ![](../media/module-9/ms4004-m9-l6.png) 
 
 1. In the new notebook, click on **+ Add section (1)**, and give the name as **Call Templates (2)** and click on **Ok (3)**. This section can be used to keep all reusable templates for call documentation in one place, making them easy to find and expand later (for example, different templates for support, sales, or onboarding calls).
 
       ![](../media/module-9/E1T3S3-0306.png) 
 
-1. In the **Call Templates** section, verify that there is only one Untitled Page. OneNote automatically creates an Untitled Page when a new section is added, so you can use that page. If you accidentally selected + Add page and created an additional untitled page, right-click the extra page and select Delete Page.
+1. In the **Call Templates** section, verify that there is only one Untitled Page. OneNote automatically creates an Untitled Page when a new section is added, so you can use that page. If you accidentally selected **+ Add page** and created an additional untitled page, right-click the extra page and select Delete Page.
 
 1. At the top of the page, select the area above the horizontal line that appears above the current date and time. In the page title field, enter: **Customer Service Call Summary Template**
       
@@ -34,7 +42,7 @@ To accomplish this goal, you plan to use Copilot in OneNote to generate a reusab
 
       > **Note:** If you try to copy and paste this name into the heading field, OneNote pastes it into the body of the page, which you don’t want. You must manually type this name in the heading field.
 
-1. On the ribbon at the top of the page, select **Copilot** (1).
+1. On the ribbon at the top of the page, select **Copilot (1)**.
 
 1. In the **Copilot** pane, ask Copilot to create a call summary template for customer service reps to log client concerns, actions taken, and follow-up steps.
 
@@ -56,7 +64,7 @@ To accomplish this goal, you plan to use Copilot in OneNote to generate a reusab
     Update the call summary template to include severity levels for support issues. Add severity tags such as Critical, High, Medium, and Low, along with a brief description of when each level should be used.
     ```
 
-1. Upon reviewing the template, you noticed that your original prompt was missing some key data. To address this shortcoming, ask Copilot to update the template to include fields for: Client Name, Date, Contact Method, Summary of Issue, Resolution, and Follow-Up Needed.
+1. Upon reviewing the template,  notice that your original prompt was missing some key data. To address this shortcoming, ask Copilot to update the template to include fields for: Client Name, Date, Contact Method, Summary of Issue, Resolution, and Follow-Up Needed.
 
       Use the following prompt:
 
@@ -79,3 +87,7 @@ To accomplish this goal, you plan to use Copilot in OneNote to generate a reusab
 ## Summary
 
 In this task, you used Microsoft 365 Copilot in OneNote to create and refine a standardized customer service call summary template. You generated a reusable template, enhanced it with severity classifications and key customer interaction fields, and reviewed Copilot’s recommendations for improving usability and layout. The completed template provides a consistent framework for documenting customer interactions, tracking resolutions, and managing follow-up activities across the support team.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

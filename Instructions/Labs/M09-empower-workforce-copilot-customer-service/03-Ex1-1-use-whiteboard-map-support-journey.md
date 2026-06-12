@@ -1,6 +1,6 @@
 # Exercise 1, Task 1: Use Copilot in Whiteboard to map the ideal customer support journey
 
-## Overview
+## Scenario
 
 As the Customer Service Manager at Lamna Healthcare Company, you’re tasked with leading a strategic initiative to design the ideal client support experience. Rather than focusing on documenting the current process, you want to begin with a clean slate. Your goal is to collaboratively envision what a seamless, efficient, and customer-centric support journey should look like from start to finish. Leadership wants to challenge assumptions and break free from legacy workflows that might be contributing to client frustration and internal inefficiencies.
 
@@ -8,31 +8,37 @@ To facilitate this work, you’re using Microsoft 365 Copilot for Whiteboard to 
 
 By the end of this session, you aim to have a clear, visually engaging journey map that reflects Lamna’s aspirational support model. This artifact should serve not only as a design blueprint for process enhancements but also as a communication tool to align stakeholders and spark broader transformation across the customer service organization.
 
-Perform the following steps to complete this task:
+## Lab Overview
 
-1.  In your Microsoft Edge browser, sign in to the **Microsoft 365** using the URL below: 
+In this hands-on lab, you will use Microsoft 365 Copilot in Whiteboard to design and visualize an ideal customer support journey for a healthcare organization. You will generate workflow ideas, organize them into meaningful categories, identify customer pain points, and create a collaborative process map that supports service improvement and stakeholder alignment.
+
+## Task 1: Use Copilot in Whiteboard to map the ideal customer support journey
+
+In this task, you will use Copilot in Whiteboard to brainstorm, categorize, and refine the ideal clinic support case workflow for Lamna Healthcare. You will identify key workflow stages, surface common customer pain points, and generate a summarized journey map that supports customer-centric process design.
+
+1. In your Microsoft Edge browser, sign in to the **Microsoft 365** using the URL below: 
 
     ```
     https://www.microsoft365.com
     ```
 
-1.  In the **Microsoft 365 Copilot Chat** window, click on the **App launcher (1)** button from the left top corner, select **More apps (2)**. From the Apps page, scroll down and select **Whiteboard (3)**.
+1. In the **Microsoft 365 Copilot Chat** window, click on the **App launcher (1)** button from the left top corner, select **More apps (2)**. From the Apps page, scroll down and select **Whiteboard (3)**.
 
     ![](../media/module-9/E1T1S2a-0306.png)
 
     ![](../media/module-9/E1T1S2b-0306.png)
 
-1.  In **Whiteboard**, click on **+ New Whiteboard**.
+1. In **Whiteboard**, click on **+ New Whiteboard**.
 
-1.  Click on the Borad name **(1)**, and give the name as **Lamna’s ideal clinic support case workflow.** **(2)**
+1. Click on the Borad name **(1)**, and give the name as **Lamna’s ideal clinic support case workflow.** **(2)**
 
     ![](../media/module-9/E1T1S4-0306.png)
 
-1.  Select the **Copilot** **(1)** icon next to the menu bar at the bottom of the page and then select **Suggest** **(2)** from the menu that appears.
+1. Select the **Copilot** **(1)** icon next to the menu bar at the bottom of the page and then select **Suggest** **(2)** from the menu that appears.
 
     ![](../media/module-9/E1T1S5-0306.png)
 
-1.  In the **Suggest content with Copilot** window, enter the following prompt **(1)** and click on send button **(2)**.
+1. In the **Suggest content with Copilot** window, enter the following prompt **(1)** and click on send button **(2)**.
 
     ```    
     I’m the Customer Service Manager at Lamna Healthcare Company. Lamna Healthcare Company provides an integrated platform for appointment management, patient scheduling, and clinical workflow, used by clinics and small healthcare groups across the region. Please map out the ideal clinic support case workflow for Lamna. The workflow should cover patient scheduling platform issues, intake, triage, medical-data troubleshooting, escalation paths, support workflow redesign, and so on.
@@ -42,7 +48,7 @@ Perform the following steps to complete this task:
 
     > **Note:** For this first prompt, we’ve provided the text to show what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
-1.  By default, Copilot generates ideas in groups of six. In the **Suggest content with Copilot** window that appears, note the first six ideas that it generated. Copilot gives you two options here - you can either attach the ideas to your whiteboard if you're satisfied with the suggestions, or you can have Copilot generate more suggestions. Notice how the **Insert (6)** button indicates the number of ideas that Copilot generated - in this case, six. 
+1. By default, Copilot generates ideas in groups of six. In the **Suggest content with Copilot** window that appears, note the first six ideas that it generated. Copilot gives you two options here - you can either attach the ideas to your whiteboard if you're satisfied with the suggestions, or you can have Copilot generate more suggestions. Notice how the **Insert (6)** button indicates the number of ideas that Copilot generated - in this case, six. 
 
 1. While six suggestions are a good starting point, you want to dig deeper into the tasks that should be included in the ideal support case workflow, so select the **Generate more** button. 
 
@@ -54,13 +60,13 @@ Perform the following steps to complete this task:
 
     ![](../media/module-9/E1T1S7c-0306.png) 
 
-1.  When you select the **Insert (18)** button, Copilot attaches the suggested ideas to your whiteboard in the form of yellow sticky notes. As with a real-world brainstorming session involving actual sticky notes, you can edit a particular note, delete it, lock it from future removal, and so on. In Microsoft Whiteboard, these activities are supported through standard whiteboarding functionality. 
+1. When you select the **Insert (18)** button, Copilot attaches the suggested ideas to your whiteboard in the form of yellow sticky notes. As with a real-world brainstorming session involving actual sticky notes, you can edit a particular note, delete it, lock it from future removal, and so on. In Microsoft Whiteboard, these activities are supported through standard whiteboarding functionality. 
 
     ![](../media/module-9/E1T1S8a-0306.png) 
 
     > **Information:** If you aren’t familiar with Whiteboard, try selecting a specific note, and then in the menu bar that appears above it, select the **Edit text** (pencil) icon or any of the other options. Selecting the ellipsis icon at the end of the menu bar displays a menu of more options, such as deleting the note. The idea behind Microsoft Whiteboard is to mimic real-world sticky-note exercises. Feel free to edit one or more notes as you wish.
 
-1.  At this point, you should be finished with all the edits that you may want done to the notes. You now want Copilot to organize the notes by category. When you categorize the notes, Copilot determines the names of the categories and automatically organizes the notes accordingly.
+1. At this point, you should be finished with all the edits that you may want done to the notes. You now want Copilot to organize the notes by category. When you categorize the notes, Copilot determines the names of the categories and automatically organizes the notes accordingly.
 
 1. Do **Ctrl+A** **(1)**, to select all the notes.
 
@@ -98,7 +104,7 @@ Perform the following steps to complete this task:
 
 1. In the **Suggest content with Copilot** window that appears, Copilot once again provides six suggestions. You know from experience that there are more pain points than just these items, so select the **Generate more** button. At this point, select the **Insert (12)** button.
 
-      ![](../media/module-9/E1T1S19a-0306.png) 
+      ![](../media/module-9/ms4004-m9-l2.png) 
 
       ![](../media/module-9/E1T1S19b-0306.png)
 
@@ -110,7 +116,7 @@ Perform the following steps to complete this task:
 
       ![](../media/module-9/E1T1S22-0306.png)
 
-1. You realize that you would like a summary of this session added to your whiteboard content. To do so, select the **Copilot** **(1)** icon at the bottom of the page and then select **Summarize** **(2)** from the menu. Copilot generates a summary of the main themes from this whiteboarding session. Scroll down to review the entire **Summary** window. You're happy with the results, so select **Keep it**.
+1. Select the **Copilot** **(1)** icon at the bottom of the page and then select **Summarize** **(2)** from the menu. Copilot generates a summary of the main themes from this whiteboarding session. Scroll down to review the entire **Summary** window and select **Keep it**.
 
       ![](../media/module-9/E1T1S23-0306.png)
 
@@ -121,3 +127,7 @@ Perform the following steps to complete this task:
 ## Summary
 
 In this task, you used Microsoft 365 Copilot in Whiteboard to design an ideal clinic support case workflow for Lamna Healthcare Company. You generated and organized workflow stages, categorized related activities, identified potential customer pain points, and created a concise summary of the session. The resulting whiteboard serves as a visual blueprint for improving customer support processes and aligning stakeholders around a customer-centric service model.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

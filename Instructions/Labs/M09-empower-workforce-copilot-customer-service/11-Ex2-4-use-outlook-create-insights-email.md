@@ -1,6 +1,6 @@
 # Exercise 2, Task 4: Use Copilot Chat and Copilot in Outlook to create a Support Insights email
 
-## Overview
+## Scenario
 
 Tailwind Traders’ leadership team recently emphasized the need for better visibility into customer‑resolution trends across the dealer network. Each week, dozens of product inquiries, warranty submissions, troubleshooting requests, and quality concerns flow into the support department. These interactions contain valuable signals, such as recurring failure points, emerging quality trends, seasonal surges, and training gaps. However, much of the insight remains buried in individual tickets or conversations.
 
@@ -16,26 +16,36 @@ You plan to use Microsoft 365 Copilot Chat to perform the initial analysis and c
 
 By creating a consistent insights email, you can help Tailwind Traders move from reactive problem‑solving to proactive, data‑guided improvements. The company's goal is for this transition to result in higher dealer satisfaction and stronger product feedback loops.
 
-### Using Copilot Chat  
+## Using Copilot Chat  
 
 In Copilot Chat on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in‑depth response style depending on the task.
 
 When Copilot Chat opens in **Work** mode, the response mode selector isn’t shown. In **Work** mode, Copilot is optimized for secure, work‑context queries, so it automatically manages response depth for you. When you switch to **Web** mode, the response mode selector appears, allowing you to choose between faster responses or deeper reasoning. Once the selector is enabled, it remains visible as you switch between **Work** and **Web** modes.  
 <br/>If you’ve used Copilot in Excel, you know that it also includes a response control selector. However, its options are different from the Chat selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might look similar, they control different aspects of Copilot and aren't the same setting.
 
-Perform the following steps to complete this task:
+## Lab Overview
 
-1. Select the following link to download the [**TailwindTraders_SupportCaseSummaries.docx**](https://go.microsoft.com/fwlink/?linkid=2347619) file. Store the file in your OneDrive.
+In this lab, you will use Microsoft 365 Copilot Chat and Copilot in Outlook to analyze historical support case summaries, identify recurring support trends, customer concerns, escalation patterns, and operational risks, and transform those insights into an executive-ready Support Insights email for leadership review.
 
-    > Note: To copy the link, right-click on the link and select **Copy link address**, then paste the link into a new browser tab inside your Lab VM.
+## Task 4: Use Copilot Chat and Copilot in Outlook to create a Support Insights email
 
-    > Note: If the links do not download automatically, it will open an Excel file, and click on the Download button in Word online to download the file.
+In this task, you will use Copilot Chat to analyze support case summaries and generate an executive-level email highlighting support trends, customer sentiment, escalation patterns, emerging product issues, and recommended actions. You will then use Copilot in Outlook to refine the email’s content, structure, risk analysis, and tone for executive stakeholders.
 
-1. In your Microsoft Edge browser, navigate to the Microsoft 365 home page and select **New chat**.
+1. In Microsoft Edge browser, navigate to the Microsoft 365 home page and select **New chat**.
 
 1. Since this task involves reviewing a file uploaded to OneDrive and generating insights from that internal document, select the **Work** option. The **Web** option doesn’t apply here, since it searches external sources like public websites and blogs. In the Copilot Chat window, attach the **TailwindTraders_SupportCaseSummaries** file in the prompt field.
 
-1. Now that you've attached the support case summary document, ask Copilot Chat to analyze the information and prepare an executive-level summary email. The goal is to help leadership quickly understand the most important support trends, customer concerns, escalation patterns, and recommended actions without reviewing individual cases.
+    ![](../M05-empower-workforce-copilot-finance/media/copilot-work-mode.png)
+
+1. In the prompt field, click on **+ (1)** and then select **Attach cloud files (2)** that we should see the already files in the onedrive location. 
+
+   ![](../media/Module3/E1T1S5.png)
+
+1. On the Onedrive popup wizard, navigate to **Myfile (1)** and select the **TailwindTraders_SupportCaseSummaries (2)** docuemnts then click on **Select (3)**:
+
+    ![](../media/module-9/ms4004-m9-l10.png)    
+
+7. Enter the following prompt:
 
     ```
     Review the support case summaries in the attached file and draft an email for Tailwind Traders' executive leadership team. Include:
@@ -59,7 +69,7 @@ Perform the following steps to complete this task:
 
     > **Note:** In Copilot Chat, created the email and opened it in Outlook, Copilot doesn’t open the email in draft mode. Instead, it displays its response directly within the body of the email. After that, you must highlight the specific text you want Copilot to modify, whether that’s a sentence, a paragraph, or the entire email.
 
-1. After reviewing the email, you feel the first paragraph could be improved upon. To do so, highlight the first paragraph of the email (drag your cursor so that the entire opening paragraph is highlighted). Notice the **Open Copilot** (pencil) icon that appears. Select the icon to open the Copilot window.
+1. After reviewing the email, first paragraph could be improved. To do so, highlight the first paragraph of the email (drag your cursor so that the entire opening paragraph is highlighted). Notice the **Open Copilot** (pencil) icon that appears. Select the icon to open the Copilot window.
 
     ![](../media/module-9/E2T4S7-0306.png) 
 
@@ -89,7 +99,7 @@ Perform the following steps to complete this task:
 
 1. Review what happened. Copilot generated the new section and displayed it within the body of the email, starting at the location that you placed your cursor. You’re satisfied with the new content, so in the Copilot window, select **Replace**. 
 
-1. Finally, let’s see what happens when you ask it to change the tone of the email. Select in the body of the email to highlight the entire email, then select the **Open Copilot** icon. In the Copilot window, one of the menu choices is **Change Tone**, which provides four options: **Direct**, **Casual**, **Formal**, and **Like a poem**. In this case, instead of selecting one of these options, you want to submit a prompt request asking for something different. In the prompt field, ask Copilot to make the tone of the email more executive-friendly.
+1. Finally, let’s see what happens when you ask it to change the tone of the email. Select in the body of the email to highlight the entire email, then select the **Open Copilot** icon. In the Copilot window, one of the menu choices is **Change Tone (1)**, which provides four options: **Direct**, **Casual**, **Formal**, and **Like a poem** **(2)**. 
 
    ![](../media/module-9/E2T4S12-0306.png)
 

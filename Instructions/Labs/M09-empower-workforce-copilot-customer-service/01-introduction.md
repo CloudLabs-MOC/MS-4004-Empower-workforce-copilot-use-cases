@@ -2,7 +2,7 @@
 
 ### Overall Estimated Duration: 4 Hours
 
-## Module Overview
+## Lab Overview
 
 For Customer Service professionals, delivering prompt, empathetic, and effective support is the cornerstone of exceptional customer experiences. Whether resolving issues, answering inquiries, or managing service workflows, the ability to communicate clearly and act quickly is vital.
 
@@ -20,7 +20,7 @@ This module equips Customer Service professionals with practical tools and techn
 
 Microsoft 365 Copilot acts as a smart, AI-powered assistant designed to help you stay proactive, organized, and responsive. This module enables you to harness the power of Copilot to elevate customer satisfaction, streamline operations, and become a more agile and empowered Customer Service professional.
 
-### Copilot prompting
+## Copilot prompting
 
 One of the primary keys to effectively using Copilot is the quality of your Copilot prompts. A good Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
 
@@ -50,6 +50,8 @@ We've prepared a seamless environment for you to explore and learn about **Modul
 ## Accessing Your Lab Environment
  
 Once the lab environment is ready, the virtual machine displayed on the left will be your primary workspace for completing the exercises, while the **Guide** on the right side provides step-by-step instructions for each task.
+
+![](../media/ms4004-m9-l1.png)
 
 ## Exploring Your Lab Resources
  
@@ -94,7 +96,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 1. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
 
-1. In the Microsoft 365 portal, click on the **App launcher  (1)**button and select **OneDrive (2)**.
+1. In the Microsoft 365 portal, click on the **App launcher  (1)** button and select **OneDrive (2)**.
 
     ![](../media/module-4/prereq-2.png)
 
@@ -102,9 +104,13 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
     ![](../media/module-4/prereq-3.png)
 
-1. In **File Explorer**, navigate to **`C:\AllFiles`**location and select all the files from the folder and click **Open**.
+1. In **File Explorer**, navigate to **`C:\AllFiles` (1)** location and select all the files **(2)** from the folder and click **Open (3)**.
 
-1. When the upload is complete, you should see **Uploaded 92 items to My files** in the bottom center of the screen.
+    ![](../media/ms4004-l1-2.png)
+
+1. When the upload is complete, you should see **Uploaded 93 items to My files** in the bottom center of the screen.
+
+    ![](../media/ms4004-l1-3.png)
 
 1. Leave **Edge** open and move on to the next task.
 
@@ -125,6 +131,6 @@ Learner Support Contacts:
  
 Click **Next** from the bottom right corner to embark on your Lab journey!
 
-  ![](../media/module-4/next-0206.png)
+  ![](../media/ms4004-next.png)
 
 

@@ -1,6 +1,6 @@
 # Exercise 2, Task 2: Use Copilot in Word and Writing Coach to create a dealer-facing response template
 
-## Overview
+## Scenario
 
 Tailwind Traders has been receiving an increasing number of product-quality inquiries from its B2B dealer network. Some dealers provide rich detail—photos, videos, purchase documentation—while others submit vague or incomplete information, leading to extended troubleshooting cycles and inconsistent communication. Recently, several dealers expressed frustration over response quality. Some replies were too technical, others lacked clear next steps, and many didn’t follow a consistent tone or structure.
 
@@ -13,7 +13,7 @@ As Tailwind’s Customer Service Manager, you're tasked with improving the overa
 
 Since Copilot in Word specializes in generating and transforming content, you plan to use it to create a reusable communication template. Because you want to create a polished document, you then plan to use Copilot’s Writing Coach agent, which specializes in coaching and improving your writing. You want to use Writing Coach to strengthen tone, improve clarity, refine grammar and structure, and ensure the template is dealer‑appropriate and ready for real‑world use. You can then share this new resource across support, operations, and product teams, ultimately improving the quality and speed of Tailwind’s customer resolutions.
 
-### Using Copilot in Word  
+## Using Copilot in Word  
 
 Copilot in Word can behave in two different ways, depending on whether **Edit with Copilot** is enabled. Understanding this distinction is important because it affects whether Copilot can automatically apply changes to your document or just provide suggestions for you to use.
 
@@ -23,21 +23,27 @@ When **Edit with Copilot** is disabled, Copilot behaves more like Copilot Chat. 
 
 This task uses the **Edit with Copilot** functionality.
 
-Perform the following steps to complete this task:
+## Lab Overview
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **App launcher (1)** in the navigation pane, and then select **Word (2)** from the **Apps** menu.
+In this lab, you will use Microsoft 365 Copilot in Word and the Writing Coach agent to create a standardized dealer-facing response template for product-quality inquiries. You will enhance the template with structured case-management sections, improve communication quality and consistency, and refine the content to align with Tailwind Traders’ professional B2B communication standards.
+
+## Task 2: Use Copilot in Word and Writing Coach to create a dealer-facing response template
+
+In this task, you will use Copilot in Word to create a structured dealer response template for product-quality investigations, then use the Writing Coach agent to improve tone, clarity, readability, logical flow, and overall communication effectiveness for B2B dealer interactions.
+
+1. In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **App launcher (1)** in the navigation pane, and then select **Word (2)** from the **Apps** menu.
 
       ![](../media/module-9/E2T2S1-0306.png)
 
       > **Note:** If prompted, click on Sign in and use the lab credentials.
 
-2.  In **Word for web**, click on Create a blank document.
+2. In **Word for web**, click on Create a blank document.
 
-3.  On the Word document, in the top section of the page, you would see an option to **Describe what you'd like to draft with Copilot**, where we will enter our prompt.
+3. On the Word document, in the top section of the page, you would see an option to **Describe what you'd like to draft with Copilot**, where we will enter our prompt.
 
       ![](../media/module-9/E2T2S3-0306.png)
 
-4.  In the prompt field in the Copilot pane, ask Copilot to create a customer support template. Submit **(2)** the following prompt **(1)**:
+4. In the prompt field in the Copilot pane, ask Copilot to create a customer support template. Submit **(2)** the following prompt **(1)**:
 
     ```
     I’m the Customer Service Manager for Tailwind Traders. In order for Tailwind to raise the overall professionalism, clarity, and consistency of its outbound communications, please create a standardized written-response template that all Customer Support agents can use when replying to dealers. This template must:
@@ -51,7 +57,7 @@ Perform the following steps to complete this task:
     ```
       ![](../media/module-9/E2T2S4-0306.png)
 
-5.  Review the initial template. To ensure support agents capture all relevant case details, ask Copilot to add additional sections covering dealer information, intake details, risk assessment, escalation guidance, and communication history.
+5. Review the initial template. To ensure support agents capture all relevant case details, ask Copilot to add additional sections covering dealer information, intake details, risk assessment, escalation guidance, and communication history.
 
     Use the sample prompt:
 
@@ -122,7 +128,7 @@ Perform the following steps to complete this task:
     Format the table so it is easy for support representatives to complete during case investigations.
     ```
 
-7.  Review the updated draft to ensure the table is correct. If there are any issues with it, ask Copilot to make the necessary corrections.
+7. Review the updated draft to ensure the table is correct. If there are any issues with it, ask Copilot to make the necessary corrections.
 
     Sample prompt:
 
@@ -130,7 +136,7 @@ Perform the following steps to complete this task:
     Review the Product Details table and make any corrections needed to improve formatting, consistency, readability, and usability for support teams.
     ```
 
-8.  When everything looks good, ask Copilot to add a checklist at the end of the “Required Dealer Follow Up” section that provides checkboxes for each of the following items: Provide serial number photo, Provide proof of purchase, Run diagnostic steps (attach logs), Confirm shipping address (if replacement), and Acknowledge Return Merchandise Authorization (RMA) terms.
+1. To add a checklist for dealer requirements, enter the provided prompt in the **Copilot** prompt box.
 
     Sample prompt: 
 
@@ -144,11 +150,15 @@ Perform the following steps to complete this task:
     - Acknowledge Return Merchandise Authorization (RMA) terms
     ```
 
-9.  Review the final template and make note of the file name shown above the document. You'll use this file in the remaining steps with the Writing Coach agent.
+1. Review the updated template and select **Done**.
+
+    ![](../media/module-9/ms4004-m9-l8.png)
+
+9. Review the final template and make note of the file name shown above the document. You'll use this file in the remaining steps with the Writing Coach agent.
 
       ![](../media/module-9/E2T2S9-0306.png)
 
-10.  Navigate back to the browser tab where you have Microsoft 365 Copilot open and under the Agents section, select **All agents (1)**.
+10. Navigate back to the browser tab where you have **Microsoft 365** Copilot open and under the Agents section, select **All agents (1)**.
 
 1. In the Agent Store, under the Built by Microsoft section, select See more. In the expanded list of Built by Microsoft, select **Writing Coach (2)**.
 
@@ -162,15 +172,17 @@ Perform the following steps to complete this task:
     Rewrite the attached Dealer Support Template using a concise, professional, and confident tone suitable for B2B dealer communications. Improve clarity while maintaining all required information and structure.
     ```
 
-12.  Review the results. Note the text the agent displayed at the end of its response, which describes what it did and why the changes are better for B2B communication.
+12. Review the results. Note the text the agent displayed at the end of its response, which describes what it did and why the changes are better for B2B communication.
 
-13.  While the update looks good, you’re concerned that with so much data, a dealer might have trouble following the logical sequence of information. Ask the Writing Coach agent to improve the logical flow of the template so that dealers can easily follow the issue summary, actions taken, and required next steps.
+     ![](../media/module-9/ms4004-m9-l9.png)
 
-        ```
-        Review the attached template and improve its logical flow so dealers can easily follow the issue summary, investigation details, actions taken, required next steps, and expected outcomes. Reorganize sections if needed to improve readability and usability.
-        ```
+1. To improve the organization of the template, enter the provided prompt in the **Writing Coach** agent prompt box.
 
-14.  Review the document. Note the text the agent displayed at the end of its response, which indicates why the revised flow improves communication.
+     ```
+     Review the attached template and improve its logical flow so dealers can easily follow the issue summary, investigation details, actions taken, required next steps, and expected outcomes. Reorganize sections if needed to improve readability and usability.
+     ```
+
+14. Review the document. Note the text the agent displayed at the end of its response, which indicates why the revised flow improves communication.
 
 15. Finally, ask the agent what other changes it would suggest to improve this template.
 
@@ -189,3 +201,7 @@ Perform the following steps to complete this task:
 ## Summary
 
 In this task, you used Microsoft 365 Copilot in Word to create a standardized dealer response template for handling product-quality concerns. You enhanced the template with detailed case-tracking fields, structured tables, escalation guidance, and dealer follow-up checklists. You then used the Writing Coach agent to improve tone, readability, and document flow, resulting in a professional, reusable communication template that promotes consistency, efficiency, and high-quality dealer interactions across Tailwind Traders' support organization.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

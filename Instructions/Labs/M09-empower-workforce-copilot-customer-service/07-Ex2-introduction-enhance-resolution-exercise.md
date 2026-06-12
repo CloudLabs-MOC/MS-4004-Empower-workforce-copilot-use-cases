@@ -8,8 +8,7 @@ Copilot assists support managers and agents by generating well‑structured temp
 
 By using Copilot to assist with content creation, quality reviews, and knowledge organization, Customer Service teams can deliver resolutions that feel more polished, more personalized, and more reliable. In this exercise, you use Copilot to rewrite communications, build structured documentation systems, craft professional templates, and generate higher‑quality insights—all aimed at elevating the consistency and professionalism of the customer experience.
 
-> [!TIP]
-> The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
+> **!TIP:** The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
 
 ## Scenario
 
@@ -19,5 +18,8 @@ As Tailwind’s Customer Service Manager, you’re responsible not only for reso
 
 Dealers provided feedback that some responses feel incomplete or lack clarity on next steps. Others reported difficulty locating documentation or escalation paths when submitting product‑quality concerns. Internally, support reps are relying on ad‑hoc notes, past emails, or improvised templates, all of which make it difficult to maintain consistent tone, thoroughness, and accuracy.
 
-
 Tailwind's VP of Customer Experience, Holly Dickson, wants to create a more polished and predictable customer‑resolution experience. To achieve that goal, Holly asked you to lead an initiative to modernize and elevate the company's customer‑facing outputs. You plan to utilize Microsoft 365 Copilot as a strategic partner—helping you analyze support trends, streamline content creation, and deliver polished, consistent outputs that elevate the customer experience.
+
+Click on **Next** from the lower right corner to move on to the next page.
+
+  ![](../media/ms4004-next.png)

@@ -1,6 +1,6 @@
 # Exercise 2, Task 3: Use Copilot’s Ideas Coach agent to create a troubleshooting guide
 
-## Overview
+## Scenario
 
 Tailwind Traders uncovered a recurring customer service challenge: dealers often request troubleshooting for the same types of product issues—such as performance concerns, quality defects, setup difficulties, and compatibility questions. Currently, support reps craft responses on the fly, leading to inconsistent instructions, missing steps, and uneven quality in dealer guidance.
 
@@ -16,7 +16,13 @@ Instead of manually designing this guide from scratch, you plan to use Copilot�
 
 You then plan to save and refine the output into a reusable Word document (or any format you choose). Doing so should help ensure Tailwind’s dealers receive clear, professional, and consistent troubleshooting instructions, improving their ability to resolve issues efficiently and reducing follow‑up workload for your support reps.
 
-Perform the following steps to complete this task:
+## Lab Overview
+
+In this lab, you will use Copilot’s Idea Coach agent to design a reusable dealer-facing troubleshooting guide framework for Tailwind Traders. You will brainstorm troubleshooting workflows, diagnostic procedures, escalation criteria, evidence requirements, and visual design concepts, then organize them into a structured outline that can be transformed into a formal troubleshooting guide.
+
+## Task 3: Use Copilot’s Ideas Coach agent to create a troubleshooting guide
+
+In this task, you will use the Idea Coach agent to generate and organize ideas for a dealer-facing troubleshooting guide, including troubleshooting paths, diagnostic tests, evidence checklists, escalation triggers, visual navigation concepts, and a reusable guide structure that can be adapted across multiple product lines.
 
 1. Navigate back to the browser tab where you have Microsoft 365 Copilot open and under the **Agents** section select **All agents (1)**. 
 
@@ -40,7 +46,7 @@ Perform the following steps to complete this task:
     How can I structure this troubleshooting guide so it can be reused across different product lines without requiring major changes? Suggest a flexible framework that can be adapted to various products.
     ```
 
-1. You now want to explore the different troubleshooting journeys that dealers might follow. Ask Idea Coach to identify separate troubleshooting paths for common categories of issues and recommend the decision points that dealers should encounter during each path.
+1. To explore the different troubleshooting journeys that dealers might follow. Ask Idea Coach to identify separate troubleshooting paths for common categories of issues and recommend the decision points that dealers should encounter during each path.
 
     ```
     Help me identify separate troubleshooting paths for:
@@ -58,7 +64,7 @@ Perform the following steps to complete this task:
     What information and evidence should dealers provide before troubleshooting begins? Help me create a comprehensive evidence checklist that improves diagnostic accuracy and reduces support effort.
     ```
 
-1. Once you understand what information is needed, you want to identify quick diagnostic activities that dealers can perform themselves before contacting support. Ask Idea Coach to brainstorm practical tests for different categories of issues.
+1. Once you understand what information is needed, to identify quick diagnostic activities that dealers can perform themselves before contacting support. Ask Idea Coach to brainstorm practical tests for different categories of issues.
 
     ```
     Suggest quick diagnostic tests that dealers could perform before escalating an issue. Provide ideas for:
@@ -81,7 +87,7 @@ Perform the following steps to complete this task:
     - Business-critical situations
     ```
 
-1. You now have a significant amount of information and want to determine how the troubleshooting process should be visually represented. Ask Idea Coach to recommend visual approaches that would help dealers easily navigate the process.
+1. To identify suitable visual formats, enter the provided prompt in the **Idea Coach** agent prompt box.
     
     ```
     What would be the most effective way to visually represent this troubleshooting process? Suggest flowcharts, decision trees, and swimlane diagrams,
@@ -95,7 +101,7 @@ Perform the following steps to complete this task:
     and other design elements that would improve usability.
     ```
 
-1. At this point, you have enough ideas to begin organizing the guide. Ask Idea Coach to recommend a logical structure and table of contents for a dealer-facing troubleshooting guide based on all the ideas generated so far.
+1. Ask the **Idea Coach** agent to recommend a logical structure and table of contents for a dealer-facing troubleshooting guide based on all ideas generated so far.
     
     ```
     Based on all the ideas we've discussed, suggest a table of contents and logical structure for a dealer-facing troubleshooting guide.
@@ -113,22 +119,26 @@ Perform the following steps to complete this task:
     What additional ideas, best practices, or dealer-support improvements would strengthen this troubleshooting guide?
     ```
 
-1. You’re now satisfied with the ideas and framework that have been generated. Ask Idea Coach to consolidate the key recommendations into a single outline that can serve as the foundation for a formal troubleshooting guide document.
+1. To create a foundation for the troubleshooting guide, enter the provided prompt in the **Idea Coach** agent prompt box:
     
     ```
     Summarize all of the ideas we've discussed into a consolidated outline that can be used as the foundation for a dealer-facing troubleshooting guide.
     ```
 
-1. Once you're satisfied with the final outline, select the **Edit in Pages** icon at the end of the response. From within Pages, select **Create**, and then select **Document**. Doing so generates a document in Word for the web that contains the framework and ideas generated during your brainstorming session. 
-
-    Click on **Open Word** to open the document.
+1. Once you're satisfied with the final outline, select the **Edit in Pages (1)** icon at the end of the response. From within Pages, select **Create (2)**, and then select **Document (3)**. Doing so generates a document in Word for the web that contains the framework and ideas generated during your brainstorming session. 
 
     ![](../media/module-9/E2T3S16-0306.png)
 
     ![](../media/module-9/E2T3S16a-0306.png)
+
+1.  Click on **Open Word** to open the document.
 
 1. In a real-world scenario, you could now use Copilot in Word or the Writing Coach agent to transform this framework into a polished dealer-facing troubleshooting guide. Since you already worked with the Writing Coach in the previous task, we'll stop at the ideation and framework-building stage.
 
 ## Summary
 
 In this task, you used Copilot’s Idea Coach agent to brainstorm and organize ideas for a dealer-facing troubleshooting guide. You explored troubleshooting workflows, evidence requirements, diagnostic tests, escalation criteria, visual design concepts, and guide structures. You then consolidated these ideas into a reusable framework that can serve as the foundation for a consistent troubleshooting guide across Tailwind Traders’ product lines.
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)
