@@ -1,5 +1,7 @@
 # Exercise 1: Prepare for regulatory response and litigation readiness using Microsoft 365 Copilot
 
+## Overview
+
 Modern legal departments are under increasing pressure to respond quickly and accurately to regulatory inquiries, contract risks, litigation exposure, and compliance demands. Microsoft 365 Copilot gives companies a powerful advantage by transforming how legal teams analyze information, prepare documentation, and coordinate responses. Instead of manually reviewing dense regulations or lengthy contracts, Copilot helps lawyers and compliance professionals rapidly interpret requirements, identify red flags, and generate internal guidance tailored to the organization’s needs.
 
 In high‑stakes situations, such as responding to regulatory audits or preparing for potential litigation, speed and clarity matter. Copilot accelerates workflows by summarizing complex documents, drafting guidance in plain language, generating issue briefs for leadership, and helping teams visualize obligations and timelines. Tools like Copilot Chat, Copilot in Word, and the Researcher agent empower legal teams to quickly turn scattered information into actionable insights.
@@ -8,10 +10,9 @@ Beyond analysis and drafting, Copilot also supports operational readiness. Throu
 
 This exercise shows how Microsoft 365 Copilot enables companies to transform their regulatory response workflows—moving from reactive, manual processes to fast, structured, AI‑supported legal readiness.
 
-> [!TIP]
-> The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
+> **TIP:** The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
 
-### Scenario
+## Scenario
 
 In this exercise, you take on the role of an Associate Counsel for Boulder Innovations. Boulder is a mid‑sized manufacturer specializing in consumer electronics, smart home accessories, and a growing line of technology‑enhanced play products. Their portfolio includes interactive educational toys, remote controlled toys, connected devices, and modular electronic components used across multiple product families.
 
@@ -45,3 +46,6 @@ Your job is to lead the first wave of regulatory readiness tasks using Microsoft
 - Exercise 1 - Task 4: Use Copilot Studio to create a Regulatory Inquiry Assistant
 - Exercise 1 -  Task 5: Ask the Regulatory Inquiry Assistant questions related to an audit
 
+Click on **Next** from the lower right corner to move on to the next page.
+
+  ![](../media/ms4004-next.png)

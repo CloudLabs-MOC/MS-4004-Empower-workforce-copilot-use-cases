@@ -12,13 +12,6 @@ Your two main objectives are:
 
 - Draft a legal brief tailored to department heads across IT, Marketing, and Product Development. This document should outline the next steps each team must take to help the company achieve compliance. Avoid legal jargon—write in plain, accessible language that makes it easy for nonlegal stakeholders to understand their responsibilities and timelines.
 
-#### Using Copilot Chat  
-
-In Copilot Chat on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in‑depth response style depending on the task.
-
-When Copilot Chat opens in **Work** mode, the response mode selector isn’t shown. In **Work** mode, Copilot is optimized for secure, work‑context queries, so it automatically manages response depth for you. When you switch to **Web** mode, the response mode selector appears, allowing you to choose between faster responses or deeper reasoning. Once the selector is enabled, it remains visible as you switch between **Work** and **Web** modes. 
-<br/>If you’ve used Copilot in Excel, you know that it also includes a response control selector. However, its options are different from the Chat selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might look similar, they control different aspects of Copilot and aren't the same setting.
-
 ## Lab Overview
 
 In this hands-on lab, you will use Microsoft 365 Copilot Chat to research and develop legal guidance related to the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA). You will generate compliance-focused summaries, create department-specific legal guidance, and develop actionable recommendations that help Boulder Innovations prepare for privacy regulation requirements. The resulting deliverables will support both legal professionals and business stakeholders in understanding and addressing compliance obligations.
@@ -48,19 +41,22 @@ In this task, you will use Microsoft 365 Copilot Chat to analyze CCPA and CPRA r
 
       ![](../media/Module10/E1T1S5.png)
 
-1. While you feel it’s a good starting point, you’re concerned that it needs to do more to support IT and Legal in establishing retention schedules, deletion protocols, and user data access system. To address this shortcoming, give the following **Copilot Prompt** to add another section.
+1. To strengthen guidance for IT and Legal teams, enter the provided prompt in the **Copilot** prompt box to add a section covering retention schedules, deletion protocols, and user data access systems.
+
     ```
     Add another sectionthat summarizes how CCPA and CPRA affect data retention and deletion policies at Boulder Innovations and provide recommendations on how Boulder can ensure compliance, particularly regarding user rights like data deletion, correction, and access.
     ```
     ![](../media/Module10/E1T1S6.png)
 
-1. You now want Copilot Chat to address privacy-by-design practices and build cross-functional awareness. To do so, give the following **Copilot Prompt** to add another section 
+1. To address privacy-by-design practices and cross-functional awareness, enter the provided prompt in the **Copilot** prompt box to add another section.
+   
     ```
     Add another section that provides an action plan for the Product Development team at Boulder Innovations to help ensure new digital products are compliant with CCPA and CPRA from launch.
     ```
     ![](../media/Module10/E1T1S7.png)
 
-1. At this point, you’re satisfied with the breadth of the document. However, you feel that it might be helpful to the Legal personnel if you create a crosswalk table, which should allow them to quickly see what changed and what needs updated attention. To do so, give the following **Copilot Prompt** to create a table. 
+1. To create a crosswalk table for Legal review, enter the provided prompt in the **Copilot** prompt box.
+
     ```
     Create a table in this document that compares CCPA and CPRA provisions side by side, highlighting any new or expanded obligations under CPRA.
     ```
@@ -68,7 +64,7 @@ In this task, you will use Microsoft 365 Copilot Chat to analyze CCPA and CPRA r
 
 1. In our testing, Copilot sometimes displayed the comparison table in the Chat page, and other times it created a separate document containing the table (for which it provided a link to the document). If it provides a link to a document, select the link and open the downloaded document to verify it looks OK.
 
-1. At this point, you feel the Summary is complete, so you want to save it for distribution to members of the Legal department’s project team assigned to this initiative. Since Copilot Chat responded to each of your prompts with separate responses that weren’t combined into one document, you want it to do so now. give the following **Copilot Prompt** to combine all the information that it generated in its previous responses into one document that you can download. Make sure you include the comparison table.
+1. To prepare the document for distribution, enter the provided prompt in the **Copilot** prompt box to combine all previously generated content into a single downloadable document, including the comparison table.
 
     ```
     Combine all the information that is generated in the previous responses into one document so that I can download. Make sure to include the comparison table.
@@ -78,7 +74,7 @@ In this task, you will use Microsoft 365 Copilot Chat to analyze CCPA and CPRA r
 
 1. Copilot Chat should generate a single document that combines all the information from its prior responses. You’re now ready to address the second requirement for this project.
 
-1. You now want Copilot to draft a legal brief tailored to department heads across IT, Marketing, and Product Development. This document should outline the next steps each team must take to help the company achieve compliance. To create this legal brief, give the following **Copilot Prompt** to create a legal brief. 
+1. To draft a legal brief tailored to department heads across IT, Marketing, and Product Development. This document should outline the next steps each team must take to help the company achieve compliance. To create this legal brief, give the following **Copilot Prompt** to create a legal brief. 
 
     ```
     Create a legal brief that outlines the next steps that the IT, Marketing, and Product Development teams at Boulder Innovations must take to help the company comply with the CCPA and CPRA. This legal brief should be tailored to the heads of each of these three departments. Ask Copilot to use plain, accessible language and avoid legal jargon so that nonlegal stakeholders can easily understand their responsibilities and focus on practical actions, recommended timelines, and how each department's work supports overall compliance.

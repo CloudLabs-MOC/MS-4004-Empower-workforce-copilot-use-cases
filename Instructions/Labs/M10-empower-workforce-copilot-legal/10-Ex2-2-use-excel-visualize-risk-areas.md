@@ -55,7 +55,7 @@ In this task, you will use Microsoft 365 Copilot in Excel to create a 2x2 risk m
 
 1. Verify that each legal risk appears in the correct matrix cell based on its likelihood and impact, and then use **Edit with Copilot** to bold the values in cells **A2** and **A3**.
 
-    ![](../media/Module10/lab10-06-3.png)
+    ![](../media/Module10/lab10-06-9.png)
 
 1. In the **Copilot** prompt box, enter:
 

@@ -1,7 +1,5 @@
 # Exercise 1 - Task 4: Use Copilot Studio to create a Regulatory Inquiry Assistant
 
-## Estimated duration: 44 minutes
-
 ## Scenario
 
 As the audit window opens, the regulatory inquiries begin to trickle in—first a routine clarification, then a request for supporting documentation, then a surprise follow‑up asking for a deeper explanation of data‑handling obligations. Boulder Innovation knows how quickly these routine checks can escalate into a flood.
@@ -30,7 +28,8 @@ In this task, you will use Copilot Studio's Agent Builder to create and configur
     ```
     Create an agent titled Regulatory Inquiry Assistant. The purpose of this agent is to search the web for authoritative CCPA and CPRA guidance and generate clear, well-supported answers to audit-related questions. The agent helps the Legal team respond to regulators with speed, accuracy, and confidence. The agent is a research and drafting aid—not legal counsel. 
     ```
-    ![](../media/Module10/E1T4S4.png)
+    
+    ![](../media/Module10/ms4004-m10-l3.png)
 
 4. After you select the forward arrow, the **Agent Builder page** appears for your new agent. The page opens in the conversational builder experience, where Copilot creates the agent based on your prompt and displays the generated agent name, description, instructions, and knowledge settings. Verfiy all the details and make changes according to your choice.
 
@@ -53,9 +52,9 @@ In this task, you will use Copilot Studio's Agent Builder to create and configur
 
 10. Review Copilot’s recommendations. You’re pleased with its suggestions, so ask Copilot to add them all to the agent's instructions.
 
-        ```
-        Add all of the recommended instructions to the agent.
-        ```
+     ```
+     Add all of the recommended instructions to the agent.
+     ```
 
 11. Once Copilot responds that it updated the instructions, select the **Configure** tab and scroll through the **Instructions**. Note the new items that Copilot added.
 

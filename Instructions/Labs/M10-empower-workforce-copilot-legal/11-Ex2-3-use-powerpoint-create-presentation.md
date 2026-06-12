@@ -32,6 +32,10 @@ In this task, you will use Microsoft 365 Copilot in PowerPoint to generate a fiv
 
 1. In the **Copilot** prompt box, enter the provided prompt to create a five-slide executive presentation based on **Lamna Executive Briefing Source.docx**, and then submit the prompt.
 
+     ```
+     Create a presentation targeted to Lamna Healthcare Company’s executive leadership team. Include five slides that summarize the key findings from the attached Lamna Executive Briefing Source.docx file. Summarize the company’s recent internal audit findings, including policy misalignment, device-handling gaps, and compliance risks. Use visuals and bullet points for clarity.
+     ```
+
      ![](../media/Module10/lab10-06-14.png)
 
 1. Review the follow-up questions, select the options you want to apply, and then select **Confirm**. If prompted to choose a presentation template, either select a template or choose **Skip all** to let Copilot determine the presentation design.

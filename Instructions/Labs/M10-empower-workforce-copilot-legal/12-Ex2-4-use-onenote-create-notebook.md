@@ -16,15 +16,11 @@ In this task, you will use Microsoft 365 Copilot in OneNote to generate complian
 
 1. In Microsoft Edge browser, navigate to the **Microsoft 365** home page, select **App launcher** in the navigation pane, and then select **OneNote**.
 
-2. In **OneNote for the web**, create a new notebook. 
+1. In **OneNote for the web**, click on **+ Create new Notebook**. 
 
-1. Click the notebook name **(1)** at the top-left. In the menu that appears, locate the notebook under Location and click the notebook name link **(2)**.
+1. In the **Create New Notebook** dialog, enter **Support team shared notebook (1)** as the notebook name, and then select **Create (2)**.
 
-    ![](../media/Module10/lab10-06-21.png)
-
-1. In OneDrive. Right-click the notebook and select Rename.
-
-1. Enter the name as **Lamna Compliance Hub** and select **Update**.
+    ![](../media/Module10/ms4004-m10-l4.png)
 
 1. Create the **Regulatory Requirements**, **Device Handling Rules**, and **Training and Certification** sections in the **Lamna Compliance Hub** notebook.
 

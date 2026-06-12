@@ -1,7 +1,5 @@
 # Exercise 1 - Task 3: Use Copilot Researcher to prepare a regulator facing issue brief
 
-## Estimated Duration: 34 minutes
-
 ## Scenario
 
 As Boulder Innovations prepares for its state regulatory audit under heightened data‑protection scrutiny, leadership is asking the company’s Legal Department to provide a clear, high‑level summary of the issues that regulators typically investigate. Because Boulder’s product line includes smart play products and connected devices, regulators are focused on privacy, telemetry collection, consumer data retention, and cross‑border data storage practices.
@@ -20,11 +18,15 @@ In this task, you will use the Researcher agent to analyze emerging CCPA and CPR
 
     ![](../media/Module10/E1T3S1.png)
 
-2. Ask the **Researcher** agent to research common regulatory investigative themes. 
+2. Ask the **Researcher** agent to research common regulatory investigative themes. If the agent is asking more questions, select the report length by clicking Short or Long based on your requirement, and then provide **Go ahead**: 
+    
     ```
     Research common regulatory investigative themes under the California Consumer Privacy Act (CCPA) and its enhancement, the California Privacy Rights Act (CPRA). Identify the top emerging legal risks and enforcement trends.
     ```
+    
     ![](../media/Module10/E1T3S2.png)
+
+    > **NOTE:** Researcher may take 10–15 minutes to complete its analysis, depending on the complexity of the request. Wait for the analysis to finish.
 
 3. Review Researcher’s findings. Then ask Copilot to draft a multiple page **Risk Brief document**.
 
@@ -66,7 +68,7 @@ In this task, you will use the Researcher agent to analyze emerging CCPA and CPR
       ```
       Turn this risk brief into a downloadable Word document.
       ```
-    ![](../media/Module10/E1T3S8.png)
+    ![](../media/Module10/ms4004-m10-l1.png)
 
     > **NOTE:** If Researcher agent tells you that it can’t generate a downloadable document, then perform the following steps to manually create a document:
                     
@@ -77,6 +79,8 @@ In this task, you will use the Researcher agent to analyze emerging CCPA and CPR
     - Select the **Create** button that appears at the top of the form. In the menu that appears, select **Document**.
     
     - Copilot opens a document in **Word** that contains the content from the **Pages** form. Save the document to your OneDrive as **Boulder Risk Brief – Executive Summary.docx**.
+
+      ![](../media/Module10/ms4004-m10-l2.png)
 
 ## Summary
 

@@ -26,7 +26,7 @@ This module equips Legal professionals with the tools to use Copilot effectively
 
 This training module is built around realistic, scenario‑driven exercises that reflect the responsibilities of modern Legal teams. These exercises mirror the daily work of Legal professionals—analyzing regulations, assessing risk, drafting guidance, and coordinating cross‑functional compliance efforts. Copilot strengthens these essential functions by accelerating research, improving clarity, and ensuring that legal information is consistent, defensible, and ready for action.
 
-### Copilot prompting
+## Copilot prompting
 
 One of the primary keys to effectively using Copilot is the quality of your Copilot prompts. A good Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
 
@@ -58,13 +58,14 @@ Before starting this lab, here are the prerequisites you will have in the enviro
 
 
 ## Getting Started with the lab
+
 We've prepared a seamless environment for you to explore and learn about **Module 10 - Empower Workforce Copilot - Legal**. Let's begin by making the most of this experience!
 
 ## Accessing Your Lab Environment
 
 Once the lab environment is ready, the virtual machine displayed on the left will be your primary workspace for completing the exercises, while the **Guide** on the right side provides step-by-step instructions for each task.
 
-##  Lab Guide Zoom In/Zoom Out
+## Lab Guide Zoom In/Zoom Out
 
 To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
 
@@ -111,6 +112,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 1. Under **Welcome to Microsoft 365**, select **Sign in**.
 
     ![](../media/Module3/signin.png)
+
 1. You'll see the **Sign into Microsoft Azure** tab. Here, enter your credentials:
 
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
@@ -135,9 +137,13 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
     ![](../media/Module3/prereq-3.png)
 
-1. In **File Explorer**, navigate to **`C:\LabFiles\MS-4004-Empower-workforce-copilot-use-cases\ResourceFiles`** location and select all the files from the ResourceFiles folder and click **Open**.
+1. In **File Explorer**, navigate to **`C:\AllFiles` (1)** location and select all the files **(2)** from the folder and click **Open (3)**.
 
-1. When the upload is complete, you should see **Uploaded 92 items to My files** in the bottom center of the screen.
+    ![](../media/ms4004-l1-2.png)
+
+1. When the upload is complete, you should see **Uploaded 93 items to My files** in the bottom center of the screen.
+
+    ![](../media/ms4004-l1-3.png)
  
 1. Leave **Edge** open and move on to the next task.
 
@@ -152,6 +158,6 @@ Learner Support Contacts:
 
 Click **Next** from the bottom right corner to embark on your Lab journey!
 
-![](../media/Module3/Next.png)
+  ![](../media/ms4004-next.png)
 
 Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
