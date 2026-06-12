@@ -1,5 +1,7 @@
 # Exercise 2, Task 2: Use Copilot Studio to build a Facility Expansion FAQ agent
 
+## Scenario
+
 Contoso recently began construction on the Fargo distribution center expansion project. As the Operations Lead, you're receiving a growing number of questions from frontline employees, supervisors, logistics teams, safety coordinators, vendors, and leadership stakeholders.
 
 Many of these questions are repetitive and operational in nature, such as:
@@ -20,7 +22,21 @@ This agent should:
 
 > **`Note:`** This task uses the Copilot Studio lite experience, which is designed for business users and doesn't require coding.
 
+## Lab overview
+
+In this hands-on lab, you will use Microsoft Copilot Studio to create a knowledge-based agent that supports a distribution center expansion project. You will explore how Copilot Studio can:
+
+* Generate an agent from natural language instructions.
+* Configure agent behavior, scope, and response guidelines.
+* Connect approved project documents as knowledge sources.
+* Create suggested prompts for common user questions.
+* Test and refine agent responses before deployment.
+
+By the end of this task, you will understand how to use Copilot Studio to build a business-focused agent that delivers accurate, citation-based answers while following organizational guidelines and project-specific constraints.
+
 ## Task 2: Use Copilot Studio to build a Facility Expansion FAQ agent
+
+In this task, you will use Microsoft Copilot Studio to create a Facility Expansion FAQ Assistant for Contoso's Fargo distribution center expansion project. You will configure the agent, define its scope and behavior, connect knowledge sources, and test its ability to answer operational questions accurately.
 
 1. Open a new tab in your **Microsoft Edge** browser and navigate to the Microsoft 365 home page:
 

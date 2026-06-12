@@ -21,6 +21,8 @@ By the end of this task, you will understand how to use both document-editing an
 
 ## Task 2: Use Copilot in Word to Compare Operational Reports
 
+In this task, you will use Microsoft 365 Copilot in Word to generate and refine a report comparing commercial boiler and furnace systems. You will explore how Copilot can create content, revise it for different audiences, and provide research-based insights through both editing and chat experiences.
+
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
     ```
@@ -40,6 +42,8 @@ By the end of this task, you will understand how to use both document-editing an
 1. Select **Copilot** on the ribbon to open the Copilot pane on the right side of the document.
 
 ### Task 2.1 Generate the Boiler vs. Furnace Report
+
+In this task, you will use Copilot to generate a comprehensive report comparing boiler and furnace systems for commercial buildings. The report will include information on efficiency, maintenance, costs, reliability, and considerations for transitioning from one system to another.
 
 1. In the Copilot prompt field, enter the following prompt and select **Submit**:
 
@@ -71,6 +75,8 @@ By the end of this task, you will understand how to use both document-editing an
 
 ### Task 2.2 Revise the Report for an Executive Audience
 
+In this task, you will use Copilot to revise the report for a C-suite executive audience. You will observe how Copilot adjusts the language, structure, and recommendations to focus on strategic and business-oriented decision-making.
+
 1. In the Copilot prompt field, enter the following prompt and select **Submit**:
 
     ```
@@ -87,6 +93,8 @@ By the end of this task, you will understand how to use both document-editing an
     - Business-oriented summaries
 
 ### Task 2.3 Switch to Chat Mode and Summarize
+
+In this task, you will switch from Edit with Copilot to chat mode and use Copilot as a research assistant. You will generate a focused summary of the key differences between boiler and furnace systems without modifying the existing document.
 
 1. Select **New chat** icon in the prompt field. Verify that the icon disappears from the prompt field.
 
@@ -107,6 +115,8 @@ By the end of this task, you will understand how to use both document-editing an
 1. Save the file as **Heating System Comparison**, you will be using this file in upcoming labs.
 
 ### Task 2.4 Export the Summary to a New Word Document
+
+In this task, you will export the chat-generated summary to a new Word document. You will review the exported content and compare the chat-based output with the report created through Copilot's document editing experience to understand the strengths of each approach.
 
 1. Below the Copilot response, review the available action options, which may include **Add to doc**, **Copy response**, and **More actions (...)**.
 

@@ -1,10 +1,26 @@
 # Exercise 2, Task 5: Use Copilot in Outlook to email the safety procedure changes to Operations staff
 
+## Scenario
+
 With the updated safety procedures summarized in OneNote and saved as a PDF file, it's time to distribute the information to the Operations staff across the Fargo distribution center. Leadership wants employees to clearly understand the new risks, restricted areas, and emergency updates related to the facility expansion.
 
 In this task, you'll use Copilot in Outlook to draft a professional, concise, and actionable email based on the safety procedures summary.
 
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft Copilot in Outlook to create and refine an email communication for Operations staff regarding updated safety procedures for a distribution center expansion project. You will explore how Copilot can:
+
+* Generate an email draft based on an attached document.
+* Summarize key safety updates into clear, actionable communication.
+* Refine email content to emphasize critical information such as emergency procedures.
+* Adjust tone and style for professional communication.
+* Send and validate the final message with attachments.
+
+By the end of this task, you will understand how to use Copilot in Outlook to quickly transform operational documents into clear, executive-ready email communications.
+
 ## Task 5: Use Copilot in Outlook to email the safety procedure changes to Operations staff
+
+In this task, you will use Microsoft Copilot in Outlook to draft and refine a professional email to Operations staff at Contoso’s Fargo distribution center. You will summarize safety updates from an attached PDF, enhance the message with key operational details, and ensure the communication is clear, actionable, and appropriately toned.
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
     

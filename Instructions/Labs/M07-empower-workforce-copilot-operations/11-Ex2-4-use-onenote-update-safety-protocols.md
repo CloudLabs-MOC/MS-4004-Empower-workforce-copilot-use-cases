@@ -1,10 +1,26 @@
 # Exercise 2, Task 4: Use Copilot in OneNote to update safety protocols
 
+## Scenario
+
 As the Operations Lead for Contoso's regional distribution center expansion, you discovered that several areas of the existing safety protocol manual are outdated. Temporary construction zones, revised dock procedures, equipment movement, and updated emergency routes all need to be reflected in the latest guidance.
 
 You're tasked with revising the regional distribution center's safety protocols using Copilot in OneNote. Your goal is to review the current procedures, identify impacted areas, generate updated safety guidance, and prepare a summary that can be shared with Operations staff.
 
+## Lab Overview
+
+In this hands-on lab, you will use Microsoft Copilot in OneNote to review and update operational safety documentation for a distribution center expansion project. You will explore how Copilot can:
+
+* Analyze existing safety procedures and identify impacted areas.
+* Generate updated safety protocols based on construction and operational changes.
+* Reformat content into structured, readable OneNote pages.
+* Create concise summaries for operational communication.
+* Export and share updated safety documentation in a portable format.
+
+By the end of this task, you will understand how to use Copilot in OneNote to maintain accurate, up-to-date safety documentation and communicate critical operational changes effectively.
+
 ## Task 4: Use Copilot in OneNote to update safety protocols
+
+In this task, you will use Microsoft Copilot in OneNote to review and update safety protocols for Contoso’s distribution center expansion. You will identify impacted procedures, generate revised safety guidance, organize content into structured pages, and prepare a summary for Operations staff.
 
 1. In your **Microsoft Edge** browser, navigate to the Microsoft 365 home page:
 
@@ -24,7 +40,7 @@ You're tasked with revising the regional distribution center's safety protocols 
 
 1. In **OneDrive**, download the **Contoso Expansion Safety Procedures** notebook. Open it through the desktop app.
 
-     ![](../media/module-4/ms4004-l7-4.png)
+     ![](../media/ms4004-l7-4.png)
 
 1. If its ask for the sign in, then provide email and password to complete the sign in procedure.
 
