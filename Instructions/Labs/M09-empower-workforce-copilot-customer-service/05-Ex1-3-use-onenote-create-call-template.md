@@ -12,10 +12,6 @@ In this lab, you will use Microsoft 365 Copilot in OneNote to create and refine 
 
 ## Task 3: Use Copilot in OneNote to create a call summary template
 
-Perfect bro, then for your OneNote task the **Task Overview** should be:
-
-**Task 3: Use Copilot in OneNote to Create a Call Summary Template**
-
 In this task, you will use Microsoft 365 Copilot in OneNote to create a standardized customer service call summary template. You will enhance the template with severity levels, customer interaction fields, and formatting improvements to support consistent documentation, issue tracking, and follow-up management across the support team.
 
 1. In your Microsoft Edge browser, go to the **Microsoft 365** home page, from the **App launcher (1)**, select **OneNote (2)**.

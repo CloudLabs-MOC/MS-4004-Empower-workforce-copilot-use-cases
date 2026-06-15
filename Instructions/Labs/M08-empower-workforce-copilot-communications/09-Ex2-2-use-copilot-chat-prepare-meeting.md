@@ -8,6 +8,10 @@ One of the core promises of TR-Pulse is responsible transparency: sharing whatâ€
 
 As Trey Researchâ€™s Communications Manager, your role is to support leadership by preparing employee-centered discussion topics for the TR-Pulse town hall. In this task, you'll use Microsoft 365 Copilot Chat to analyze project updates and employee survey data, generate leadership talking points, and build a discussion outline for the upcoming town hall.
 
+## Lab Overview
+
+In this lab, you will use Microsoft 365 Copilot Chat to analyze project updates and employee survey results, generate leadership insights, and create a discussion outline for the TR-Pulse quarterly town hall. You will refine messaging to improve transparency, engagement, and leadership accountability while producing executive-ready communication materials.
+
 ### Task Objectives
 
 In this task, you will:
@@ -25,6 +29,8 @@ Copilot Chat enables Communications professionals to quickly synthesize informat
 In this exercise, you'll use **Work mode** so Copilot can securely access and analyze the files you provide. You'll then use iterative prompting techniques to improve the quality, tone, and transparency of the generated content.
 
 ## Task 2: Use Copilot Chat to prepare for a town hall meeting
+
+In this task, you will use Copilot Chat to analyze project status updates and employee sentiment data, generate leadership-focused insights, and create a transparent, employee-centered discussion outline for the TR-Pulse quarterly town hall.
 
 1. In Microsoft Edge browser, navigate to:
 

@@ -6,7 +6,13 @@ Trey Research is preparing to launch **TR-Pulse**, a new quarterly communication
 
 As the Communications Manager, your goal is to create and publish a compelling announcement that introduces TR-Pulse, explains its purpose, and encourages employees to actively participate in the program.
 
+## Lab Overview
+
+In this lab, you will use Microsoft 365 Copilot in Viva Engage to create and publish a company-wide announcement for the TR-Pulse communication program. You will refine messaging, improve employee engagement and participation, and publish a leadership-aligned announcement that encourages discussion and collaboration across the organization.
+
 ### Task 1.1: Open Viva Engage
+
+In this task, you will access Viva Engage from Microsoft 365 and navigate to the Engage experience.
 
 1. In Microsoft Edge browser, navigate to the **Microsoft 365** home page, select **App launcher** in the navigation pane, and then select **More apps**.
 
@@ -23,6 +29,8 @@ As the Communications Manager, your goal is to create and publish a compelling a
     ![](../media/lab6-06-37.png)
 
 ### Task 1.2: Create a test community
+
+In this task, you will create a dedicated Viva Engage community to test and publish the TR-Pulse announcement.
 
 3. In **Viva Engage**, select **+ Create new (1)** at the top of the **Viva Engage** navigation pane, and then select **Community (2)** in the drop-down menu that appears.
 
@@ -41,6 +49,8 @@ As the Communications Manager, your goal is to create and publish a compelling a
 
 ### Task 1.3: Create a new announcement draft
 
+In this task, you will create a new Viva Engage post and open Copilot to assist with content generation.
+
 1. In Viva Engage, select **+ Create new**.
 
 2. Select **Post**.
@@ -48,6 +58,8 @@ As the Communications Manager, your goal is to create and publish a compelling a
 3. In the post creation window, select the **Copilot** icon to open the Copilot pane.
 
 ### Task 1.4: Generate the announcement using Copilot
+
+In this task, you will use Copilot to draft a company-wide announcement introducing the TR-Pulse communication program and encouraging employee participation.
 
 1. In the Copilot pane, enter a prompt requesting a company-wide announcement for the TR-Pulse launch.
 
@@ -76,6 +88,8 @@ As the Communications Manager, your goal is to create and publish a compelling a
 
 ### Task 1.5: Improve the opening message
 
+In this task, you will refine the introduction to make the announcement more personal, engaging, and employee-focused.
+
 1. Review the opening paragraph of the announcement.
 
 2. Ask Copilot to rewrite the introduction so that it feels more personal and employee-focused.
@@ -90,6 +104,8 @@ As the Communications Manager, your goal is to create and publish a compelling a
 
 ### Task 1.6: Improve the call to action
 
+In this task, you will strengthen the call to action by adding clear and accessible ways for employees to participate.
+
 1. Ask Copilot to strengthen the call to action.
 
    Example prompt:
@@ -101,6 +117,8 @@ As the Communications Manager, your goal is to create and publish a compelling a
 2. Review the updated call to action.
 
 ### Task 1.7: Incorporate the revisions
+
+In this task, you will update the full announcement with the approved improvements and finalize the content.
 
 1. Ask Copilot to rewrite the full announcement using the revised introduction and call to action.
 
@@ -118,6 +136,8 @@ As the Communications Manager, your goal is to create and publish a compelling a
 
 ### Task 1.8: Add the announcement to the post
 
+In this task, you will insert the finalized announcement into the Viva Engage post editor and review the content.
+
 1. When the announcement is finalized, select **+ Add to post** in the Copilot pane.
 
    ![](../media/ms4004-l8-17.png)
@@ -127,6 +147,8 @@ As the Communications Manager, your goal is to create and publish a compelling a
 3. Remove any extra Copilot-generated text that isn't part of the announcement (for example, explanatory text or prompt references).
 
 ### Task 1.9: Publish the announcement
+
+In this task, you will publish the announcement to the TR-Pulse community and verify that it appears successfully in the community feed.
 
 1. Verify that the **TR-Pulse-testing-<inject key="DeploymentID" enableCopy="false"/> (1)** community is selected as the destination.
 

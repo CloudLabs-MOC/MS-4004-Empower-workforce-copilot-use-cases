@@ -1,13 +1,18 @@
 # Exercise 1, Task 3: Use Copilot in Excel to analyze communication metrics
 
-
 ## Scenario
 
 As the Communications Manager at Boulder Innovations, one of your responsibilities is evaluating the effectiveness of internal communications. The Senior Leadership Team (SLT) has requested a summary of employee engagement with the company’s quarterly newsletter. To support this request, you'll use Microsoft 365 Copilot in Excel to analyze newsletter engagement data, identify trends, highlight high- and low-performing departments, and generate executive-ready insights.
 
 In this task, you use Copilot in Excel to analyze newsletter open rates and click-through rates, create visualizations, identify engagement patterns, and generate recommendations that can help improve future communication strategies.
 
+## Lab Overview
+
+In this lab, you will use Microsoft 365 Copilot in Excel to analyze newsletter engagement data for Boulder Innovations. You will identify engagement trends, compare departmental performance, generate visualizations, create executive summaries, and develop actionable recommendations to improve future internal communication campaigns.
+
 ### Task 3.1: Open the newsletter engagement workbook
+
+In this task, you will open the newsletter engagement dataset in Excel and prepare the workbook for analysis using Copilot.
 
 1. In Microsoft 365, select **Apps** from the navigation pane and then select **OneDrive**.
 
@@ -20,6 +25,8 @@ In this task, you use Copilot in Excel to analyze newsletter open rates and clic
     ![](../media/ms4004-l8-10.png) 
 
 ### Task 3.2: Analyze newsletter engagement trends
+
+In this task, you will use Copilot to analyze engagement trends, compare departmental performance against overall averages, and identify departments with below-average engagement.
 
 1. In the Copilot pane, enter a prompt asking Copilot to:
 
@@ -42,6 +49,8 @@ In this task, you use Copilot in Excel to analyze newsletter open rates and clic
 
 ### Task 3.3: Create a communication engagement visualization
 
+In this task, you will generate a visualization that compares newsletter open rates and click-through rates across departments to identify engagement patterns.
+
 1. Return to **Sheet1**.
 
 2. In the Copilot pane, enter a prompt requesting a chart that compares departmental engagement metrics.
@@ -60,6 +69,8 @@ In this task, you use Copilot in Excel to analyze newsletter open rates and clic
 
 ### Task 3.4: Identify top and bottom performing departments
 
+In this task, you will rank departments by click-through rate and identify the highest- and lowest-performing departments based on engagement metrics.
+
 1. Return to **Sheet1**.
 
 2. Ask Copilot to rank departments based on click-through rate.
@@ -75,6 +86,8 @@ In this task, you use Copilot in Excel to analyze newsletter open rates and clic
 4. Note any departments that may require additional communication support or targeted engagement initiatives.
 
 ### Task 3.5: Generate an executive summary
+
+In this task, you will create an executive-ready summary of newsletter engagement metrics, key findings, and recommendations for improving communication effectiveness.
 
 1. Return to **Sheet1**.
 
@@ -95,6 +108,8 @@ In this task, you use Copilot in Excel to analyze newsletter open rates and clic
    * Recommended improvement actions.
 
 ### Task 3.6: Refine the executive briefing
+
+In this task, you will evaluate additional insights suggested by Copilot and create a prioritized set of recommendations to strengthen the executive briefing.
 
 1. Ask Copilot to suggest additional insights that could improve the executive briefing.
 
@@ -128,3 +143,8 @@ In this task, you used Microsoft 365 Copilot in Excel to:
 * Rank departmental performance.
 * Generate executive-level summaries and recommendations.
 * Develop actionable insights to improve future communication campaigns.
+
+
+## You have successfully completed the task. Click on Next >> to proceed with the next exercise.
+
+![](../media/ms4004-next.png)

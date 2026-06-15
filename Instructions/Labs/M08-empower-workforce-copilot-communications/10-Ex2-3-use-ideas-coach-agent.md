@@ -8,6 +8,10 @@ As the company's Communications Manager, you must design a campaign framework th
 
 In this task, you'll use Copilot's **Idea Coach** agent to brainstorm campaign concepts, create messaging strategies, map communication channels to audiences, and develop measurement plans that can be reused for future TR-Pulse communication cycles.
 
+## Lab Overview
+
+In this lab, you will use Copilot’s Idea Coach agent to create audience-specific communication campaigns for TR-Pulse, develop messaging strategies and channel plans, explore creative concepts, and define engagement measurement approaches. You will build a repeatable communication framework that supports employee engagement across multiple audiences and communication channels.
+
 ### Task Objectives
 
 In this task, you will:
@@ -24,6 +28,8 @@ In this task, you will:
 The Idea Coach agent helps Communications professionals transform high-level objectives into actionable campaign plans. It excels at brainstorming, refining messaging strategies, identifying risks, and generating structured communication frameworks.
 
 ## Task 3: Use the Ideas Coach agent to generate campaign ideas and a channel map
+
+In this task, you will use the Idea Coach agent to develop campaign concepts, communication schedules, audience-specific messaging, creative guidance, engagement metrics, and strategic recommendations for supporting the TR-Pulse communication program.
 
 1. Navigate back to the browser tab where you have Microsoft 365 Copilot open and under **Agents** section select **All agents (1)**. 
 

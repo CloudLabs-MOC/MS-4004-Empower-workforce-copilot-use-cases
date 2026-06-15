@@ -11,7 +11,7 @@ Copilot also plays a critical role in helping Communications teams manage transp
 Finally, Copilot helps Communications teams scale their impact. Through intelligent assistance, idea generation, and guided responses, it enables teams to maintain consistency and responsiveness even as information flows increase. The result is a communication strategy that’s not only informative but also participatory—strengthening trust, improving alignment, and reinforcing a culture where employees feel heard, informed, and valued.
 
 
->> **!TIP:** The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
+> **!TIP:** The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
 
 ## Scenario
 
