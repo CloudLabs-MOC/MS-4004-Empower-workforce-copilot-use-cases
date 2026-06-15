@@ -43,7 +43,7 @@ In this task, you will use Copilot in Loop to build a structured launch campaign
 
     ![Open Copilot pane](../media/module-4/E1T4S4-0206.png)
 
-1. Click on the + icon in the Copilot pane and attach the **Market Insights Report – Smart Workspaces.docx** file that you created in Task 2. 
+1. Click on the **+ (1)** icon in the Copilot pane and attach the **Market Insights Report – Smart Workspaces.docx (2)** file that you created in Task 2. 
 
     ![Attach file](../media/module-4/E1T4S5-0206.png)
 

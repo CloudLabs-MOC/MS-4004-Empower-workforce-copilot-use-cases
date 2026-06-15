@@ -31,7 +31,7 @@ In this task, you will use Copilot in Excel to explore marketing and sales data,
 
 1. In the Microsoft 365 portal, click on the **App launcher (1)** button and select **OneDrive (2)**.
 
-    ![](./media/app-launcher-excel.png)
+    ![](../media/module-4/prereq-2.png)
 
 1. In **OneDrive for the web**, select the **MyFiles** from left menu, and then select the **Contoso Chai Tea market trends.xlsx** spreadsheet.
 
