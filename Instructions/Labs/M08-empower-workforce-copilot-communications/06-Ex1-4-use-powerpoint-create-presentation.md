@@ -16,13 +16,13 @@ In this task, you will create a new PowerPoint presentation and open the Copilot
 
 1. Navigate back to **Microsoft 365** home page, select **App launcher** in the navigation pane, and then select **PowerPoint** from the **Apps** menu.
 
-    ![](./media/app-launcher-powerpoint.png)
+    ![](../media/app-launcher-powerpoint.png)
 
 1. In **PowerPoint for the web**, click on  **create a blank presentation**.
 
 1. Select **Copilot** at the right bottom of the page and tap to open the Copilot pane.
 
-    ![](./media/copilot-ribbon.png)
+    ![](../media/copilot-ribbon.png)
 
 ### Task 4.2: Attach supporting documents
 
