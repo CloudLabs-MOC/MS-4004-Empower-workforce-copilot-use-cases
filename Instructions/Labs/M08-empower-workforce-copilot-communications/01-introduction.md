@@ -109,9 +109,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
     ![](../media/ms4004-l1-2.png)
 
-1. When the upload is complete, you should see **Uploaded 93 items to My files** in the bottom center of the screen.
-
-    ![](../media/ms4004-l1-3.png)
+1. Wait for all files to finish uploading to **OneDrive**.
 
 1. Leave **Edge** open and move on to the next task.
 
