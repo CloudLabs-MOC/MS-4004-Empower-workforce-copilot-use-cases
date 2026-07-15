@@ -18,13 +18,13 @@ In this task, you will use Microsoft 365 Copilot in Viva Engage to create a comm
 
    ![](../media/Module3/E1T2S1.png)
 
-1. Under the top section of apps in the **Apps** window, select **All apps→ (1)**. In the **All apps** window, scroll down and select **Viva (2)**.
+1. Under the top section of apps in the **Apps** window, select **All apps→ (1)**. In the **All apps** window, scroll down and select **Viva (2)**. Viva opens in a new browser tab.
 
     ![](../media/Module3/E1T2S2.png)
 
-    ![](../media/Module3/E2T2S2i.png)
+    ![](../media/ms4004-07-4.png)
 
-2. In the **Viva for the web** window, select **Engage,** which appears in the navigation pane.
+2. In the **Viva for the web** window, select **Engage,** which appears in the navigation pane. Viva Engage opens in a new browser tab.
 
     ![](../media/Module3/E2T2S3.png)
 
@@ -45,7 +45,7 @@ In this task, you will use Microsoft 365 Copilot in Viva Engage to create a comm
 
 6. In **Viva Engage**, select **+ Create new (1)** at the top of the navigation pane, and then select **Post (2)** in the drop-down menu that appears.
 
-     ![](../media/Module3/E2T2S6.png)
+     ![](../media/ms4004-07-5.png)
 
 7. In the **Post** window, select the Copilot icon to open the Copilot pane.
 

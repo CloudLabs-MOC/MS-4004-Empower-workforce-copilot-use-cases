@@ -24,9 +24,9 @@ In this hands-on lab, you will use Microsoft 365 Copilot in PowerPoint to transf
 
 In this task, you will use Microsoft 365 Copilot in PowerPoint to create an executive presentation using project framework and risk assessment documents. You will generate slides, add executive discussion topics, refine presentation content, and prepare a deck suitable for CIO and leadership reviews.
 
-1. Navigate back to your **Microsoft 365** home page, select **App launcher** in the navigation pane, and then select **PowerPoint** from the **Apps** menu.
+1. Navigate back to your **Microsoft 365** home page, select **App launcher (1)** in the navigation pane, and then select **PowerPoint (2)** from the **Apps** menu.
 
-    ![](../media/Module3/E1T3S1.png)
+    ![](../media/ms4004-07-3.png)
 
 2. In **PowerPoint for the web** window, click on **+ Create a blank presentation**.
 

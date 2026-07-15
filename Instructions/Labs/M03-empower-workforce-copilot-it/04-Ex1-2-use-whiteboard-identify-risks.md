@@ -20,7 +20,7 @@ In this task, you will use Microsoft 365 Copilot in Whiteboard to generate proje
 
    ![](../media/Module3/E1T2S1.png)
 
-1. Under the top section of apps in the **Apps** window, select **All apps→ (1)**. In the **All apps** window, scroll down and select **Whiteboard**.
+1. Under the top section of apps in the **Apps** window, select **All apps→ (1)**. In the **All apps** window, scroll down and select **Whiteboard (2)**.
 
    ![](../media/Module3/E1T2S2.png)
 

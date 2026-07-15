@@ -20,6 +20,10 @@ In this task, you will use Microsoft 365 Copilot Chat to consolidate information
 
    ![](../media/Module3/E1T1S1.png)
 
+   > **Note:** If Microsoft 365 Copilot interface displays Work IQ instead of the Work tab, ensure Work IQ is on. If you prefer the classic interface, turn off the New design toggle to restore the Work and Web tabs.
+
+   ![](../media/ms4004-07-2.png)
+
 1. In **Copilot Chat** on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in depth response style depending on the task.
 
 1. When Copilot Chat opens in **Work** mode, the response mode selector isn’t shown. In **Work** mode, Copilot is optimized for secure, work context queries, so it automatically manages response depth for you. When you switch to **Web** mode, the response mode selector appears, allowing you to choose between faster responses or deeper reasoning. Once the selector is enabled, it remains visible as you switch between **Work** and **Web** modes.

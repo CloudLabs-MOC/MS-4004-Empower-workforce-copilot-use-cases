@@ -18,6 +18,10 @@ In this task, you will use Microsoft 365 Copilot Chat to identify and summarize 
 
    ![](../media/Module3/E2T1S1.png)
 
+   > **Note:** If Microsoft 365 Copilot displays the **New design** experience, **Work IQ** replaces the **Work** and **Web** tabs. For this exercise, ensure **Work IQ** is turned **off** (crossed out) to use **Web**. If you prefer the classic interface, turn off the **New design** toggle to restore the **Work** and **Web** tabs.
+
+    ![](../media/ms4004-07-1.png)
+
 2. Copy and paste in the following prompt that asks Copilot to summarize the upcoming Microsoft 365 features:
   
     >**NOTE:** For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
