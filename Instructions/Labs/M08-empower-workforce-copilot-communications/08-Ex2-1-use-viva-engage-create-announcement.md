@@ -14,15 +14,17 @@ In this lab, you will use Microsoft 365 Copilot in Viva Engage to create and pub
 
 In this task, you will access Viva Engage from Microsoft 365 and navigate to the Engage experience.
 
-1. In Microsoft Edge browser, navigate to the **Microsoft 365** home page, select **App launcher** in the navigation pane, and then select **More apps**.
+1. In Microsoft Edge browser, navigate to the **Microsoft 365** home page, select **App launcher (1)** in the navigation pane, and then select **More apps (2)**.
 
      ![](../media/lab6-06-21.png)
 
 1. In the **Apps** menu that appears, select **All apps**.
 
-     ![](../media/lab6-06-22.png)
+      ![](../media/Module3/E1T2S2.png)
 
-1. In the **All apps** window, scroll down and select **Viva**.
+1. In the **All apps** window, scroll down and select **Viva (1)**.
+
+   ![](../media/ms4004-07-4.png)
 
 2. On the **Viva** home page, select **Engage** in the navigation pane.
 
@@ -51,9 +53,11 @@ In this task, you will create a dedicated Viva Engage community to test and publ
 
 In this task, you will create a new Viva Engage post and open Copilot to assist with content generation.
 
-1. In Viva Engage, select **+ Create new**.
+1. In Viva Engage, select **+ Create new (1)**.
 
-2. Select **Post**.
+2. Select **Post (2)**.
+
+   ![](../media/ms4004-07-5.png)
 
 3. In the post creation window, select the **Copilot** icon to open the Copilot pane.
 

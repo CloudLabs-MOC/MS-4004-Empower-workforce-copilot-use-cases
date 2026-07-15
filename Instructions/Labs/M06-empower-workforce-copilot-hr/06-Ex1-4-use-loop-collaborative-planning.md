@@ -20,11 +20,11 @@ In this task, you will use Copilot in Loop to create development plans for indiv
 
      ![](../media/lab6-06-21.png)
 
-1. Slect **Loop**, If **Loop** doesn't appear in the list, select **All apps**. In the **All apps** window, scroll down and select **Loop**.
+1. Slect **Loop**, If **Loop** doesn't appear in the list, select **All apps (1)**. In the **All apps** window, scroll down and select **Loop (2)**.
 
-     ![](../media/lab6-06-22.png)
+     ![](./media/ms4004-07-6.png)
 
-     ![](../media/lab6-06-23.png)
+     ![](./media/ms4004-07-7.png)
 
 2. In **Loop for the web**, click on **+** and select **New workspace**. Name the workspace **Contoso Manager Development Plans (1)** and click on **Create (2)**.
 

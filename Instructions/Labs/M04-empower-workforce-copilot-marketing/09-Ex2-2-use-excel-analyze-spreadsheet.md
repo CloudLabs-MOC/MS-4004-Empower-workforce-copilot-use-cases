@@ -91,11 +91,11 @@ In this task, you will use Copilot in Excel to explore marketing and sales data,
 
 13. You now want Copilot to analyze your data and suggest a possible formula or calculation that could be useful for your dataset. Doing so is especially helpful in the context of columns that require formulas to provide more insights or automate calculations. Ask Copilot to analyze the data and suggest ways to automate or enhance future work with formulas to make the data analysis faster and more efficient. 
 
-        Use the following prompt:
+    Use the following prompt:
 
-        ```
-        Analyze the data in this spreadsheet and suggest a useful formula or calculation that could enhance our analysis or automate future work. This could be a formula to calculate month-over-month growth, an average engagement rate, a forecast for future sales based on current trends, or any other calculation that would provide valuable insights or make it easier to analyze the data in the future. If you suggest a formula, also add it to the appropriate column in the spreadsheet.
-        ```
+    ```
+    Analyze the data in this spreadsheet and suggest a useful formula or calculation that could enhance our analysis or automate future work. This could be a formula to calculate month-over-month growth, an average engagement rate, a forecast for future sales based on current trends, or any other calculation that would provide valuable insights or make it easier to analyze the data in the future. If you suggest a formula, also add it to the appropriate column in the spreadsheet.
+    ```
 
 14. Review Copilot’s response in the new sheet that it created. Feel free to submit any of Copilot's suggested prompts to improve its analysis of this spreadsheet. 
 

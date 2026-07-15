@@ -14,7 +14,7 @@ In this lab, you will use Microsoft 365 Copilot in PowerPoint to transform commu
 
 In this task, you will create a new PowerPoint presentation and open the Copilot pane to begin building an executive presentation.
 
-1. Navigate back to **Microsoft 365** home page, select **App launcher** in the navigation pane, and then select **PowerPoint** from the **Apps** menu.
+1. Navigate back to **Microsoft 365** home page, select **App launcher (1)** in the navigation pane, and then select **PowerPoint (2)** from the **Apps** menu.
 
     ![](../media/app-launcher-powerpoint.png)
 

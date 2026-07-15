@@ -34,13 +34,15 @@ In this task, you will use Microsoft 365 Copilot in Whiteboard to generate and o
 
     - **Password**: **<inject key="AzureAdUserPassword"></inject>**
 
-1. In the Microsoft 365 portal, click on the **App launcher (1)** button and select **More apps (2)**, then select **Whiteboard (3)**.
+1. In the Microsoft 365 portal, click on the **App launcher (1)** button and select **More apps (2)**.
 
     ![](./media/app-launcher-whiteboard.png)
 
-    ![](./media/app-launcher-whiteboarda.png)
+1. Under the top section of apps in the **Apps** window, select **All apps→ (1)**. In the **All apps** window, scroll down and select **Whiteboard (2)**.
 
-    > **`Note:`** If Whiteboard doesn't appear in the initial list, use the search box or scroll through the full list of Microsoft 365 applications.
+   ![](../media/Module3/E1T2S2.png)
+
+   ![](../media/Module3/E1T2S2i.png)
 
 1. In **Whiteboard for the web**, select **Create new Whiteboard**.
 

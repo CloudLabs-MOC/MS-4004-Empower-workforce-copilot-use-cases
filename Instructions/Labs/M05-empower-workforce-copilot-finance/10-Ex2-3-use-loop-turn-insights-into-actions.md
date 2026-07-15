@@ -28,11 +28,11 @@ In this task, you will use Copilot in Loop to convert contract comparison recomm
 
     ![](./media/app-launcher-loop.png)
 
-1. Now click on the **All apps** adn select **Loop**.
+1. Now click on the **All apps (1)** and select **Loop (2)**.
 
-    ![](./media/app-launcher-loopa.png)
+    ![](./media/ms4004-07-6.png)
 
-    ![](./media/app-launcher-loopb.png)
+    ![](./media/ms4004-07-7.png)
 
 1. In **Loop for the web**, create a new workspace titled:
 

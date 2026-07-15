@@ -94,4 +94,4 @@ In this task, you will use the Writing Coach agent to create promotional content
 
 In this task, you used the Writing Coach agent to draft and refine promotional messages for the Mystic Spice Premium Chai Tea campaign. You started with a basic message and iteratively improved it with the agent's suggestions, making it more emotionally resonant and aligned with the brand voice. You then expanded the message into three distinct themes and developed a carousel concept for social media, complete with captions, visual layout ideas, and animation suggestions. This process demonstrates how Copilot can assist in creating engaging marketing content that resonates with the target audience.
 
-### 🎉 You have successfully completed the Module!
+## You have successfully completed the Module!

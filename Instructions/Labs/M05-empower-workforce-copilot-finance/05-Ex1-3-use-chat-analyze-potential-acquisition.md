@@ -48,6 +48,10 @@ In this task, you will use Copilot Chat to analyze Relecloud's business perspect
 
     ![](./media/copilot-work-mode.png)
 
+    > **Note:** If Microsoft 365 Copilot displays the **New design** experience, **Work IQ** replaces the **Work** and **Web** tabs. For this exercise, ensure **Work IQ** is turned **on** to use **Work**. If you prefer the classic interface, turn off the **New design** toggle to restore the **Work** and **Web** tabs.
+
+    ![](../media/ms4004-07-2.png)
+
 1. In Copilot Chat, select **Add (1)**, and then choose **Attach cloud files (2)** to browse and attach a file from OneDrive.
 
    ![](./media/attach-file.png)

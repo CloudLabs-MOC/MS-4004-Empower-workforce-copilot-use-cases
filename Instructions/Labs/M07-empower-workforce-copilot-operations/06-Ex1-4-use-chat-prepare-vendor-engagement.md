@@ -52,6 +52,10 @@ In this task, you will use Microsoft 365 Copilot Chat in Work mode to convert th
 
     ![](../M05-empower-workforce-copilot-finance/media/copilot-work-mode.png)
 
+    > **Note:** If Microsoft 365 Copilot displays the **New design** experience, **Work IQ** replaces the **Work** and **Web** tabs. For this exercise, ensure **Work IQ** is turned **on** to use **Work**. If you prefer the classic interface, turn off the **New design** toggle to restore the **Work** and **Web** tabs.
+
+    ![](../media/ms4004-07-2.png)
+
 1. In the Copilot prompt field, attach the **Heating System Comparison** report from your **OneDrive**.
 
     ![](./media/attach-report.png)

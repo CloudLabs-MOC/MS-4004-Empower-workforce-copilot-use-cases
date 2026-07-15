@@ -36,6 +36,10 @@ In this task, you will use Copilot Chat to analyze support case summaries and ge
 1. Since this task involves reviewing a file uploaded to OneDrive and generating insights from that internal document, select the **Work** option. The **Web** option doesn’t apply here, since it searches external sources like public websites and blogs. In the Copilot Chat window, attach the **TailwindTraders_SupportCaseSummaries** file in the prompt field.
 
     ![](../M05-empower-workforce-copilot-finance/media/copilot-work-mode.png)
+    
+    > **Note:** If Microsoft 365 Copilot displays the **New design** experience, **Work IQ** replaces the **Work** and **Web** tabs. For this exercise, ensure **Work IQ** is turned **on** to use **Work**. If you prefer the classic interface, turn off the **New design** toggle to restore the **Work** and **Web** tabs.
+
+    ![](../media/ms4004-07-2.png)
 
 1. In the prompt field, click on **+ (1)** and then select **Attach cloud files (2)** that we should see the already files in the onedrive location. 
 

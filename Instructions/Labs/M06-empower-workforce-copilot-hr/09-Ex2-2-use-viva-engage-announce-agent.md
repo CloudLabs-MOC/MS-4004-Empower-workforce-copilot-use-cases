@@ -14,15 +14,17 @@ In this hands-on lab, you will use Viva Engage and Copilot to create an engaging
 
 In this task, you will use Copilot in Viva Engage to create and enhance an announcement introducing the HR Self-Service Assistant to employees. You will refine the messaging, incorporate employee testimonials, and prepare the post for publication in a community environment.
 
-1. In Microsoft Edge browser, navigate to the **Microsoft 365** home page, select **App launcher** in the navigation pane, and then select **More apps**.
+1. In Microsoft Edge browser, navigate to the **Microsoft 365** home page, select **App launcher (1)** in the navigation pane, and then select **More apps (2)**.
 
      ![](../media/lab6-06-21.png)
 
-1. In the **Apps** menu that appears, select **All apps**.
+1. In the **Apps** menu that appears, select **All apps (1)**.
 
-     ![](../media/lab6-06-22.png)
+     ![](../media/ms4004-07-6.png)
 
-1. In the **All apps** window, scroll down and select **Viva**.
+1. In the **All apps** window, scroll down and select **Viva (2)**.
+
+     ![](../media/ms4004-07-4.png)
 
 2. On the **Viva** home page, select **Engage** in the navigation pane.
 
@@ -36,7 +38,9 @@ In this task, you will use Copilot in Viva Engage to create and enhance an annou
 
      ![](../media/ms4004-l6-2.png)
 
-5. In **Viva Engage**, select **+ Create new** at the top of the navigation pane, and then select **Post** in the drop-down menu that appears.
+5. In **Viva Engage**, select **+ Create new (1)** at the top of the navigation pane, and then select **Post (2)** in the drop-down menu that appears.
+
+     ![](../media/ms4004-07-5.png)
 
 6. In the **Post** window, select the **Copilot** icon to open the Copilot pane.
 

@@ -22,6 +22,10 @@ While you’re waiting for the Researcher agent to finish its analysis in Task 1
 
     ![](../media/lab2-06-4.png) 
 
+    > **Note:** If Microsoft 365 Copilot displays the **New design** experience, **Work IQ** replaces the **Work** and **Web** tabs. For this exercise, ensure **Work IQ** is turned **off** (crossed out) to use **Web**. If you prefer the classic interface, turn off the **New design** toggle to restore the **Work** and **Web** tabs.
+
+    ![](../media/ms4004-07-1.png)
+
 3. In the Copilot prompt field, ask Copilot to provide a market overview of energy management systems used in hotels and resorts. Include trends, pain points, and key market players enter the following prompt and submit it.
 
     ```

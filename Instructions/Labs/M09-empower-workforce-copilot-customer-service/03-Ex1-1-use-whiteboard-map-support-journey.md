@@ -22,11 +22,15 @@ In this task, you will use Copilot in Whiteboard to brainstorm, categorize, and 
     https://www.microsoft365.com
     ```
 
-1. In the **Microsoft 365 Copilot Chat** window, click on the **App launcher (1)** button from the left top corner, select **More apps (2)**. From the Apps page, scroll down and select **Whiteboard (3)**.
+1. In the **Microsoft 365 Copilot Chat** window, click on the **App launcher (1)** button from the left top corner, select **More apps (2)**.
 
     ![](../media/module-9/E1T1S2a-0306.png)
 
-    ![](../media/module-9/E1T1S2b-0306.png)
+1. Under the top section of apps in the **Apps** window, select **All apps→ (1)**. In the **All apps** window, scroll down and select **Whiteboard (2)**.
+
+    ![](../media/Module3/E1T2S2.png)
+
+    ![](../media/Module3/E1T2S2i.png)
 
 1. In **Whiteboard**, click on **+ New Whiteboard**.
 

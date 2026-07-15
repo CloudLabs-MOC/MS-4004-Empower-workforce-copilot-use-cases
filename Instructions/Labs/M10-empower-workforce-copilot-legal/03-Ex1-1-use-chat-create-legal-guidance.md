@@ -30,6 +30,10 @@ In this task, you will use Microsoft 365 Copilot Chat to analyze CCPA and CPRA r
 
     ![](../media/Module3/E2T1S1.png)
 
+    > **Note:** If Microsoft 365 Copilot displays the **New design** experience, **Work IQ** replaces the **Work** and **Web** tabs. For this exercise, ensure **Work IQ** is turned **off** (crossed out) to use **Web**. If you prefer the classic interface, turn off the **New design** toggle to restore the **Work** and **Web** tabs.
+
+     ![](../media/ms4004-07-1.png)
+
 1. Ask **Copilot** to outline the key provisions of the CCPA and CPRA acts.
    
     ```
